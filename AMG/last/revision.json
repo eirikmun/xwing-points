@@ -1,0 +1,15 @@
+{
+    "effective_date": "02/23/2024",
+    "format": "Official AMG Points",
+    "files": {
+        "rebelalliance": "rebelalliance.json", 
+        "galacticempire": "galacticempire.json", 
+        "scumandvillainy": "scumandvillainy.json",
+        "resistance": "resistance.json", 
+        "firstorder": "firstorder.json",
+        "galacticrepublic": "galacticrepublic.json",
+        "separatistalliance": "separatistalliance.json",
+        "upgrades": "upgrades.json"
+    }
+
+}

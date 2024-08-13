@@ -1,0 +1,7 @@
+{
+    "AMG": {
+        "description": "The official AMG points",
+        "source": "https://www.atomicmassgames.com/xwing-docs/",
+        "location": "AMG/points-revisions.json"
+    }
+}
