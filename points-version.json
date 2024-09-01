@@ -3,5 +3,10 @@
         "description": "The official AMG points",
         "source": "https://www.atomicmassgames.com/xwing-docs/",
         "location": "AMG/points-revisions.json"
+    },
+    "XWA": {
+        "description": "The X-Wing Alliance community points",
+        "source": "https://www.xwing.life/resources/points",
+        "location": "XWA/points-revisions.json"
     }
 }
