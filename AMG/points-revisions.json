@@ -1,6 +1,7 @@
 {
-    "current_revision": "AMG/last/revision.json",
+    "current_revision": "AMG/sep2024/revision.json",
     "revision_history": [
-        "AMG/last/revision.json"
+        "AMG/last/revision.json",
+        "AMG/sep2024/revision.json"
     ]
 }
