@@ -2,14 +2,14 @@
     "effective_date": "02/23/2024",
     "format": "Official AMG Points",
     "files": {
-        "rebelalliance": "rebelalliance.json", 
-        "galacticempire": "galacticempire.json", 
-        "scumandvillainy": "scumandvillainy.json",
-        "resistance": "resistance.json", 
-        "firstorder": "firstorder.json",
-        "galacticrepublic": "galacticrepublic.json",
-        "separatistalliance": "separatistalliance.json",
-        "upgrades": "upgrades.json"
+        "rebelalliance": "AMG/last/rebelalliance.json", 
+        "galacticempire": "AMG/last/galacticempire.json", 
+        "scumandvillainy": "AMG/last/scumandvillainy.json",
+        "resistance": "AMG/last/resistance.json", 
+        "firstorder": "AMG/last/firstorder.json",
+        "galacticrepublic": "AMG/last/galacticrepublic.json",
+        "separatistalliance": "AMG/last/separatistalliance.json",
+        "upgrades": "AMG/last/upgrades.json"
     }
 
 }
