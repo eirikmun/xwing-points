@@ -1025,7 +1025,7 @@
             "epic": "Yes"
         },
         "tapusk": {
-            "name": "T\u00e1pusk",
+            "name": "Tápusk",
             "subtitle": "Order 66 Informant",
             "limited": 1,
             "cost": 4,
@@ -1463,8 +1463,8 @@
             "epic": "Yes"
         },
         "laetinashera": {
-            "name": "Laetin A\u2019shera",
-            "subtitle": "Car\u2019das Enforcer",
+            "name": "Laetin A'shera",
+            "subtitle": "Car'das Enforcer",
             "limited": 1,
             "cost": 3,
             "loadout": 4,
@@ -2069,7 +2069,7 @@
         },
         "guri": {
             "name": "Guri",
-            "subtitle": "Prince Xizor\u2019s Bodyguard",
+            "subtitle": "Prince Xizor's Bodyguard",
             "limited": 1,
             "cost": 5,
             "loadout": 8,
@@ -2229,7 +2229,7 @@
     },
     "YT-2400 Light Freighter": {
         "leebo-swz103-sl-scumandvillainy": {
-            "name": "\u201cLeebo\u201d",
+            "name": "“Leebo”",
             "subtitle": "He Thinks He's Funny",
             "limited": 1,
             "cost": 6,
@@ -2292,7 +2292,7 @@
             "epic": "Yes"
         },
         "kaatoleeachos": {
-            "name": "Kaa\u2019to Leeachos",
+            "name": "Kaa'to Leeachos",
             "subtitle": "Imposing Marauder",
             "limited": 1,
             "cost": 3,
@@ -2311,7 +2311,7 @@
             "epic": "Yes"
         },
         "ndrusuhlak": {
-            "name": "N\u2019dru Suhlak",
+            "name": "N'dru Suhlak",
             "subtitle": "Hunt Saboteur",
             "limited": 1,
             "cost": 3,

@@ -1,7 +1,7 @@
 {
     "ARC-170 Starfighter": {
         "sinker": {
-            "name": "\u201cSinker\u201d",
+            "name": "“Sinker”",
             "subtitle": "Wolfpack Veteran",
             "limited": 1,
             "cost": 5,
@@ -23,7 +23,7 @@
             "epic": "Yes"
         },
         "jag": {
-            "name": "\u201cJag\u201d",
+            "name": "“Jag”",
             "subtitle": "CT-55/11-9009",
             "limited": 1,
             "cost": 5,
@@ -45,7 +45,7 @@
             "epic": "Yes"
         },
         "oddball-arc170starfighter": {
-            "name": "\u201cOdd Ball\u201d",
+            "name": "“Odd Ball”",
             "subtitle": "CC-2237",
             "limited": 1,
             "cost": 5,
@@ -68,7 +68,7 @@
             "epic": "Yes"
         },
         "wolffe": {
-            "name": "\u201cWolffe\u201d",
+            "name": "“Wolffe”",
             "subtitle": "CC-3636",
             "limited": 1,
             "cost": 4,
@@ -129,7 +129,7 @@
             "epic": "Yes"
         },
         "oddball-siegeofcoruscant": {
-            "name": "\u201cOdd Ball\u201d",
+            "name": "“Odd Ball”",
             "subtitle": "Siege of Coruscant",
             "limited": 1,
             "cost": 5,
@@ -143,7 +143,7 @@
             "epic": "Yes"
         },
         "wolffe-siegeofcoruscant": {
-            "name": "\u201cWolffe\u201d",
+            "name": "“Wolffe”",
             "subtitle": "Siege of Coruscant",
             "limited": 1,
             "cost": 5,
@@ -157,7 +157,7 @@
             "epic": "Yes"
         },
         "jag-siegeofcoruscant": {
-            "name": "\u201cJag\u201d",
+            "name": "“Jag”",
             "subtitle": "Siege of Coruscant",
             "limited": 1,
             "cost": 4,
@@ -301,7 +301,7 @@
         },
         "ahsokatano": {
             "name": "Ahsoka Tano",
-            "subtitle": "\u201cSnips\u201d",
+            "subtitle": "“Snips”",
             "limited": 1,
             "cost": 4,
             "loadout": 7,
@@ -505,7 +505,7 @@
         },
         "ahsokatano-delta7baethersprite": {
             "name": "Ahsoka Tano",
-            "subtitle": "\u201cSnips\u201d",
+            "subtitle": "“Snips”",
             "limited": 1,
             "cost": 5,
             "loadout": 10,
@@ -583,7 +583,7 @@
     },
     "V-19 Torrent Starfighter": {
         "kickback": {
-            "name": "\u201cKickback\u201d",
+            "name": "“Kickback”",
             "subtitle": "Blue Four",
             "limited": 1,
             "cost": 3,
@@ -601,7 +601,7 @@
             "epic": "Yes"
         },
         "oddball": {
-            "name": "\u201cOdd Ball\u201d",
+            "name": "“Odd Ball”",
             "subtitle": "CC-2237",
             "limited": 1,
             "cost": 4,
@@ -620,7 +620,7 @@
             "epic": "Yes"
         },
         "swoop": {
-            "name": "\u201cSwoop\u201d",
+            "name": "“Swoop”",
             "subtitle": "Blue Six",
             "limited": 1,
             "cost": 3,
@@ -639,7 +639,7 @@
             "epic": "Yes"
         },
         "axe": {
-            "name": "\u201cAxe\u201d",
+            "name": "“Axe”",
             "subtitle": "Blue Two",
             "limited": 1,
             "cost": 3,
@@ -657,7 +657,7 @@
             "epic": "Yes"
         },
         "tucker": {
-            "name": "\u201cTucker\u201d",
+            "name": "“Tucker”",
             "subtitle": "Blue Five",
             "limited": 1,
             "cost": 3,
@@ -711,7 +711,7 @@
             "epic": "Yes"
         },
         "kickback-siegeofcoruscant": {
-            "name": "\u201cKickback\u201d",
+            "name": "“Kickback”",
             "subtitle": "Siege of Coruscant",
             "limited": 1,
             "cost": 4,
@@ -725,7 +725,7 @@
             "epic": "Yes"
         },
         "axe-siegeofcoruscant": {
-            "name": "\u201cAxe\u201d",
+            "name": "“Axe”",
             "subtitle": "Siege of Coruscant",
             "limited": 1,
             "cost": 3,
@@ -739,7 +739,7 @@
             "epic": "Yes"
         },
         "slammer": {
-            "name": "\u201cSlammer\u201d",
+            "name": "“Slammer”",
             "subtitle": "Blue Three",
             "limited": 1,
             "cost": 3,
@@ -779,7 +779,7 @@
             "epic": "Yes"
         },
         "ricolie": {
-            "name": "Ric Oli\u00e9",
+            "name": "Ric Olié",
             "subtitle": "Bravo Leader",
             "limited": 1,
             "cost": 4,
@@ -797,7 +797,7 @@
             "epic": "Yes"
         },
         "padmeamidala": {
-            "name": "Padm\u00e9 Amidala",
+            "name": "Padmé Amidala",
             "subtitle": "Aggressive Negotiator",
             "limited": 1,
             "cost": 5,
@@ -814,7 +814,7 @@
             "epic": "Yes"
         },
         "dineeellberger": {
-            "name": "Dine\u00e9 Ellberger",
+            "name": "Dineé Ellberger",
             "subtitle": "Bravo Five",
             "limited": 1,
             "cost": 4,
@@ -951,7 +951,7 @@
             "epic": "Yes"
         },
         "oddball-btlbywing": {
-            "name": "\u201cOdd Ball\u201d",
+            "name": "“Odd Ball”",
             "subtitle": "CC-2237",
             "limited": 1,
             "cost": 4,
@@ -974,7 +974,7 @@
             "epic": "Yes"
         },
         "matchstick": {
-            "name": "\u201cMatchstick\u201d",
+            "name": "“Matchstick”",
             "subtitle": "Shadow Two",
             "limited": 1,
             "cost": 4,
@@ -995,7 +995,7 @@
             "epic": "Yes"
         },
         "broadside": {
-            "name": "\u201cBroadside\u201d",
+            "name": "“Broadside”",
             "subtitle": "Shadow Three",
             "limited": 1,
             "cost": 3,
@@ -1016,7 +1016,7 @@
             "epic": "Yes"
         },
         "goji": {
-            "name": "\u201cGoji\u201d",
+            "name": "“Goji”",
             "subtitle": "Payload Specialist",
             "limited": 1,
             "cost": 4,
@@ -1311,7 +1311,7 @@
     },
     "LAAT/i Gunship": {
         "hawk": {
-            "name": "\u201cHawk\u201d",
+            "name": "“Hawk”",
             "subtitle": "Valkyrie 2929",
             "limited": 1,
             "cost": 5,
@@ -1334,7 +1334,7 @@
             "epic": "Yes"
         },
         "hound": {
-            "name": "\u201cHound\u201d",
+            "name": "“Hound”",
             "subtitle": "Vigilant Tracker",
             "limited": 1,
             "cost": 5,
@@ -1357,7 +1357,7 @@
             "epic": "Yes"
         },
         "warthog": {
-            "name": "\u201cWarthog\u201d",
+            "name": "“Warthog”",
             "subtitle": "Veteran of Kadavo",
             "limited": 1,
             "cost": 6,
@@ -1402,7 +1402,7 @@
             "epic": "Yes"
         },
         "sicko": {
-            "name": "\u201cSicko\u201d",
+            "name": "“Sicko”",
             "subtitle": "CT-1127/549",
             "limited": 1,
             "cost": 5,
@@ -1445,7 +1445,7 @@
             "epic": "Yes"
         },
         "oddball-nimbusclassvwing": {
-            "name": "\u201cOdd Ball\u201d",
+            "name": "“Odd Ball”",
             "subtitle": "CC-2237",
             "limited": 1,
             "cost": 3,
@@ -1465,7 +1465,7 @@
             "epic": "Yes"
         },
         "contrail": {
-            "name": "\u201cContrail\u201d",
+            "name": "“Contrail”",
             "subtitle": "CT-4981",
             "limited": 1,
             "cost": 3,
@@ -1484,7 +1484,7 @@
             "epic": "Yes"
         },
         "klick": {
-            "name": "\u201cKlick\u201d",
+            "name": "“Klick”",
             "subtitle": "GC-1000",
             "limited": 1,
             "cost": 3,
@@ -1535,7 +1535,7 @@
             "epic": "Yes"
         },
         "klick-siegeofcoruscant": {
-            "name": "\u201cKlick\u201d",
+            "name": "“Klick”",
             "subtitle": "Siege of Coruscant",
             "limited": 1,
             "cost": 4,
@@ -1549,7 +1549,7 @@
             "epic": "Yes"
         },
         "contrail-siegeofcoruscant": {
-            "name": "\u201cContrail\u201d",
+            "name": "“Contrail”",
             "subtitle": "Siege of Coruscant",
             "limited": 1,
             "cost": 4,
@@ -1581,7 +1581,7 @@
     },
     "Clone Z-95 Headhunter": {
         "killer": {
-            "name": "\u201cKiller\u201d",
+            "name": "“Killer”",
             "subtitle": "Dependable Closer",
             "limited": 1,
             "cost": 3,
@@ -1601,7 +1601,7 @@
             "epic": "Yes"
         },
         "drift": {
-            "name": "\u201cDrift\u201d",
+            "name": "“Drift”",
             "subtitle": "CT-1020",
             "limited": 1,
             "cost": 4,
@@ -1619,7 +1619,7 @@
             "epic": "Yes"
         },
         "boost": {
-            "name": "\u201cBoost\u201d",
+            "name": "“Boost”",
             "subtitle": "CT-4860",
             "limited": 1,
             "cost": 3,
@@ -1638,7 +1638,7 @@
             "epic": "Yes"
         },
         "stub": {
-            "name": "\u201cStub\u201d",
+            "name": "“Stub”",
             "subtitle": "Scrappy Flier",
             "limited": 1,
             "cost": 3,
@@ -1656,7 +1656,7 @@
             "epic": "Yes"
         },
         "knack": {
-            "name": "\u201cKnack\u201d",
+            "name": "“Knack”",
             "subtitle": "Incautious Instructor",
             "limited": 1,
             "cost": 3,
@@ -1675,7 +1675,7 @@
             "epic": "Yes"
         },
         "hawk-clonez95headhunter": {
-            "name": "\u201cHawk\u201d",
+            "name": "“Hawk”",
             "subtitle": "Valkyrie 2929",
             "limited": 1,
             "cost": 4,
@@ -1728,7 +1728,7 @@
             "epic": "Yes"
         },
         "slider": {
-            "name": "\u201cSlider\u201d",
+            "name": "“Slider”",
             "subtitle": "Evasive Aviator",
             "limited": 1,
             "cost": 3,
@@ -1748,7 +1748,7 @@
             "epic": "Yes"
         },
         "warthog-clonez95headhunter": {
-            "name": "\u201cWarthog\u201d",
+            "name": "“Warthog”",
             "subtitle": "Veteran of Kadavo",
             "limited": 1,
             "cost": 4,

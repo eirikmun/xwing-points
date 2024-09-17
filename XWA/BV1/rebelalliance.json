@@ -280,7 +280,7 @@
     },
     "Attack Shuttle": {
         "zeborrelios": {
-            "name": "\u201cZeb\u201d Orrelios",
+            "name": "“Zeb” Orrelios",
             "subtitle": "Spectre-4",
             "limited": 1,
             "cost": 3,
@@ -415,7 +415,7 @@
     },
     "BTL-A4 Y-wing": {
         "dutchvander": {
-            "name": "\u201cDutch\u201d Vander",
+            "name": "“Dutch” Vander",
             "subtitle": "Gold Leader",
             "limited": 1,
             "cost": 4,
@@ -555,7 +555,7 @@
             "epic": "Yes"
         },
         "dutchvander-battleofyavin": {
-            "name": "\u201cDutch\u201d Vander",
+            "name": "“Dutch” Vander",
             "subtitle": "Battle of Yavin",
             "limited": 1,
             "cost": 4,
@@ -583,7 +583,7 @@
             "epic": "Yes"
         },
         "popskrail-battleofyavin": {
-            "name": "\u201cPops\u201d Krail",
+            "name": "“Pops” Krail",
             "subtitle": "Battle of Yavin",
             "limited": 1,
             "cost": 4,
@@ -597,7 +597,7 @@
             "epic": "Yes"
         },
         "popskrail": {
-            "name": "\u201cPops\u201d Krail",
+            "name": "“Pops” Krail",
             "subtitle": "Gold Five",
             "limited": 1,
             "cost": 3,
@@ -619,7 +619,7 @@
             "epic": "Yes"
         },
         "dutchvander-swz106": {
-            "name": "\u201cDutch\u201d Vander",
+            "name": "“Dutch” Vander",
             "subtitle": "Gold Leader",
             "limited": 1,
             "cost": 4,
@@ -866,7 +866,7 @@
     },
     "Gauntlet Fighter": {
         "chopper-gauntletfighter": {
-            "name": "\u201cChopper\u201d",
+            "name": "“Chopper”",
             "subtitle": "Spectre-3",
             "limited": 1,
             "cost": 6,
@@ -1492,7 +1492,7 @@
     },
     "Sheathipede-class Shuttle": {
         "zeborrelios-sheathipedeclassshuttle": {
-            "name": "\u201cZeb\u201d Orrelios",
+            "name": "“Zeb” Orrelios",
             "subtitle": "Spectre-4",
             "limited": 1,
             "cost": 3,
@@ -1995,7 +1995,7 @@
     },
     "TIE/ln Fighter": {
         "zeborrelios-tielnfighter": {
-            "name": "\u201cZeb\u201d Orrelios",
+            "name": "“Zeb” Orrelios",
             "subtitle": "Spectre-4",
             "limited": 1,
             "cost": 3,
@@ -2254,7 +2254,7 @@
     },
     "VCX-100 Light Freighter": {
         "chopper": {
-            "name": "\u201cChopper\u201d",
+            "name": "“Chopper”",
             "subtitle": "Spectre-3",
             "limited": 1,
             "cost": 6,
@@ -2376,7 +2376,7 @@
     },
     "YT-2400 Light Freighter": {
         "leebo": {
-            "name": "\u201cLeebo\u201d",
+            "name": "“Leebo”",
             "subtitle": "Dry-Witted Droid",
             "limited": 1,
             "cost": 7,
@@ -2437,7 +2437,7 @@
             "epic": "Yes"
         },
         "leebo-swz103-rebelalliance": {
-            "name": "\u201cLeebo\u201d",
+            "name": "“Leebo”",
             "subtitle": "Wisdom of Ages",
             "limited": 1,
             "cost": 6,
@@ -2481,7 +2481,7 @@
             "epic": "Yes"
         },
         "leebo-swz103-sl-rebelalliance": {
-            "name": "\u201cLeebo\u201d",
+            "name": "“Leebo”",
             "subtitle": "He Thinks He's Funny",
             "limited": 1,
             "cost": 7,

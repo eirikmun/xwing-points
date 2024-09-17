@@ -191,7 +191,7 @@
     "Lambda-class T-4a Shuttle": {
         "captainkagi": {
             "name": "Captain Kagi",
-            "subtitle": "The Emperor\u2019s Shuttle Pilot",
+            "subtitle": "The Emperor's Shuttle Pilot",
             "limited": 1,
             "cost": 6,
             "loadout": 22,
@@ -210,7 +210,7 @@
         },
         "coloneljendon": {
             "name": "Colonel Jendon",
-            "subtitle": "Darth Vader\u2019s Shuttle Pilot",
+            "subtitle": "Darth Vader's Shuttle Pilot",
             "limited": 1,
             "cost": 6,
             "loadout": 20,
@@ -893,7 +893,7 @@
     },
     "TIE Reaper": {
         "vizier": {
-            "name": "\u201cVizier\u201d",
+            "name": "“Vizier”",
             "subtitle": "Ruthless Tactician",
             "limited": 1,
             "cost": 4,
@@ -1157,7 +1157,7 @@
     },
     "TIE/ag Aggressor": {
         "doubleedge": {
-            "name": "\u201cDouble Edge\u201d",
+            "name": "“Double Edge”",
             "subtitle": "Contingency Planner",
             "limited": 1,
             "cost": 4,
@@ -1240,7 +1240,7 @@
     },
     "TIE/ca Punisher": {
         "deathrain": {
-            "name": "\u201cDeathrain\u201d",
+            "name": "“Deathrain”",
             "subtitle": "Dexterous Bombardier",
             "limited": 1,
             "cost": 6,
@@ -1263,7 +1263,7 @@
             "epic": "Yes"
         },
         "redline": {
-            "name": "\u201cRedline\u201d",
+            "name": "“Redline”",
             "subtitle": "Adrenaline Junkie",
             "limited": 1,
             "cost": 7,
@@ -1309,7 +1309,7 @@
     },
     "TIE/ln Fighter": {
         "howlrunner": {
-            "name": "\u201cHowlrunner\u201d",
+            "name": "“Howlrunner”",
             "subtitle": "Obsidian Leader",
             "limited": 1,
             "cost": 4,
@@ -1327,7 +1327,7 @@
             "epic": "Yes"
         },
         "maulermithel": {
-            "name": "\u201cMauler\u201d Mithel",
+            "name": "“Mauler” Mithel",
             "subtitle": "Black Two",
             "limited": 1,
             "cost": 3,
@@ -1344,7 +1344,7 @@
             "epic": "Yes"
         },
         "nightbeast": {
-            "name": "\u201cNight Beast\u201d",
+            "name": "“Night Beast”",
             "subtitle": "Obsidian Two",
             "limited": 1,
             "cost": 3,
@@ -1361,7 +1361,7 @@
             "epic": "Yes"
         },
         "scourgeskutu": {
-            "name": "\u201cScourge\u201d Skutu",
+            "name": "“Scourge” Skutu",
             "subtitle": "Seasoned Veteran",
             "limited": 1,
             "cost": 3,
@@ -1377,7 +1377,7 @@
             "epic": "Yes"
         },
         "wampa": {
-            "name": "\u201cWampa\u201d",
+            "name": "“Wampa”",
             "subtitle": "Black Eleven",
             "limited": 1,
             "cost": 3,
@@ -1565,7 +1565,7 @@
             "epic": "Yes"
         },
         "backstabber-battleofyavin": {
-            "name": "\u201cBackstabber\u201d",
+            "name": "“Backstabber”",
             "subtitle": "Battle of Yavin",
             "limited": 1,
             "cost": 4,
@@ -1579,7 +1579,7 @@
             "epic": "Yes"
         },
         "darkcurse-battleofyavin": {
-            "name": "\u201cDark Curse\u201d",
+            "name": "“Dark Curse”",
             "subtitle": "Battle of Yavin",
             "limited": 1,
             "cost": 4,
@@ -1593,7 +1593,7 @@
             "epic": "Yes"
         },
         "maulermithel-battleofyavin": {
-            "name": "\u201cMauler\u201d Mithel",
+            "name": "“Mauler” Mithel",
             "subtitle": "Battle of Yavin",
             "limited": 1,
             "cost": 3,
@@ -1607,7 +1607,7 @@
             "epic": "Yes"
         },
         "wampa-battleofyavin": {
-            "name": "\u201cWampa\u201d",
+            "name": "“Wampa”",
             "subtitle": "Battle of Yavin",
             "limited": 1,
             "cost": 3,
@@ -1671,7 +1671,7 @@
             "epic": "Yes"
         },
         "nightbeast-swz105": {
-            "name": "\u201cNight Beast\u201d",
+            "name": "“Night Beast”",
             "subtitle": "Obsidian Two",
             "limited": 1,
             "cost": 3,
@@ -1743,7 +1743,7 @@
     },
     "TIE/ph Phantom": {
         "echo": {
-            "name": "\u201cEcho\u201d",
+            "name": "“Echo”",
             "subtitle": "Slippery Trickster",
             "limited": 1,
             "cost": 5,
@@ -1763,7 +1763,7 @@
             "epic": "Yes"
         },
         "whisper": {
-            "name": "\u201cWhisper\u201d",
+            "name": "“Whisper”",
             "subtitle": "Soft-Spoken Slayer",
             "limited": 1,
             "cost": 5,
@@ -1820,7 +1820,7 @@
             "epic": "Yes"
         },
         "echo-ssl": {
-            "name": "\u201cEcho\u201d",
+            "name": "“Echo”",
             "subtitle": "Copycat",
             "limited": 1,
             "cost": 5,
@@ -1834,7 +1834,7 @@
             "epic": "Yes"
         },
         "whisper-ssl": {
-            "name": "\u201cWhisper\u201d",
+            "name": "“Whisper”",
             "subtitle": "Unseen Assailant",
             "limited": 1,
             "cost": 5,
@@ -1850,7 +1850,7 @@
     },
     "TIE/sa Bomber": {
         "deathfire": {
-            "name": "\u201cDeathfire\u201d",
+            "name": "“Deathfire”",
             "subtitle": "Unflinching Diehard",
             "limited": 1,
             "cost": 3,
@@ -2006,7 +2006,7 @@
             "epic": "Yes"
         },
         "deathfire-swz98": {
-            "name": "\u201cDeathfire\u201d",
+            "name": "“Deathfire”",
             "subtitle": "Obstinate Bombardier",
             "limited": 1,
             "cost": 3,
@@ -2092,7 +2092,7 @@
     },
     "TIE/sk Striker": {
         "countdown": {
-            "name": "\u201cCountdown\u201d",
+            "name": "“Countdown”",
             "subtitle": "Death Defier",
             "limited": 1,
             "cost": 4,
@@ -2112,7 +2112,7 @@
             "epic": "Yes"
         },
         "duchess": {
-            "name": "\u201cDuchess\u201d",
+            "name": "“Duchess”",
             "subtitle": "Urbane Ace",
             "limited": 1,
             "cost": 4,
@@ -2132,7 +2132,7 @@
             "epic": "Yes"
         },
         "puresabacc": {
-            "name": "\u201cPure Sabacc\u201d",
+            "name": "“Pure Sabacc”",
             "subtitle": "Confident Gambler",
             "limited": 1,
             "cost": 4,
@@ -2187,7 +2187,7 @@
             "epic": "Yes"
         },
         "vagabond": {
-            "name": "\u201cVagabond\u201d",
+            "name": "“Vagabond”",
             "subtitle": "Destitute Demolitionist",
             "limited": 1,
             "cost": 4,
@@ -2272,7 +2272,7 @@
         },
         "mornakee": {
             "name": "Morna Kee",
-            "subtitle": "Determined Attach\u00e9",
+            "subtitle": "Determined Attaché",
             "limited": 1,
             "cost": 7,
             "loadout": 22,
@@ -2332,7 +2332,7 @@
             "epic": "Yes"
         },
         "rampage": {
-            "name": "\u201cRampage\u201d",
+            "name": "“Rampage”",
             "subtitle": "Implacable Pursuer",
             "limited": 1,
             "cost": 4,
