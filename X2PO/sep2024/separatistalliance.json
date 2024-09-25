@@ -300,7 +300,7 @@
             "name": "Feethan Ottraw Autopilot",
             "subtitle": "",
             "limited": 0,
-            "cost": 35,
+            "cost": 34,
             "slots": [
                 "Modification",
                 "Title",
@@ -724,7 +724,7 @@
             "name": "Sun Fac",
             "subtitle": "Archduke’s Enforcer",
             "limited": 1,
-            "cost": 41,
+            "cost": 42,
             "slots": [
                 "Talent",
                 "Talent"
@@ -1194,7 +1194,7 @@
             "name": "Jango Fett",
             "subtitle": "Simple Man",
             "limited": 1,
-            "cost": 79,
+            "cost": 78,
             "slots": [
                 "Talent",
                 "Cannon",
@@ -1278,7 +1278,7 @@
             "name": "Aurra Sing",
             "subtitle": "Bane of the Jedi",
             "limited": 1,
-            "cost": 77,
+            "cost": 75,
             "slots": [
                 "Force Power",
                 "Cannon",

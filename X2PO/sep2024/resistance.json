@@ -214,7 +214,7 @@
             "name": "Han Solo",
             "subtitle": "Jaded Smuggler",
             "limited": 1,
-            "cost": 62,
+            "cost": 60,
             "slots": [
                 "Talent",
                 "Missile",
@@ -839,7 +839,7 @@
             "name": "Venisa Doza",
             "subtitle": "Jade Leader",
             "limited": 1,
-            "cost": 46,
+            "cost": 48,
             "slots": [
                 "Talent",
                 "Astromech",
@@ -1175,7 +1175,7 @@
             "name": "Wilsa Teshlo",
             "subtitle": "Veiled Sorority Privateer",
             "limited": 1,
-            "cost": 32,
+            "cost": 31,
             "slots": [
                 "Tech",
                 "Turret",

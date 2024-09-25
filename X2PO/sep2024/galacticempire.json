@@ -595,7 +595,7 @@
             "name": "Soontir Fel",
             "subtitle": "Ace of Legend",
             "limited": 1,
-            "cost": 57,
+            "cost": 56,
             "slots": [
                 "Talent",
                 "Modification",
@@ -976,7 +976,7 @@
             "name": "Soontir Fel",
             "subtitle": "Battle Over Endor",
             "limited": 1,
-            "cost": 48,
+            "cost": 49,
             "slots": [
                 "Talent",
                 "Modification",
@@ -1795,7 +1795,7 @@
             "name": "“Mauler” Mithel",
             "subtitle": "Battle of Yavin",
             "limited": 1,
-            "cost": 32,
+            "cost": 33,
             "slots": [
                 "Talent"
             ],
@@ -1827,7 +1827,7 @@
             "name": "“Wampa”",
             "subtitle": "Battle of Yavin",
             "limited": 1,
-            "cost": 30,
+            "cost": 31,
             "slots": [],
             "keywords": [
                 "TIE"
@@ -2577,7 +2577,7 @@
             "name": "Planetary Sentinel",
             "subtitle": "",
             "limited": 0,
-            "cost": 31,
+            "cost": 32,
             "slots": [
                 "Device",
                 "Modification",

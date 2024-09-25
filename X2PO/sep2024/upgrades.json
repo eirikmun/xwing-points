@@ -1619,7 +1619,7 @@
     "targetassistmgk300": {
         "name": "Target-Assist MGK-300",
         "cost": {
-            "value": 2
+            "value": 3
         },
         "limited": 0,
         "standard": true,
@@ -3405,7 +3405,7 @@
     "jangofett": {
         "name": "Jango Fett",
         "cost": {
-            "value": 4
+            "value": 3
         },
         "limited": 1,
         "standard": true,
@@ -3617,7 +3617,7 @@
     "primeministeralmec": {
         "name": "Prime Minister Almec",
         "cost": {
-            "value": 9
+            "value": 8
         },
         "limited": 1,
         "standard": true,
@@ -3720,7 +3720,7 @@
     "korkiekryze": {
         "name": "Korkie Kryze",
         "cost": {
-            "value": 7
+            "value": 5
         },
         "limited": 1,
         "standard": true,
@@ -3740,7 +3740,7 @@
     "satinekryze": {
         "name": "Satine Kryze",
         "cost": {
-            "value": 9
+            "value": 7
         },
         "limited": 1,
         "standard": true,
@@ -3760,7 +3760,7 @@
     "talmerrik": {
         "name": "Tal Merrik",
         "cost": {
-            "value": 8
+            "value": 6
         },
         "limited": 1,
         "standard": true,
@@ -3842,7 +3842,7 @@
     "previzsla": {
         "name": "Pre Vizsla",
         "cost": {
-            "value": 9
+            "value": 7
         },
         "limited": 1,
         "standard": true,
@@ -6704,7 +6704,7 @@
             "variable": "size",
             "values": {
                 "Small": 2,
-                "Medium": 3,
+                "Medium": 2,
                 "Large": 4
             }
         },
@@ -9083,7 +9083,7 @@
     "razorcrest": {
         "name": "Razor Crest",
         "cost": {
-            "value": 5
+            "value": 4
         },
         "limited": 1,
         "standard": true,
