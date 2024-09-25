@@ -325,7 +325,7 @@
     },
     "RZ-2 A-wing": {
         "lulolampar": {
-            "name": "L\u2019ulo L\u2019ampar",
+            "name": "L'ulo L'ampar",
             "subtitle": "Luminous Mentor",
             "limited": 1,
             "cost": 4,
@@ -705,7 +705,7 @@
             "epic": "Yes"
         },
         "karekun": {
-            "name": "Kar\u00e9 Kun",
+            "name": "Karé Kun",
             "subtitle": "Woman of Action",
             "limited": 1,
             "cost": 4,
@@ -846,7 +846,7 @@
             "epic": "Yes"
         },
         "caithrenalli": {
-            "name": "C\u2019ai Threnalli",
+            "name": "C'ai Threnalli",
             "subtitle": "Tenacious Survivor",
             "limited": 1,
             "cost": 4,
@@ -954,7 +954,7 @@
         },
         "pammichnerrogoode": {
             "name": "Pammich Nerro Goode",
-            "subtitle": "D\u2019Qar Dispatcher",
+            "subtitle": "D'Qar Dispatcher",
             "limited": 1,
             "cost": 4,
             "loadout": 12,
@@ -1303,7 +1303,7 @@
         },
         "aftabackbar": {
             "name": "Aftab Ackbar",
-            "subtitle": "\u201cJunior\u201d",
+            "subtitle": "“Junior”",
             "limited": 1,
             "cost": 4,
             "loadout": 13,
@@ -1326,7 +1326,7 @@
         },
         "coruskapellim": {
             "name": "Corus Kapellim",
-            "subtitle": "\u201cGentleman Flyer\u201d",
+            "subtitle": "“Gentleman Flyer”",
             "limited": 1,
             "cost": 3,
             "loadout": 8,
@@ -1348,7 +1348,7 @@
             "epic": "Yes"
         },
         "caithrenalli-btanr2ywing": {
-            "name": "C\u2019ai Threnalli",
+            "name": "C'ai Threnalli",
             "subtitle": "Tenacious Survivor",
             "limited": 1,
             "cost": 4,

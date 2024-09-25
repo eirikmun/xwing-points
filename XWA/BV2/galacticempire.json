@@ -4,8 +4,8 @@
             "name": "Lieutenant Karsabi",
             "subtitle": "Brash Noble",
             "limited": 1,
-            "cost": 5,
-            "loadout": 14,
+            "cost": 3,
+            "loadout": 9,
             "slots": [
                 "Talent",
                 "Sensor",
@@ -22,8 +22,8 @@
             "name": "Major Vynder",
             "subtitle": "Pragmatic Survivor",
             "limited": 1,
-            "cost": 5,
-            "loadout": 16,
+            "cost": 4,
+            "loadout": 12,
             "slots": [
                 "Talent",
                 "Sensor",
@@ -40,8 +40,8 @@
             "name": "Nu Squadron Pilot",
             "subtitle": "",
             "limited": 0,
-            "cost": 5,
-            "loadout": 7,
+            "cost": 4,
+            "loadout": 20,
             "slots": [
                 "Sensor",
                 "Cannon",
@@ -57,8 +57,8 @@
             "name": "Rho Squadron Pilot",
             "subtitle": "",
             "limited": 0,
-            "cost": 5,
-            "loadout": 9,
+            "cost": 4,
+            "loadout": 15,
             "slots": [
                 "Talent",
                 "Sensor",
@@ -70,11 +70,11 @@
             "extended": "Yes",
             "epic": "Yes"
         },
-        "lieutenantkarasabi-ssl": {
+        "lieutenantkarsabi-ssl": {
             "name": "Lieutenant Karsabi",
             "subtitle": "Payload Courier",
             "limited": 1,
-            "cost": 5,
+            "cost": 6,
             "loadout": 0,
             "slots": [],
             "keywords": [],
@@ -86,7 +86,7 @@
             "name": "Major Vynder",
             "subtitle": "Helping Hand",
             "limited": 1,
-            "cost": 5,
+            "cost": 6,
             "loadout": 0,
             "slots": [],
             "keywords": [],
@@ -123,7 +123,7 @@
             "subtitle": "Treacherous Viceroy",
             "limited": 1,
             "cost": 7,
-            "loadout": 18,
+            "loadout": 19,
             "slots": [
                 "Talent",
                 "Crew",
@@ -144,7 +144,7 @@
             "name": "Imperial Super Commando",
             "subtitle": "",
             "limited": 0,
-            "cost": 7,
+            "cost": 6,
             "loadout": 10,
             "slots": [
                 "Talent",
@@ -164,37 +164,13 @@
             "epic": "Yes"
         }
     },
-    "Gozanti-class Cruiser": {
-        "outerrimgarrison": {
-            "name": "Outer Rim Garrison",
-            "subtitle": "",
-            "limited": 0,
-            "cost": 67,
-            "loadout": 0,
-            "slots": [
-                "Command",
-                "Hardpoint",
-                "Crew",
-                "Crew",
-                "Gunner",
-                "Team",
-                "Cargo",
-                "Cargo",
-                "Title"
-            ],
-            "keywords": [],
-            "standard": "No",
-            "extended": "No",
-            "epic": "Yes"
-        }
-    },
     "Lambda-class T-4a Shuttle": {
         "captainkagi": {
             "name": "Captain Kagi",
             "subtitle": "The Emperor's Shuttle Pilot",
             "limited": 1,
-            "cost": 6,
-            "loadout": 22,
+            "cost": 5,
+            "loadout": 15,
             "slots": [
                 "Sensor",
                 "Cannon",
@@ -212,12 +188,13 @@
             "name": "Colonel Jendon",
             "subtitle": "Darth Vader's Shuttle Pilot",
             "limited": 1,
-            "cost": 6,
-            "loadout": 20,
+            "cost": 5,
+            "loadout": 13,
             "slots": [
                 "Sensor",
                 "Cannon",
                 "Cannon",
+                "Crew",
                 "Crew",
                 "Modification",
                 "Title"
@@ -231,8 +208,8 @@
             "name": "Lieutenant Sai",
             "subtitle": "Death Squadron Veteran",
             "limited": 1,
-            "cost": 5,
-            "loadout": 14,
+            "cost": 4,
+            "loadout": 3,
             "slots": [
                 "Sensor",
                 "Cannon",
@@ -251,10 +228,12 @@
             "subtitle": "",
             "limited": 0,
             "cost": 5,
-            "loadout": 8,
+            "loadout": 24,
             "slots": [
                 "Sensor",
                 "Cannon",
+                "Crew",
+                "Crew",
                 "Modification"
             ],
             "keywords": [],
@@ -263,39 +242,13 @@
             "epic": "Yes"
         }
     },
-    "Raider-class Corvette": {
-        "outerrimpatrol": {
-            "name": "Outer Rim Patrol",
-            "subtitle": "",
-            "limited": 0,
-            "cost": 134,
-            "loadout": 0,
-            "slots": [
-                "Command",
-                "Torpedo",
-                "Missile",
-                "Hardpoint",
-                "Hardpoint",
-                "Crew",
-                "Crew",
-                "Team",
-                "Team",
-                "Cargo",
-                "Title"
-            ],
-            "keywords": [],
-            "standard": "No",
-            "extended": "No",
-            "epic": "Yes"
-        }
-    },
     "TIE Advanced v1": {
         "baronoftheempire": {
             "name": "Baron of the Empire",
             "subtitle": "",
             "limited": 0,
-            "cost": 4,
-            "loadout": 4,
+            "cost": 3,
+            "loadout": 5,
             "slots": [
                 "Talent",
                 "Sensor",
@@ -313,7 +266,7 @@
             "subtitle": "Master of the Inquisitorious",
             "limited": 1,
             "cost": 5,
-            "loadout": 10,
+            "loadout": 13,
             "slots": [
                 "Sensor",
                 "Missile",
@@ -334,7 +287,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 4,
-            "loadout": 5,
+            "loadout": 13,
             "slots": [
                 "Sensor",
                 "Force Power"
@@ -352,7 +305,7 @@
             "subtitle": "Sadistic Interrogator",
             "limited": 1,
             "cost": 4,
-            "loadout": 6,
+            "loadout": 9,
             "slots": [
                 "Sensor",
                 "Missile",
@@ -372,7 +325,7 @@
             "subtitle": "Ruthless Brute",
             "limited": 1,
             "cost": 4,
-            "loadout": 7,
+            "loadout": 8,
             "slots": [
                 "Force Power",
                 "Sensor",
@@ -393,8 +346,8 @@
             "name": "Darth Vader",
             "subtitle": "Black Leader",
             "limited": 1,
-            "cost": 7,
-            "loadout": 21,
+            "cost": 6,
+            "loadout": 12,
             "slots": [
                 "Sensor",
                 "Missile",
@@ -419,7 +372,7 @@
             "subtitle": "Servant of the Empire",
             "limited": 1,
             "cost": 4,
-            "loadout": 10,
+            "loadout": 8,
             "slots": [
                 "Talent",
                 "Talent",
@@ -439,7 +392,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 4,
-            "loadout": 2,
+            "loadout": 10,
             "slots": [
                 "Sensor",
                 "Talent",
@@ -457,7 +410,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 4,
-            "loadout": 4,
+            "loadout": 12,
             "slots": [
                 "Sensor",
                 "Modification"
@@ -474,7 +427,7 @@
             "subtitle": "Ambitious Engineer",
             "limited": 1,
             "cost": 4,
-            "loadout": 8,
+            "loadout": 9,
             "slots": [
                 "Talent",
                 "Sensor",
@@ -493,7 +446,7 @@
             "subtitle": "Pitiless Administrator",
             "limited": 1,
             "cost": 4,
-            "loadout": 14,
+            "loadout": 12,
             "slots": [
                 "Sensor",
                 "Missile",
@@ -510,7 +463,7 @@
             "name": "Darth Vader",
             "subtitle": "Battle of Yavin",
             "limited": 1,
-            "cost": 6,
+            "cost": 7,
             "loadout": 0,
             "slots": [],
             "keywords": [
@@ -527,10 +480,9 @@
             "subtitle": "Corulag's Finest",
             "limited": 1,
             "cost": 4,
-            "loadout": 8,
+            "loadout": 9,
             "slots": [
                 "Talent",
-                "Tech",
                 "Sensor",
                 "Missile",
                 "Modification"
@@ -546,7 +498,7 @@
             "name": "Darth Vader",
             "subtitle": "Black Leader",
             "limited": 1,
-            "cost": 6,
+            "cost": 7,
             "loadout": 0,
             "slots": [],
             "keywords": [
@@ -578,8 +530,8 @@
             "name": "Alpha Squadron Pilot",
             "subtitle": "",
             "limited": 0,
-            "cost": 4,
-            "loadout": 2,
+            "cost": 3,
+            "loadout": 0,
             "slots": [
                 "Talent",
                 "Configuration"
@@ -596,10 +548,11 @@
             "subtitle": "",
             "limited": 0,
             "cost": 4,
-            "loadout": 3,
+            "loadout": 12,
             "slots": [
                 "Talent",
-                "Configuration"
+                "Configuration",
+                "Modification"
             ],
             "keywords": [
                 "TIE"
@@ -612,10 +565,9 @@
             "name": "Soontir Fel",
             "subtitle": "Ace of Legend",
             "limited": 1,
-            "cost": 5,
-            "loadout": 10,
+            "cost": 4,
+            "loadout": 0,
             "slots": [
-                "Talent",
                 "Talent",
                 "Modification",
                 "Configuration"
@@ -632,7 +584,7 @@
             "subtitle": "Ambitious Ace",
             "limited": 1,
             "cost": 4,
-            "loadout": 9,
+            "loadout": 10,
             "slots": [
                 "Talent",
                 "Talent",
@@ -650,8 +602,8 @@
             "name": "Ciena Ree",
             "subtitle": "Look Through My Eyes",
             "limited": 1,
-            "cost": 5,
-            "loadout": 14,
+            "cost": 4,
+            "loadout": 4,
             "slots": [
                 "Talent",
                 "Talent",
@@ -670,7 +622,7 @@
             "subtitle": "Inferno Two",
             "limited": 1,
             "cost": 4,
-            "loadout": 7,
+            "loadout": 4,
             "slots": [
                 "Talent",
                 "Talent",
@@ -708,7 +660,7 @@
             "subtitle": "Skystrike Superintendent",
             "limited": 1,
             "cost": 4,
-            "loadout": 8,
+            "loadout": 9,
             "slots": [
                 "Talent",
                 "Modification",
@@ -725,8 +677,8 @@
             "name": "Lieutenant Lorrir",
             "subtitle": "Requiem for Brentaal",
             "limited": 1,
-            "cost": 3,
-            "loadout": 6,
+            "cost": 4,
+            "loadout": 13,
             "slots": [
                 "Talent",
                 "Modification",
@@ -744,7 +696,7 @@
             "subtitle": "Alderaanian Zealot",
             "limited": 1,
             "cost": 4,
-            "loadout": 6,
+            "loadout": 11,
             "slots": [
                 "Missile",
                 "Modification",
@@ -832,7 +784,7 @@
             "subtitle": "Manipulative Monster",
             "limited": 1,
             "cost": 5,
-            "loadout": 14,
+            "loadout": 15,
             "slots": [
                 "Force Power",
                 "Talent",
@@ -880,7 +832,7 @@
             "name": "Maus Monare",
             "subtitle": "Battle Over Endor",
             "limited": 1,
-            "cost": 5,
+            "cost": 4,
             "loadout": 0,
             "slots": [],
             "keywords": [
@@ -897,7 +849,7 @@
             "subtitle": "Ruthless Tactician",
             "limited": 1,
             "cost": 4,
-            "loadout": 12,
+            "loadout": 10,
             "slots": [
                 "Crew",
                 "Crew",
@@ -952,8 +904,8 @@
             "name": "Scarif Base Pilot",
             "subtitle": "",
             "limited": 0,
-            "cost": 4,
-            "loadout": 6,
+            "cost": 5,
+            "loadout": 19,
             "slots": [
                 "Crew",
                 "Modification"
@@ -971,8 +923,8 @@
             "name": "Colonel Vessery",
             "subtitle": "Contemplative Commander",
             "limited": 1,
-            "cost": 7,
-            "loadout": 10,
+            "cost": 8,
+            "loadout": 23,
             "slots": [
                 "Talent",
                 "Sensor",
@@ -1012,8 +964,8 @@
             "name": "Delta Squadron Pilot",
             "subtitle": "",
             "limited": 0,
-            "cost": 7,
-            "loadout": 4,
+            "cost": 6,
+            "loadout": 11,
             "slots": [
                 "Sensor",
                 "Cannon",
@@ -1031,7 +983,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 7,
-            "loadout": 6,
+            "loadout": 18,
             "slots": [
                 "Talent",
                 "Sensor",
@@ -1072,7 +1024,7 @@
             "subtitle": "Arrogant Ace",
             "limited": 1,
             "cost": 7,
-            "loadout": 13,
+            "loadout": 14,
             "slots": [
                 "Talent",
                 "Talent",
@@ -1093,7 +1045,7 @@
             "subtitle": "Dark Lord of the Sith",
             "limited": 1,
             "cost": 9,
-            "loadout": 10,
+            "loadout": 5,
             "slots": [
                 "Force Power",
                 "Tech",
@@ -1115,7 +1067,7 @@
             "subtitle": "Reliable Replacement",
             "limited": 1,
             "cost": 7,
-            "loadout": 15,
+            "loadout": 18,
             "slots": [
                 "Talent",
                 "Sensor",
@@ -1134,7 +1086,7 @@
             "name": "Captain Yorr",
             "subtitle": "Battle Over Endor",
             "limited": 1,
-            "cost": 6,
+            "cost": 7,
             "loadout": 0,
             "slots": [],
             "keywords": [],
@@ -1146,7 +1098,7 @@
             "name": "Colonel Jendon",
             "subtitle": "Battle Over Endor",
             "limited": 1,
-            "cost": 7,
+            "cost": 8,
             "loadout": 0,
             "slots": [],
             "keywords": [],
@@ -1160,8 +1112,8 @@
             "name": "“Double Edge”",
             "subtitle": "Contingency Planner",
             "limited": 1,
-            "cost": 4,
-            "loadout": 13,
+            "cost": 3,
+            "loadout": 11,
             "slots": [
                 "Talent",
                 "Turret",
@@ -1181,7 +1133,7 @@
             "name": "Lieutenant Kestal",
             "subtitle": "Innate Deadeye",
             "limited": 1,
-            "cost": 5,
+            "cost": 4,
             "loadout": 19,
             "slots": [
                 "Talent",
@@ -1204,12 +1156,13 @@
             "subtitle": "",
             "limited": 0,
             "cost": 4,
-            "loadout": 12,
+            "loadout": 14,
             "slots": [
                 "Talent",
                 "Turret",
                 "Missile",
-                "Gunner"
+                "Gunner",
+                "Modification"
             ],
             "keywords": [
                 "TIE"
@@ -1222,8 +1175,8 @@
             "name": "Sienar Specialist",
             "subtitle": "",
             "limited": 0,
-            "cost": 4,
-            "loadout": 8,
+            "cost": 3,
+            "loadout": 5,
             "slots": [
                 "Turret",
                 "Missile",
@@ -1243,12 +1196,11 @@
             "name": "“Deathrain”",
             "subtitle": "Dexterous Bombardier",
             "limited": 1,
-            "cost": 6,
-            "loadout": 20,
+            "cost": 5,
+            "loadout": 22,
             "slots": [
                 "Talent",
                 "Sensor",
-                "Torpedo",
                 "Missile",
                 "Payload",
                 "Payload",
@@ -1266,8 +1218,8 @@
             "name": "“Redline”",
             "subtitle": "Adrenaline Junkie",
             "limited": 1,
-            "cost": 7,
-            "loadout": 25,
+            "cost": 6,
+            "loadout": 20,
             "slots": [
                 "Sensor",
                 "Torpedo",
@@ -1289,8 +1241,8 @@
             "name": "Cutlass Squadron Pilot",
             "subtitle": "",
             "limited": 0,
-            "cost": 5,
-            "loadout": 6,
+            "cost": 4,
+            "loadout": 13,
             "slots": [
                 "Sensor",
                 "Torpedo",
@@ -1313,7 +1265,7 @@
             "subtitle": "Obsidian Leader",
             "limited": 1,
             "cost": 4,
-            "loadout": 8,
+            "loadout": 11,
             "slots": [
                 "Talent",
                 "Talent",
@@ -1331,7 +1283,7 @@
             "subtitle": "Black Two",
             "limited": 1,
             "cost": 3,
-            "loadout": 4,
+            "loadout": 11,
             "slots": [
                 "Talent",
                 "Cannon"
@@ -1348,7 +1300,7 @@
             "subtitle": "Obsidian Two",
             "limited": 1,
             "cost": 3,
-            "loadout": 4,
+            "loadout": 6,
             "slots": [
                 "Talent",
                 "Talent"
@@ -1365,9 +1317,10 @@
             "subtitle": "Seasoned Veteran",
             "limited": 1,
             "cost": 3,
-            "loadout": 3,
+            "loadout": 11,
             "slots": [
-                "Talent"
+                "Talent",
+                "Modification"
             ],
             "keywords": [
                 "TIE"
@@ -1381,7 +1334,7 @@
             "subtitle": "Black Eleven",
             "limited": 1,
             "cost": 3,
-            "loadout": 5,
+            "loadout": 11,
             "slots": [
                 "Talent",
                 "Modification"
@@ -1398,8 +1351,10 @@
             "subtitle": "",
             "limited": 0,
             "cost": 2,
-            "loadout": 0,
-            "slots": [],
+            "loadout": 4,
+            "slots": [
+                "Modification"
+            ],
             "keywords": [
                 "TIE"
             ],
@@ -1411,9 +1366,12 @@
             "name": "Black Squadron Ace",
             "subtitle": "",
             "limited": 0,
-            "cost": 2,
-            "loadout": 0,
-            "slots": [],
+            "cost": 3,
+            "loadout": 14,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
             "keywords": [
                 "TIE"
             ],
@@ -1426,7 +1384,7 @@
             "subtitle": "Inferno Three",
             "limited": 1,
             "cost": 3,
-            "loadout": 10,
+            "loadout": 12,
             "slots": [
                 "Cannon",
                 "Talent",
@@ -1463,7 +1421,7 @@
             "subtitle": "Inferno Leader",
             "limited": 1,
             "cost": 4,
-            "loadout": 8,
+            "loadout": 12,
             "slots": [
                 "Talent",
                 "Talent",
@@ -1484,7 +1442,9 @@
             "limited": 0,
             "cost": 2,
             "loadout": 0,
-            "slots": [],
+            "slots": [
+                "Talent"
+            ],
             "keywords": [
                 "TIE"
             ],
@@ -1531,8 +1491,8 @@
             "name": "ISB Jingoist",
             "subtitle": "Heartless Enforcer",
             "limited": 2,
-            "cost": 3,
-            "loadout": 5,
+            "cost": 4,
+            "loadout": 8,
             "slots": [
                 "Talent",
                 "Illicit"
@@ -1549,11 +1509,9 @@
             "subtitle": "Ruthless Remnant Leader",
             "limited": 1,
             "cost": 4,
-            "loadout": 8,
+            "loadout": 10,
             "slots": [
                 "Talent",
-                "Illicit",
-                "Illicit",
                 "Missile",
                 "Modification"
             ],
@@ -1596,7 +1554,7 @@
             "name": "“Mauler” Mithel",
             "subtitle": "Battle of Yavin",
             "limited": 1,
-            "cost": 3,
+            "cost": 4,
             "loadout": 0,
             "slots": [],
             "keywords": [
@@ -1746,67 +1704,10 @@
             "name": "“Echo”",
             "subtitle": "Slippery Trickster",
             "limited": 1,
-            "cost": 5,
-            "loadout": 9,
+            "cost": 4,
+            "loadout": 10,
             "slots": [
                 "Talent",
-                "Talent",
-                "Sensor",
-                "Modification",
-                "Gunner"
-            ],
-            "keywords": [
-                "TIE"
-            ],
-            "standard": "No",
-            "extended": "Yes",
-            "epic": "Yes"
-        },
-        "whisper": {
-            "name": "“Whisper”",
-            "subtitle": "Soft-Spoken Slayer",
-            "limited": 1,
-            "cost": 5,
-            "loadout": 8,
-            "slots": [
-                "Talent",
-                "Sensor",
-                "Modification",
-                "Modification",
-                "Gunner"
-            ],
-            "keywords": [
-                "TIE"
-            ],
-            "standard": "No",
-            "extended": "Yes",
-            "epic": "Yes"
-        },
-        "imdaartestpilot": {
-            "name": "Imdaar Test Pilot",
-            "subtitle": "",
-            "limited": 0,
-            "cost": 5,
-            "loadout": 6,
-            "slots": [
-                "Sensor",
-                "Modification",
-                "Gunner"
-            ],
-            "keywords": [
-                "TIE"
-            ],
-            "standard": "No",
-            "extended": "Yes",
-            "epic": "Yes"
-        },
-        "sigmasquadronace": {
-            "name": "Sigma Squadron Ace",
-            "subtitle": "",
-            "limited": 0,
-            "cost": 6,
-            "loadout": 9,
-            "slots": [
                 "Talent",
                 "Sensor",
                 "Modification",
@@ -1823,7 +1724,7 @@
             "name": "“Echo”",
             "subtitle": "Copycat",
             "limited": 1,
-            "cost": 5,
+            "cost": 6,
             "loadout": 0,
             "slots": [],
             "keywords": [
@@ -1833,17 +1734,74 @@
             "extended": "Yes",
             "epic": "Yes"
         },
+        "whisper": {
+            "name": "“Whisper”",
+            "subtitle": "Soft-Spoken Slayer",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 13,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Modification",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
         "whisper-ssl": {
             "name": "“Whisper”",
             "subtitle": "Unseen Assailant",
             "limited": 1,
-            "cost": 5,
+            "cost": 7,
             "loadout": 0,
             "slots": [],
             "keywords": [
                 "TIE"
             ],
             "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "imdaartestpilot": {
+            "name": "Imdaar Test Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 9,
+            "slots": [
+                "Sensor",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sigmasquadronace": {
+            "name": "Sigma Squadron Ace",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 3,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
             "extended": "Yes",
             "epic": "Yes"
         }
@@ -1854,7 +1812,7 @@
             "subtitle": "Unflinching Diehard",
             "limited": 1,
             "cost": 3,
-            "loadout": 11,
+            "loadout": 7,
             "slots": [
                 "Torpedo",
                 "Missile",
@@ -1874,7 +1832,7 @@
             "subtitle": "Disciplined Instructor",
             "limited": 1,
             "cost": 4,
-            "loadout": 10,
+            "loadout": 7,
             "slots": [
                 "Talent",
                 "Torpedo",
@@ -1897,8 +1855,9 @@
             "subtitle": "",
             "limited": 0,
             "cost": 4,
-            "loadout": 8,
+            "loadout": 10,
             "slots": [
+                "Talent",
                 "Torpedo",
                 "Payload",
                 "Payload",
@@ -1916,8 +1875,8 @@
             "name": "Major Rhymer",
             "subtitle": "Scimitar Leader",
             "limited": 1,
-            "cost": 3,
-            "loadout": 7,
+            "cost": 4,
+            "loadout": 10,
             "slots": [
                 "Talent",
                 "Torpedo",
@@ -1939,7 +1898,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 4,
-            "loadout": 6,
+            "loadout": 12,
             "slots": [
                 "Missile",
                 "Payload",
@@ -1959,7 +1918,7 @@
             "subtitle": "Brash Maverick",
             "limited": 1,
             "cost": 3,
-            "loadout": 7,
+            "loadout": 4,
             "slots": [
                 "Talent",
                 "Talent",
@@ -1995,7 +1954,7 @@
             "name": "Tomax Bren",
             "subtitle": "Brash Maverick",
             "limited": 1,
-            "cost": 5,
+            "cost": 4,
             "loadout": 0,
             "slots": [],
             "keywords": [
@@ -2009,7 +1968,7 @@
             "name": "“Deathfire”",
             "subtitle": "Obstinate Bombardier",
             "limited": 1,
-            "cost": 3,
+            "cost": 4,
             "loadout": 0,
             "slots": [],
             "keywords": [
@@ -2051,7 +2010,7 @@
             "name": "Major Rhymer",
             "subtitle": "Precision Destruction",
             "limited": 1,
-            "cost": 4,
+            "cost": 5,
             "loadout": 0,
             "slots": [],
             "keywords": [
@@ -2101,7 +2060,6 @@
                 "Talent",
                 "Talent",
                 "Payload",
-                "Modification",
                 "Gunner"
             ],
             "keywords": [
@@ -2116,7 +2074,7 @@
             "subtitle": "Urbane Ace",
             "limited": 1,
             "cost": 4,
-            "loadout": 7,
+            "loadout": 12,
             "slots": [
                 "Talent",
                 "Talent",
@@ -2136,7 +2094,7 @@
             "subtitle": "Confident Gambler",
             "limited": 1,
             "cost": 4,
-            "loadout": 9,
+            "loadout": 10,
             "slots": [
                 "Talent",
                 "Payload",
@@ -2155,7 +2113,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 4,
-            "loadout": 5,
+            "loadout": 10,
             "slots": [
                 "Talent",
                 "Payload",
@@ -2173,9 +2131,8 @@
             "subtitle": "",
             "limited": 0,
             "cost": 4,
-            "loadout": 4,
+            "loadout": 10,
             "slots": [
-                "Payload",
                 "Modification",
                 "Gunner"
             ],
@@ -2191,7 +2148,7 @@
             "subtitle": "Destitute Demolitionist",
             "limited": 1,
             "cost": 4,
-            "loadout": 12,
+            "loadout": 20,
             "slots": [
                 "Talent",
                 "Gunner",
@@ -2213,7 +2170,7 @@
             "subtitle": "Inspired Tactician",
             "limited": 1,
             "cost": 7,
-            "loadout": 19,
+            "loadout": 16,
             "slots": [
                 "Talent",
                 "Talent",
@@ -2235,7 +2192,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 7,
-            "loadout": 12,
+            "loadout": 19,
             "slots": [
                 "Torpedo",
                 "Crew",
@@ -2253,7 +2210,7 @@
             "subtitle": "Advisor to Admiral Piett",
             "limited": 1,
             "cost": 7,
-            "loadout": 20,
+            "loadout": 10,
             "slots": [
                 "Talent",
                 "Torpedo",
@@ -2275,7 +2232,7 @@
             "subtitle": "Determined Attaché",
             "limited": 1,
             "cost": 7,
-            "loadout": 22,
+            "loadout": 14,
             "slots": [
                 "Talent",
                 "Torpedo",
@@ -2299,7 +2256,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 5,
-            "loadout": 8,
+            "loadout": 18,
             "slots": [
                 "Cannon",
                 "Cannon",
@@ -2317,7 +2274,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 5,
-            "loadout": 7,
+            "loadout": 17,
             "slots": [
                 "Cannon",
                 "Cannon",
@@ -2336,7 +2293,7 @@
             "subtitle": "Implacable Pursuer",
             "limited": 1,
             "cost": 4,
-            "loadout": 10,
+            "loadout": 12,
             "slots": [
                 "Talent",
                 "Cannon",
@@ -2356,8 +2313,8 @@
             "name": "Lyttan Dree",
             "subtitle": "Onyx 2",
             "limited": 1,
-            "cost": 5,
-            "loadout": 14,
+            "cost": 4,
+            "loadout": 6,
             "slots": [
                 "Sensor",
                 "Cannon",
@@ -2377,8 +2334,8 @@
             "name": "Flight Leader Ubbel",
             "subtitle": "Onyx Leader",
             "limited": 1,
-            "cost": 5,
-            "loadout": 12,
+            "cost": 4,
+            "loadout": 8,
             "slots": [
                 "Talent",
                 "Cannon",

@@ -70,7 +70,7 @@
             "epic": "Yes"
         },
         "holo": {
-            "name": "\u201cHolo\u201d",
+            "name": "“Holo”",
             "subtitle": "Trick of the Light",
             "limited": 1,
             "cost": 5,
@@ -90,7 +90,7 @@
             "epic": "Yes"
         },
         "ember": {
-            "name": "\u201cEmber\u201d",
+            "name": "“Ember”",
             "subtitle": "Dying Flame",
             "limited": 1,
             "cost": 4,
@@ -130,7 +130,7 @@
     },
     "TIE/fo Fighter": {
         "midnight": {
-            "name": "\u201cMidnight\u201d",
+            "name": "“Midnight”",
             "subtitle": "Omega Leader",
             "limited": 1,
             "cost": 3,
@@ -170,7 +170,7 @@
             "epic": "Yes"
         },
         "scorch": {
-            "name": "\u201cScorch\u201d",
+            "name": "“Scorch”",
             "subtitle": "Zeta Leader",
             "limited": 1,
             "cost": 3,
@@ -189,7 +189,7 @@
             "epic": "Yes"
         },
         "static": {
-            "name": "\u201cStatic\u201d",
+            "name": "“Static”",
             "subtitle": "Omega Ace",
             "limited": 1,
             "cost": 3,
@@ -209,7 +209,7 @@
             "epic": "Yes"
         },
         "longshot": {
-            "name": "\u201cLongshot\u201d",
+            "name": "“Longshot”",
             "subtitle": "Zeta Ace",
             "limited": 1,
             "cost": 3,
@@ -247,7 +247,7 @@
             "epic": "Yes"
         },
         "muse": {
-            "name": "\u201cMuse\u201d",
+            "name": "“Muse”",
             "subtitle": "Epsilon Leader",
             "limited": 1,
             "cost": 3,
@@ -332,7 +332,7 @@
             "epic": "Yes"
         },
         "null": {
-            "name": "\u201cNull\u201d",
+            "name": "“Null”",
             "subtitle": "Epsilon Ace",
             "limited": 1,
             "cost": 3,
@@ -411,7 +411,7 @@
     },
     "TIE/sf Fighter": {
         "quickdraw": {
-            "name": "\u201cQuickdraw\u201d",
+            "name": "“Quickdraw”",
             "subtitle": "Defiant Duelist",
             "limited": 1,
             "cost": 5,
@@ -432,7 +432,7 @@
             "epic": "Yes"
         },
         "backdraft": {
-            "name": "\u201cBackdraft\u201d",
+            "name": "“Backdraft”",
             "subtitle": "Fiery Fanatic",
             "limited": 1,
             "cost": 4,
@@ -538,7 +538,7 @@
     },
     "TIE/vn Silencer": {
         "blackout": {
-            "name": "\u201cBlackout\u201d",
+            "name": "“Blackout”",
             "subtitle": "Ill-Fated Test Pilot",
             "limited": 1,
             "cost": 5,
@@ -601,7 +601,7 @@
             "epic": "Yes"
         },
         "recoil": {
-            "name": "\u201cRecoil\u201d",
+            "name": "“Recoil”",
             "subtitle": "Quantity Over Quality",
             "limited": 1,
             "cost": 5,
@@ -621,7 +621,7 @@
             "epic": "Yes"
         },
         "avenger": {
-            "name": "\u201cAvenger\u201d",
+            "name": "“Avenger”",
             "subtitle": "Wrathful Wingmate",
             "limited": 1,
             "cost": 5,
@@ -661,7 +661,7 @@
             "epic": "Yes"
         },
         "rush": {
-            "name": "\u201cRush\u201d",
+            "name": "“Rush”",
             "subtitle": "Adrenaline Junkie",
             "limited": 1,
             "cost": 5,
@@ -912,7 +912,7 @@
     },
     "TIE/se Bomber": {
         "breach": {
-            "name": "\u201cBreach\u201d",
+            "name": "“Breach”",
             "subtitle": "Ordnance Expert",
             "limited": 1,
             "cost": 5,
@@ -936,7 +936,7 @@
             "epic": "Yes"
         },
         "scorch-tiesebomber": {
-            "name": "\u201cScorch\u201d",
+            "name": "“Scorch”",
             "subtitle": "Jad Bean",
             "limited": 1,
             "cost": 3,
@@ -959,7 +959,7 @@
             "epic": "Yes"
         },
         "dread": {
-            "name": "\u201cDread\u201d",
+            "name": "“Dread”",
             "subtitle": "Devotee of Devastation",
             "limited": 1,
             "cost": 3,
@@ -981,7 +981,7 @@
             "epic": "Yes"
         },
         "grudge": {
-            "name": "\u201cGrudge\u201d",
+            "name": "“Grudge”",
             "subtitle": "Hateful Harrier",
             "limited": 1,
             "cost": 4,
@@ -1097,7 +1097,7 @@
             "epic": "Yes"
         },
         "wrath": {
-            "name": "\u201cWrath\u201d",
+            "name": "“Wrath”",
             "subtitle": "Herald of Destruction",
             "limited": 1,
             "cost": 5,
@@ -1118,7 +1118,7 @@
             "epic": "Yes"
         },
         "nightfall": {
-            "name": "\u201cNightfall\u201d",
+            "name": "“Nightfall”",
             "subtitle": "709th Legion Veteran",
             "limited": 1,
             "cost": 4,
@@ -1138,7 +1138,7 @@
             "epic": "Yes"
         },
         "whirlwind": {
-            "name": "\u201cWhirlwind\u201d",
+            "name": "“Whirlwind”",
             "subtitle": "Reap What You Sow",
             "limited": 1,
             "cost": 4,

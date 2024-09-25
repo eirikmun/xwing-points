@@ -1,0 +1,16 @@
+{
+    "effective_date": "Sep. 17, 2024",
+    "format": "Beta Version 2",
+    "author": "The X-Wing Alliance",
+    "subject": "The X-Wing Alliance community point update for X-Wing the miniatures game",
+    "files": {
+        "rebelalliance": "XWA/BV2/rebelalliance.json", 
+        "galacticempire": "XWA/BV2/galacticempire.json", 
+        "scumandvillainy": "XWA/BV2/scumandvillainy.json",
+        "resistance": "XWA/BV2/resistance.json", 
+        "firstorder": "XWA/BV2/firstorder.json",
+        "galacticrepublic": "XWA/BV2/galacticrepublic.json",
+        "separatistalliance": "XWA/BV2/separatistalliance.json",
+        "upgrades": "XWA/BV2/upgrades.json"
+    }
+}

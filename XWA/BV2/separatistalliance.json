@@ -5,9 +5,10 @@
             "subtitle": "",
             "limited": 0,
             "cost": 2,
-            "loadout": 0,
+            "loadout": 5,
             "slots": [
                 "Modification",
+                "Missile",
                 "Configuration"
             ],
             "keywords": [
@@ -21,8 +22,8 @@
             "name": "Precise Hunter",
             "subtitle": "Pinpoint Protocols",
             "limited": 3,
-            "cost": 3,
-            "loadout": 8,
+            "cost": 2,
+            "loadout": 4,
             "slots": [
                 "Cannon",
                 "Modification",
@@ -40,7 +41,7 @@
             "subtitle": "Xi Char Offering",
             "limited": 2,
             "cost": 2,
-            "loadout": 4,
+            "loadout": 2,
             "slots": [
                 "Missile",
                 "Modification",
@@ -57,8 +58,8 @@
             "name": "DFS-081",
             "subtitle": "Preservation Programming",
             "limited": 1,
-            "cost": 2,
-            "loadout": 7,
+            "cost": 3,
+            "loadout": 16,
             "slots": [
                 "Missile",
                 "Modification",
@@ -75,8 +76,8 @@
             "name": "Separatist Drone",
             "subtitle": "",
             "limited": 0,
-            "cost": 2,
-            "loadout": 3,
+            "cost": 3,
+            "loadout": 14,
             "slots": [
                 "Missile",
                 "Modification",
@@ -93,8 +94,8 @@
             "name": "DFS-311",
             "subtitle": "Scouting Drone",
             "limited": 1,
-            "cost": 3,
-            "loadout": 10,
+            "cost": 2,
+            "loadout": 2,
             "slots": [
                 "Missile",
                 "Modification",
@@ -126,7 +127,7 @@
             "name": "DFS-311",
             "subtitle": "Siege of Coruscant",
             "limited": 1,
-            "cost": 3,
+            "cost": 2,
             "loadout": 0,
             "slots": [],
             "keywords": [
@@ -139,7 +140,7 @@
         "haorchallprototype-siegeofcoruscant": {
             "name": "Haor Chall Prototype",
             "subtitle": "Siege of Coruscant",
-            "limited": 1,
+            "limited": 2,
             "cost": 2,
             "loadout": 0,
             "slots": [],
@@ -154,8 +155,8 @@
             "name": "The Iron Assembler",
             "subtitle": "Scintilla Scavenger",
             "limited": 1,
-            "cost": 2,
-            "loadout": 5,
+            "cost": 3,
+            "loadout": 12,
             "slots": [
                 "Missile",
                 "Modification",
@@ -173,8 +174,8 @@
             "name": "Kelrodo-Ai Holdout",
             "subtitle": "Separatist Stalwart",
             "limited": 3,
-            "cost": 2,
-            "loadout": 7,
+            "cost": 3,
+            "loadout": 14,
             "slots": [
                 "Talent",
                 "Missile",
@@ -186,37 +187,13 @@
             "epic": "Yes"
         }
     },
-    "C-ROC Cruiser": {
-        "separatistprivateers": {
-            "name": "Separatist Privateers",
-            "subtitle": "",
-            "limited": 0,
-            "cost": 63,
-            "loadout": 0,
-            "slots": [
-                "Command",
-                "Hardpoint",
-                "Crew",
-                "Crew",
-                "Tactical Relay",
-                "Team",
-                "Cargo",
-                "Payload",
-                "Configuration"
-            ],
-            "keywords": [],
-            "standard": "No",
-            "extended": "No",
-            "epic": "Yes"
-        }
-    },
     "Belbullab-22 Starfighter": {
         "generalgrievous": {
             "name": "General Grievous",
             "subtitle": "Ambitious Cyborg",
             "limited": 1,
-            "cost": 5,
-            "loadout": 14,
+            "cost": 4,
+            "loadout": 11,
             "slots": [
                 "Talent",
                 "Modification",
@@ -234,12 +211,13 @@
             "subtitle": "Techno Union Foreman",
             "limited": 1,
             "cost": 4,
-            "loadout": 9,
+            "loadout": 15,
             "slots": [
                 "Talent",
                 "Modification",
                 "Modification",
-                "Tactical Relay"
+                "Tactical Relay",
+                "Title"
             ],
             "keywords": [],
             "standard": "Yes",
@@ -251,7 +229,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 4,
-            "loadout": 5,
+            "loadout": 17,
             "slots": [
                 "Modification",
                 "Tactical Relay"
@@ -267,8 +245,8 @@
             "name": "Captain Sear",
             "subtitle": "Kage Infiltrator",
             "limited": 1,
-            "cost": 5,
-            "loadout": 17,
+            "cost": 4,
+            "loadout": 7,
             "slots": [
                 "Modification",
                 "Modification",
@@ -284,7 +262,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 4,
-            "loadout": 4,
+            "loadout": 14,
             "slots": [
                 "Talent",
                 "Modification",
@@ -301,8 +279,8 @@
             "name": "Darth Maul",
             "subtitle": "Sith Assassin",
             "limited": 1,
-            "cost": 6,
-            "loadout": 14,
+            "cost": 7,
+            "loadout": 20,
             "slots": [
                 "Cannon",
                 "Torpedo",
@@ -327,8 +305,8 @@
             "name": "Count Dooku",
             "subtitle": "Darth Tyranus",
             "limited": 1,
-            "cost": 7,
-            "loadout": 24,
+            "cost": 6,
+            "loadout": 13,
             "slots": [
                 "Cannon",
                 "Torpedo",
@@ -353,7 +331,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 6,
-            "loadout": 9,
+            "loadout": 15,
             "slots": [
                 "Cannon",
                 "Torpedo",
@@ -375,9 +353,9 @@
                 "Talent",
                 "Torpedo",
                 "Cannon",
-                "Crew",
                 "Payload",
-                "Modification"
+                "Modification",
+                "Title"
             ],
             "keywords": [
                 "Droid"
@@ -408,7 +386,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 3,
-            "loadout": 6,
+            "loadout": 13,
             "slots": [
                 "Torpedo",
                 "Payload",
@@ -427,7 +405,7 @@
             "subtitle": "Time on Target",
             "limited": 3,
             "cost": 3,
-            "loadout": 8,
+            "loadout": 9,
             "slots": [
                 "Payload",
                 "Payload",
@@ -445,8 +423,8 @@
             "name": "DBS-404",
             "subtitle": "Preservation Protocol Not Found",
             "limited": 1,
-            "cost": 4,
-            "loadout": 10,
+            "cost": 3,
+            "loadout": 9,
             "slots": [
                 "Torpedo",
                 "Missile",
@@ -466,7 +444,7 @@
             "subtitle": "Function over Form",
             "limited": 2,
             "cost": 3,
-            "loadout": 9,
+            "loadout": 10,
             "slots": [
                 "Sensor",
                 "Missile",
@@ -486,7 +464,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 3,
-            "loadout": 4,
+            "loadout": 10,
             "slots": [
                 "Missile",
                 "Payload",
@@ -504,8 +482,8 @@
             "name": "DBS-32C",
             "subtitle": "Droid Control Signal Relay",
             "limited": 1,
-            "cost": 4,
-            "loadout": 16,
+            "cost": 3,
+            "loadout": 3,
             "slots": [
                 "Sensor",
                 "Tactical Relay",
@@ -523,7 +501,7 @@
             "name": "DBS-32C",
             "subtitle": "Siege of Coruscant",
             "limited": 1,
-            "cost": 3,
+            "cost": 4,
             "loadout": 0,
             "slots": [],
             "keywords": [
@@ -537,7 +515,7 @@
             "name": "DBS-404",
             "subtitle": "Siege of Coruscant",
             "limited": 1,
-            "cost": 3,
+            "cost": 4,
             "loadout": 0,
             "slots": [],
             "keywords": [
@@ -568,7 +546,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 4,
-            "loadout": 4,
+            "loadout": 7,
             "slots": [
                 "Talent"
             ],
@@ -582,7 +560,7 @@
             "subtitle": "Archduke's Enforcer",
             "limited": 1,
             "cost": 5,
-            "loadout": 15,
+            "loadout": 21,
             "slots": [
                 "Talent",
                 "Talent",
@@ -598,8 +576,8 @@
             "name": "Berwer Kret",
             "subtitle": "Hive Guard Captain",
             "limited": 1,
-            "cost": 4,
-            "loadout": 7,
+            "cost": 3,
+            "loadout": 2,
             "slots": [
                 "Talent",
                 "Talent"
@@ -614,7 +592,7 @@
             "subtitle": "Opportunistic Ace",
             "limited": 1,
             "cost": 4,
-            "loadout": 10,
+            "loadout": 16,
             "slots": [
                 "Talent",
                 "Talent"
@@ -628,8 +606,8 @@
             "name": "Gorgol",
             "subtitle": "Handy Engineer",
             "limited": 1,
-            "cost": 4,
-            "loadout": 9,
+            "cost": 3,
+            "loadout": 7,
             "slots": [
                 "Talent",
                 "Modification"
@@ -643,8 +621,8 @@
             "name": "Petranaki Arena Ace",
             "subtitle": "",
             "limited": 0,
-            "cost": 4,
-            "loadout": 6,
+            "cost": 5,
+            "loadout": 9,
             "slots": [
                 "Talent",
                 "Talent"
@@ -660,8 +638,8 @@
             "name": "DIS-T81",
             "subtitle": "Clever Circuits",
             "limited": 1,
-            "cost": 3,
-            "loadout": 3,
+            "cost": 4,
+            "loadout": 15,
             "slots": [
                 "Talent",
                 "Sensor",
@@ -681,8 +659,8 @@
             "name": "Phlac-Arphocc Prototype",
             "subtitle": "Predictive Analysis Protocol",
             "limited": 2,
-            "cost": 3,
-            "loadout": 6,
+            "cost": 4,
+            "loadout": 14,
             "slots": [
                 "Talent",
                 "Sensor",
@@ -724,7 +702,7 @@
             "subtitle": "Target Acquired",
             "limited": 1,
             "cost": 3,
-            "loadout": 4,
+            "loadout": 3,
             "slots": [
                 "Talent",
                 "Sensor",
@@ -745,7 +723,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 3,
-            "loadout": 3,
+            "loadout": 4,
             "slots": [
                 "Talent",
                 "Missile",
@@ -764,7 +742,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 3,
-            "loadout": 4,
+            "loadout": 5,
             "slots": [
                 "Talent",
                 "Modification",
@@ -781,7 +759,7 @@
             "name": "DIS-347",
             "subtitle": "Siege of Coruscant",
             "limited": 1,
-            "cost": 3,
+            "cost": 4,
             "loadout": 0,
             "slots": [],
             "keywords": [
@@ -824,7 +802,7 @@
             "subtitle": "Impatient Invader",
             "limited": 1,
             "cost": 4,
-            "loadout": 12,
+            "loadout": 10,
             "slots": [
                 "Talent",
                 "Missile",
@@ -844,8 +822,8 @@
             "name": "DGS-047",
             "subtitle": "Adaptive Intelligence",
             "limited": 1,
-            "cost": 3,
-            "loadout": 8,
+            "cost": 4,
+            "loadout": 12,
             "slots": [
                 "Missile",
                 "Missile",
@@ -885,8 +863,8 @@
             "name": "Geonosian Prototype",
             "subtitle": "Devastation Protocols",
             "limited": 2,
-            "cost": 4,
-            "loadout": 12,
+            "cost": 3,
+            "loadout": 8,
             "slots": [
                 "Cannon",
                 "Cannon",
@@ -907,8 +885,8 @@
             "name": "DGS-286",
             "subtitle": "Ambush Protocols",
             "limited": 1,
-            "cost": 3,
-            "loadout": 7,
+            "cost": 4,
+            "loadout": 10,
             "slots": [
                 "Missile",
                 "Missile",
@@ -930,7 +908,7 @@
             "subtitle": "Atmospheric Attack Module",
             "limited": 2,
             "cost": 4,
-            "loadout": 15,
+            "loadout": 14,
             "slots": [
                 "Missile",
                 "Missile",
@@ -967,38 +945,13 @@
             "epic": "Yes"
         }
     },
-    "Trident-Class Assault Ship": {
-        "colicoiddestroyer": {
-            "name": "Colicoid Destroyer",
-            "subtitle": "",
-            "limited": 0,
-            "cost": 85,
-            "loadout": 0,
-            "slots": [
-                "Command",
-                "Torpedo",
-                "Hardpoint",
-                "Hardpoint",
-                "Crew",
-                "Crew",
-                "Gunner",
-                "Team",
-                "Cargo",
-                "Title"
-            ],
-            "keywords": [],
-            "standard": "No",
-            "extended": "No",
-            "epic": "Yes"
-        }
-    },
     "Firespray-class Patrol Craft": {
         "jangofett": {
             "name": "Jango Fett",
             "subtitle": "Simple Man",
             "limited": 1,
             "cost": 8,
-            "loadout": 22,
+            "loadout": 21,
             "slots": [
                 "Talent",
                 "Cannon",
@@ -1022,7 +975,7 @@
             "subtitle": "Clawdite Changeling",
             "limited": 1,
             "cost": 8,
-            "loadout": 22,
+            "loadout": 17,
             "slots": [
                 "Talent",
                 "Cannon",
@@ -1044,8 +997,8 @@
             "name": "Boba Fett",
             "subtitle": "Survivor",
             "limited": 1,
-            "cost": 7,
-            "loadout": 16,
+            "cost": 6,
+            "loadout": 5,
             "slots": [
                 "Cannon",
                 "Missile",
@@ -1066,8 +1019,8 @@
             "name": "Separatist Racketeer",
             "subtitle": "",
             "limited": 0,
-            "cost": 7,
-            "loadout": 10,
+            "cost": 6,
+            "loadout": 9,
             "slots": [
                 "Cannon",
                 "Missile",
@@ -1083,7 +1036,7 @@
             "subtitle": "Bane of the Jedi",
             "limited": 1,
             "cost": 7,
-            "loadout": 10,
+            "loadout": 15,
             "slots": [
                 "Talent",
                 "Cannon",
@@ -1131,7 +1084,7 @@
             "subtitle": "Tenacious Bodyguard",
             "limited": 1,
             "cost": 4,
-            "loadout": 11,
+            "loadout": 16,
             "slots": [
                 "Cannon",
                 "Cannon",
@@ -1150,7 +1103,7 @@
             "subtitle": "",
             "limited": 0,
             "cost": 4,
-            "loadout": 6,
+            "loadout": 16,
             "slots": [
                 "Cannon",
                 "Cannon",
@@ -1168,7 +1121,7 @@
             "subtitle": "Implacable Escort",
             "limited": 2,
             "cost": 4,
-            "loadout": 10,
+            "loadout": 6,
             "slots": [
                 "Cannon",
                 "Cannon",
@@ -1187,7 +1140,7 @@
             "subtitle": "Dueling Droid",
             "limited": 1,
             "cost": 4,
-            "loadout": 11,
+            "loadout": 13,
             "slots": [
                 "Cannon",
                 "Cannon",
@@ -1206,7 +1159,7 @@
             "subtitle": "One Eye",
             "limited": 1,
             "cost": 4,
-            "loadout": 12,
+            "loadout": 8,
             "slots": [
                 "Cannon",
                 "Cannon",
@@ -1225,15 +1178,14 @@
             "subtitle": "On His Own Time",
             "limited": 1,
             "cost": 4,
-            "loadout": 10,
+            "loadout": 6,
             "slots": [
                 "Talent",
                 "Cannon",
                 "Cannon",
                 "Illicit",
                 "Modification",
-                "Modification",
-                "Title"
+                "Modification"
             ],
             "keywords": [
                 "Bounty Hunter"
@@ -1249,7 +1201,7 @@
             "subtitle": "Vizsla's Lieutenant",
             "limited": 1,
             "cost": 6,
-            "loadout": 12,
+            "loadout": 8,
             "slots": [
                 "Talent",
                 "Crew",
@@ -1272,8 +1224,8 @@
             "name": "Pre Vizsla",
             "subtitle": "Leader of Death Watch",
             "limited": 1,
-            "cost": 6,
-            "loadout": 14,
+            "cost": 7,
+            "loadout": 20,
             "slots": [
                 "Talent",
                 "Crew",
@@ -1294,8 +1246,8 @@
             "name": "Death Watch Warrior",
             "subtitle": "Fanatical Adherent",
             "limited": 1,
-            "cost": 7,
-            "loadout": 10,
+            "cost": 6,
+            "loadout": 15,
             "slots": [
                 "Talent",
                 "Crew",
