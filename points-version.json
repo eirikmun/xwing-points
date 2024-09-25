@@ -8,5 +8,10 @@
         "description": "The X-Wing Alliance community points",
         "source": "https://www.xwing.life/resources/points",
         "location": "XWA/points-revisions.json"
+    },
+    "X2PO": {
+        "description": "The X-Wing 2.0 Legacy project points",
+        "source": "http://points.x2po.org/",
+        "location": "X2PO/points-revisions.json"
     }
 }

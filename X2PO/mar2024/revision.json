@@ -1,0 +1,16 @@
+{
+    "effective_date": "2024-03-26",
+    "format": "March 2024 update",
+    "author": "X2PO",
+    "subject": "The X-Wing 2.0 Legacy regular points update",
+    "files": {
+        "rebelalliance": "X2PO/march24/rebelalliance.json",
+        "galacticempire": "X2PO/march24/galacticempire.json",
+        "scumandvillainy": "X2PO/march24/scumandvillainy.json",
+        "resistance": "X2PO/march24/resistance.json",
+        "firstorder": "X2PO/march24/firstorder.json",
+        "galacticrepublic": "X2PO/march24/galacticrepublic.json",
+        "separatistalliance": "X2PO/march24/separatistalliance.json",
+        "upgrades": "X2PO/march24/upgrades.json"
+    }
+}
