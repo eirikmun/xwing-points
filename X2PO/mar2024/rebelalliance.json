@@ -351,7 +351,7 @@
     },
     "Attack Shuttle": {
         "zeborrelios": {
-            "name": "\u201cZeb\u201d Orrelios",
+            "name": "“Zeb” Orrelios",
             "subtitle": "Spectre-4",
             "limited": 1,
             "cost": 33,
@@ -480,7 +480,7 @@
     },
     "BTL-A4 Y-wing": {
         "dutchvander": {
-            "name": "\u201cDutch\u201d Vander",
+            "name": "“Dutch” Vander",
             "subtitle": "Gold Leader",
             "limited": 1,
             "cost": 40,
@@ -643,7 +643,7 @@
             "epic": "Yes"
         },
         "dutchvander-battleofyavin": {
-            "name": "\u201cDutch\u201d Vander",
+            "name": "“Dutch” Vander",
             "subtitle": "Battle of Yavin",
             "limited": 1,
             "cost": 61,
@@ -661,7 +661,7 @@
             ]
         },
         "dutchvander-battleofyavin-lsl": {
-            "name": "\u201cDutch\u201d Vander",
+            "name": "“Dutch” Vander",
             "subtitle": "Battle of Yavin",
             "limited": 1,
             "cost": 44,
@@ -719,7 +719,7 @@
             "epic": "Yes"
         },
         "popskrail-battleofyavin": {
-            "name": "\u201cPops\u201d Krail",
+            "name": "“Pops” Krail",
             "subtitle": "Battle of Yavin",
             "limited": 1,
             "cost": 45,
@@ -737,7 +737,7 @@
             ]
         },
         "popskrail-battleofyavin-lsl": {
-            "name": "\u201cPops\u201d Krail",
+            "name": "“Pops” Krail",
             "subtitle": "Battle of Yavin",
             "limited": 1,
             "cost": 35,
@@ -757,7 +757,7 @@
             "epic": "Yes"
         },
         "popskrail": {
-            "name": "\u201cPops\u201d Krail",
+            "name": "“Pops” Krail",
             "subtitle": "Gold Five",
             "limited": 1,
             "cost": 36,
@@ -777,7 +777,7 @@
             "epic": "Yes"
         },
         "dutchvander-swz106": {
-            "name": "\u201cDutch\u201d Vander",
+            "name": "“Dutch” Vander",
             "subtitle": "Gold Leader",
             "limited": 1,
             "cost": 4,
@@ -1041,7 +1041,7 @@
     },
     "Gauntlet Fighter": {
         "chopper-gauntletfighter": {
-            "name": "\u201cChopper\u201d",
+            "name": "“Chopper”",
             "subtitle": "Spectre-3",
             "limited": 1,
             "cost": 53,
@@ -1792,7 +1792,7 @@
     },
     "Sheathipede-class Shuttle": {
         "zeborrelios-sheathipedeclassshuttle": {
-            "name": "\u201cZeb\u201d Orrelios",
+            "name": "“Zeb” Orrelios",
             "subtitle": "Spectre-4",
             "limited": 1,
             "cost": 33,
@@ -2474,7 +2474,7 @@
     },
     "TIE/ln Fighter": {
         "zeborrelios-tielnfighter": {
-            "name": "\u201cZeb\u201d Orrelios",
+            "name": "“Zeb” Orrelios",
             "subtitle": "Spectre-4",
             "limited": 1,
             "cost": 21,
@@ -2719,7 +2719,7 @@
     },
     "VCX-100 Light Freighter": {
         "chopper": {
-            "name": "\u201cChopper\u201d",
+            "name": "“Chopper”",
             "subtitle": "Spectre-3",
             "limited": 1,
             "cost": 66,
@@ -2841,7 +2841,7 @@
     },
     "YT-2400 Light Freighter": {
         "leebo": {
-            "name": "\u201cLeebo\u201d",
+            "name": "“Leebo”",
             "subtitle": "Dry-Witted Droid",
             "limited": 1,
             "cost": 75,
@@ -2968,7 +2968,7 @@
             ]
         },
         "leebo-swz103-rebelalliance": {
-            "name": "\u201cLeebo\u201d",
+            "name": "“Leebo”",
             "subtitle": "Wisdom of Ages",
             "limited": 1,
             "cost": 71,
@@ -2989,7 +2989,7 @@
             "epic": "Yes"
         },
         "leebo-swz103-lsl-rebelalliance": {
-            "name": "\u201cLeebo\u201d",
+            "name": "“Leebo”",
             "subtitle": "He Thinks He's Funny",
             "limited": 1,
             "cost": 69,
@@ -3010,7 +3010,7 @@
             "epic": "Yes"
         },
         "leebo-swz103-sl-rebelalliance": {
-            "name": "\u201cLeebo\u201d",
+            "name": "“Leebo”",
             "subtitle": "He Thinks He's Funny",
             "limited": 1,
             "cost": 83,

@@ -306,7 +306,7 @@
     },
     "RZ-2 A-wing": {
         "lulolampar": {
-            "name": "L\u2019ulo L\u2019ampar",
+            "name": "L’ulo L’ampar",
             "subtitle": "Luminous Mentor",
             "limited": 1,
             "cost": 41,
@@ -797,7 +797,7 @@
             "epic": "Yes"
         },
         "caithrenalli": {
-            "name": "C\u2019ai Threnalli",
+            "name": "C’ai Threnalli",
             "subtitle": "Tenacious Survivor",
             "limited": 1,
             "cost": 47,
@@ -900,7 +900,7 @@
         },
         "pammichnerrogoode": {
             "name": "Pammich Nerro Goode",
-            "subtitle": "D\u2019Qar Dispatcher",
+            "subtitle": "D’Qar Dispatcher",
             "limited": 1,
             "cost": 31,
             "slots": [
@@ -1237,7 +1237,7 @@
         },
         "aftabackbar": {
             "name": "Aftab Ackbar",
-            "subtitle": "\u201cJunior\u201d",
+            "subtitle": "“Junior”",
             "limited": 1,
             "cost": 32,
             "slots": [
@@ -1259,7 +1259,7 @@
         },
         "coruskapellim": {
             "name": "Corus Kapellim",
-            "subtitle": "\u201cGentleman Flyer\u201d",
+            "subtitle": "“Gentleman Flyer”",
             "limited": 1,
             "cost": 31,
             "slots": [
@@ -1279,7 +1279,7 @@
             "epic": "Yes"
         },
         "caithrenalli-btanr2ywing": {
-            "name": "C\u2019ai Threnalli",
+            "name": "C’ai Threnalli",
             "subtitle": "Tenacious Survivor",
             "limited": 1,
             "cost": 31,

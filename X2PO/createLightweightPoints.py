@@ -81,16 +81,16 @@ def savePoints(pilots, upgrades, revision, revision_data):
         pointsfile = open(
             reivison_path / f"{faction}.json", mode="w", encoding="utf-8"
         )
-        json.dump(pilots[faction], pointsfile, indent=4)
+        json.dump(pilots[faction], pointsfile, ensure_ascii=False, indent=4)
     pointsfile = open(
         reivison_path / "upgrades.json", mode="w", encoding="utf-8"
     )
-    json.dump(upgrades, pointsfile, indent=4)
+    json.dump(upgrades, pointsfile, ensure_ascii=False, indent=4)
 
     revisionfile = open(
         reivison_path / "revision.json", mode="w", encoding="utf-8"
     )
-    json.dump(revision_data, revisionfile, indent=4)
+    json.dump(revision_data, revisionfile, ensure_ascii=False, indent=4)
 
 
 def main(revision):
