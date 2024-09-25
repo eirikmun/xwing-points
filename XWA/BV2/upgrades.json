@@ -2722,7 +2722,7 @@
     },
     "kaydelconnix": {
         "name": "Kaydel Connix",
-        "cost": 5,
+        "cost": 8,
         "limited": 1,
         "standard": false,
         "extended": true,
@@ -5296,7 +5296,7 @@
     },
     "staticdischargevanes": {
         "name": "Static Discharge Vanes",
-        "cost": 5,
+        "cost": 12,
         "limited": 0,
         "standard": false,
         "extended": true,

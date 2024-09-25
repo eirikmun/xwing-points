@@ -1,6 +1,6 @@
 {
     "chopper": {
-        "name": "\u201cChopper\u201d",
+        "name": "“Chopper”",
         "cost": 2,
         "limited": 1,
         "standard": true,
@@ -18,7 +18,7 @@
         ]
     },
     "genius": {
-        "name": "\u201cGenius\u201d",
+        "name": "“Genius”",
         "cost": 2,
         "limited": 1,
         "standard": true,
@@ -1327,7 +1327,7 @@
         ]
     },
     "alpha3bbesh": {
-        "name": "Alpha-3B \u201cBesh\u201d",
+        "name": "Alpha-3B “Besh”",
         "cost": 1,
         "limited": 0,
         "standard": true,
@@ -1345,7 +1345,7 @@
         ]
     },
     "alpha3eesk": {
-        "name": "Alpha-3E \u201cEsk\u201d",
+        "name": "Alpha-3E “Esk”",
         "cost": 0,
         "limited": 0,
         "standard": true,
@@ -1534,7 +1534,7 @@
         ]
     },
     "chopper-crew": {
-        "name": "\u201cChopper\u201d",
+        "name": "“Chopper”",
         "cost": 1,
         "limited": 1,
         "standard": true,
@@ -1552,7 +1552,7 @@
         ]
     },
     "zeborrelios": {
-        "name": "\u201cZeb\u201d Orrelios",
+        "name": "“Zeb” Orrelios",
         "cost": 1,
         "limited": 1,
         "standard": true,
@@ -1939,7 +1939,7 @@
         ]
     },
     "gnkgonkdroid": {
-        "name": "GNK \u201cGonk\u201d Droid",
+        "name": "GNK “Gonk” Droid",
         "cost": 5,
         "limited": 0,
         "standard": true,
@@ -2965,7 +2965,7 @@
         ]
     },
     "fives": {
-        "name": "\u201cFives\u201d",
+        "name": "“Fives”",
         "cost": 3,
         "limited": 1,
         "standard": true,

@@ -673,7 +673,7 @@
             "subtitle": "Heavy Hitter",
             "limited": 1,
             "cost": 5,
-            "loadout": 25,
+            "loadout": 20,
             "slots": [
                 "Torpedo",
                 "Missile",
