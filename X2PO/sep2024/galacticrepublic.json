@@ -484,7 +484,7 @@
             "name": "“Swoop”",
             "subtitle": "Blue Six",
             "limited": 1,
-            "cost": 27,
+            "cost": 26,
             "slots": [
                 "Missile",
                 "Modification"
@@ -517,7 +517,7 @@
             "name": "“Tucker”",
             "subtitle": "Blue Five",
             "limited": 1,
-            "cost": 26,
+            "cost": 25,
             "slots": [
                 "Missile",
                 "Modification"
@@ -1573,7 +1573,7 @@
             "name": "“Drift”",
             "subtitle": "CT-1020",
             "limited": 1,
-            "cost": 31,
+            "cost": 30,
             "slots": [
                 "Talent",
                 "Sensor",
@@ -1607,7 +1607,7 @@
             "name": "“Stub”",
             "subtitle": "Scrappy Flier",
             "limited": 1,
-            "cost": 31,
+            "cost": 30,
             "slots": [
                 "Talent",
                 "Sensor",
@@ -1693,7 +1693,7 @@
             "name": "“Slider”",
             "subtitle": "Evasive Aviator",
             "limited": 1,
-            "cost": 27,
+            "cost": 26,
             "slots": [
                 "Talent",
                 "Sensor",

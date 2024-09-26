@@ -101,8 +101,8 @@ def main(revision):
         upgradedb,
         revision,
         {
-            "effective_date": "2024-03-26",
-            "format": "March 2024 update",
+            "effective_date": "2024-09-26",
+            "format": "September 2024 update",
             "author": "X2PO",
             "subject": "The X-Wing 2.0 Legacy regular points update",
             "files": {

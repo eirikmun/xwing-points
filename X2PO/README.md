@@ -5,9 +5,9 @@ The cards are referenced by their xws value, collected from the https://github.c
 
 > Legacy uses separate repository and implements several changes like:
 
-- **standardLoadout** field for pilots whih lists SL upgrades;
-- Left Side Legal versions of SL cards
-- Outrider 2023 reprint
+- Pilots scheme got **standardLoadout**  field which contains upgrades from SL card;
+- Left Side Legal versions of SL cards. Ditch all printed upgrades and use left side of a card with open slots ready for customization;
+- Outrider 2023 reprint as a separate ship chassis;
 - Legacy card images with legacy errata;
 - **standard** + **wildspace** + **epic** gamemodes ("extended" renamed to "standard" and "hyperspace" renamed to "wildspace")
 
