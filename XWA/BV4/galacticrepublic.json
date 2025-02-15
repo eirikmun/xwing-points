@@ -200,8 +200,8 @@
             "slots": [
                 "Force Power",
                 "Force Power",
-                "Force Power",
                 "Configuration",
+                "Modification",
                 "Modification",
                 "Astromech"
             ],
@@ -285,8 +285,8 @@
             "slots": [
                 "Force Power",
                 "Force Power",
-                "Force Power",
                 "Configuration",
+                "Modification",
                 "Modification",
                 "Astromech"
             ],
@@ -412,8 +412,8 @@
                 "Force Power",
                 "Modification",
                 "Modification",
-                "Astromech",
-                "Modification"
+                "Astromech"
+                
             ],
             "keywords": [
                 "Jedi",
@@ -493,8 +493,7 @@
                 "Force Power",
                 "Modification",
                 "Modification",
-                "Astromech",
-                "Modification"
+                "Astromech"
             ],
             "keywords": [
                 "Jedi",
