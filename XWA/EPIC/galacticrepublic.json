@@ -245,7 +245,6 @@
                 "Configuration",
                 "Modification",
                 "Astromech"
-                
             ],
             "keywords": [
                 "Jedi",
@@ -329,7 +328,6 @@
                 "Configuration",
                 "Modification",
                 "Astromech"
-                
             ],
             "keywords": [
                 "Jedi",
@@ -413,7 +411,6 @@
                 "Modification",
                 "Modification",
                 "Astromech"
-                
             ],
             "keywords": [
                 "Jedi",
@@ -1762,6 +1759,56 @@
             ],
             "standard": "Yes",
             "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "CR-90 Corvette": {
+        "republicjudiciary": {
+            "name": "Republic Judiciary",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 14,
+            "loadout": 40,
+            "slots": [
+                "Command",
+                "Hardpoint",
+                "Hardpoint",
+                "Crew",
+                "Crew",
+                "Gunner",
+                "Team",
+                "Team",
+                "Cargo"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "No",
+            "epic": "Yes"
+        },
+        "raymusantilles-epicsl-galacticrepublic": {
+            "name": "Raymus Antilles",
+            "subtitle": "Tantive IV",
+            "limited": 1,
+            "cost": 12,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [],
+            "standard": "No",
+            "extended": "No",
+            "epic": "Yes"
+        }
+    },
+    "Gozanti-class Cruiser": {
+        "wezsynat-epicsl": {
+            "name": "Wez Synat",
+            "subtitle": "Spectre of Nayr",
+            "limited": 1,
+            "cost": 8,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [],
+            "standard": "No",
+            "extended": "No",
             "epic": "Yes"
         }
     }
