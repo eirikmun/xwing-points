@@ -1,9 +1,10 @@
 {
-    "current_revision": "XWA/BV4/revision.json",
+    "current_revision": "XWA/EPIC/revision.json",
     "revision_history": [
         "XWA/BV1/revision.json",
         "XWA/BV2/revision.json",
         "XWA/BV3/revision.json",
-        "XWA/BV4/revision.json"
+        "XWA/BV4/revision.json",
+        "XWA/EPIC/revision.json"
     ]
 }

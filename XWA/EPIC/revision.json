@@ -1,0 +1,16 @@
+{
+    "effective_date": "February 18, 2025",
+    "format": "Epic Ship Update",
+    "author": "The X-Wing Alliance",
+    "subject": "The X-Wing Alliance community point update for X-Wing the miniatures game",
+    "files": {
+        "rebelalliance": "XWA/EPIC/rebelalliance.json", 
+        "galacticempire": "XWA/EPIC/galacticempire.json", 
+        "scumandvillainy": "XWA/EPIC/scumandvillainy.json",
+        "resistance": "XWA/EPIC/resistance.json", 
+        "firstorder": "XWA/EPIC/firstorder.json",
+        "galacticrepublic": "XWA/EPIC/galacticrepublic.json",
+        "separatistalliance": "XWA/EPIC/separatistalliance.json",
+        "upgrades": "XWA/EPIC/upgrades.json"
+    }
+}
