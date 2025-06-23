@@ -4,13 +4,13 @@
     "author": "The X-Wing Alliance",
     "subject": "The X-Wing Alliance community point update for X-Wing the miniatures game",
     "files": {
-        "rebelalliance": "XWA/R1/rebelalliance.json", 
-        "galacticempire": "XWA/R1/galacticempire.json", 
-        "scumandvillainy": "XWA/R1/scumandvillainy.json",
-        "resistance": "XWA/R1/resistance.json", 
-        "firstorder": "XWA/R1/firstorder.json",
-        "galacticrepublic": "XWA/R1/galacticrepublic.json",
-        "separatistalliance": "XWA/R1/separatistalliance.json",
-        "upgrades": "XWA/R1/upgrades.json"
+        "rebelalliance": "XWA/R2/rebelalliance.json", 
+        "galacticempire": "XWA/R2/galacticempire.json", 
+        "scumandvillainy": "XWA/R2/scumandvillainy.json",
+        "resistance": "XWA/R2/resistance.json", 
+        "firstorder": "XWA/R2/firstorder.json",
+        "galacticrepublic": "XWA/R2/galacticrepublic.json",
+        "separatistalliance": "XWA/R2/separatistalliance.json",
+        "upgrades": "XWA/R2/upgrades.json"
     }
 }
