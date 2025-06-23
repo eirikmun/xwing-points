@@ -1,0 +1,2434 @@
+{
+    "Alpha-class Star Wing": {
+        "lieutenantkarsabi": {
+            "name": "Lieutenant Karsabi",
+            "subtitle": "Brash Noble",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 9,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "lieutenantkarsabi-ssl": {
+            "name": "Lieutenant Karsabi",
+            "subtitle": "Payload Courier",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "majorvynder-ssl": {
+            "name": "Major Vynder",
+            "subtitle": "Helping Hand",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "majorvynder": {
+            "name": "Major Vynder",
+            "subtitle": "Pragmatic Survivor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Torpedo",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "nusquadronpilot": {
+            "name": "Nu Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 20,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "rhosquadronpilot": {
+            "name": "Rho Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 15,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Gauntlet Fighter": {
+        "captainhark": {
+            "name": "Captain Hark",
+            "subtitle": "Obedient Underling",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 20,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Gunner",
+                "Payload",
+                "Illicit",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "garsaxon": {
+            "name": "Gar Saxon",
+            "subtitle": "Treacherous Viceroy",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 24,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Gunner",
+                "Payload",
+                "Illicit",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "imperialsupercommando": {
+            "name": "Imperial Super Commando",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 6,
+            "loadout": 20,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Gunner",
+                "Payload",
+                "Payload",
+                "Illicit",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Gozanti-class Cruiser": {
+        "rikvirgilio-epicsl": {
+            "name": "Rik Virgilio",
+            "subtitle": "Blood Crow",
+            "limited": 1,
+            "cost": 8,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [],
+            "standard": "No",
+            "extended": "No",
+            "epic": "Yes"
+        },
+        "outerrimgarrison": {
+            "name": "Outer Rim Garrison",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 11,
+            "loadout": 40,
+            "slots": [
+                "Command",
+                "Crew",
+                "Gunner",
+                "Cargo",
+                "Title",
+                "Hardpoint",
+                "Crew",
+                "Team",
+                "Cargo"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "No",
+            "epic": "Yes"
+        }
+    },
+    "Lambda-class T-4a Shuttle": {
+        "captainkagi": {
+            "name": "Captain Kagi",
+            "subtitle": "The Emperor’s Shuttle Pilot",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 15,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "coloneljendon": {
+            "name": "Colonel Jendon",
+            "subtitle": "Darth Vader’s Shuttle Pilot",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 13,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Cannon",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "lieutenantsai": {
+            "name": "Lieutenant Sai",
+            "subtitle": "Death Squadron Veteran",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 3,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Crew",
+                "Crew",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "omicrongrouppilot": {
+            "name": "Omicron Group Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 5,
+            "loadout": 24,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Crew",
+                "Crew",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Raider-class Corvette": {
+        "idenversio-epicsl": {
+            "name": "Iden Versio",
+            "subtitle": "Corvus",
+            "limited": 1,
+            "cost": 13,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [],
+            "standard": "No",
+            "extended": "No",
+            "epic": "Yes"
+        },
+        "outerrimpatrol": {
+            "name": "Outer Rim Patrol",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 15,
+            "loadout": 50,
+            "slots": [
+                "Command",
+                "Missile",
+                "Torpedo",
+                "Hardpoint",
+                "Hardpoint",
+                "Crew",
+                "Crew",
+                "Team",
+                "Team",
+                "Cargo",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "No",
+            "epic": "Yes"
+        }
+    },
+    "TIE Advanced v1": {
+        "fifthbrother": {
+            "name": "Fifth Brother",
+            "subtitle": "Ruthless Brute",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 10,
+            "slots": [
+                "Force Power",
+                "Sensor",
+                "Force Power",
+                "Modification",
+                "Missile"
+            ],
+            "keywords": [
+                "Dark Side",
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "grandinquisitor": {
+            "name": "Grand Inquisitor",
+            "subtitle": "Master of the Inquisitorious",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 5,
+            "slots": [
+                "Sensor",
+                "Missile",
+                "Force Power",
+                "Force Power",
+                "Modification"
+            ],
+            "keywords": [
+                "Dark Side",
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "seventhsister": {
+            "name": "Seventh Sister",
+            "subtitle": "Sadistic Interrogator",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 11,
+            "slots": [
+                "Sensor",
+                "Missile",
+                "Force Power",
+                "Modification",
+                "Force Power"
+            ],
+            "keywords": [
+                "Dark Side",
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "baronoftheempire": {
+            "name": "Baron of the Empire",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 3,
+            "loadout": 5,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Modification",
+                "Missile"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "inquisitor": {
+            "name": "Inquisitor",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 13,
+            "slots": [
+                "Sensor",
+                "Modification",
+                "Force Power"
+            ],
+            "keywords": [
+                "Dark Side",
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE Advanced x1": {
+        "darthvader-battleofyavin": {
+            "name": "Darth Vader",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "Dark Side",
+                "Sith",
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "darthvader": {
+            "name": "Darth Vader",
+            "subtitle": "Black Leader",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 12,
+            "slots": [
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Modification",
+                "Force Power",
+                "Force Power",
+                "Tech"
+            ],
+            "keywords": [
+                "Dark Side",
+                "Sith",
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "darthvader-swz105": {
+            "name": "Darth Vader",
+            "subtitle": "Black Leader",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "Dark Side",
+                "Sith",
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "junoeclipse": {
+            "name": "Juno Eclipse",
+            "subtitle": "Corulag's Finest",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 18,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "maarekstele": {
+            "name": "Maarek Stele",
+            "subtitle": "Servant of the Empire",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 6,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "maarekstele-swz105": {
+            "name": "Maarek Stele",
+            "subtitle": "Servant of the Empire",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "vedfoslo": {
+            "name": "Ved Foslo",
+            "subtitle": "Ambitious Engineer",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 9,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "zertikstrom": {
+            "name": "Zertik Strom",
+            "subtitle": "Pitiless Administrator",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Sensor",
+                "Missile",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "stormsquadronace": {
+            "name": "Storm Squadron Ace",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 10,
+            "slots": [
+                "Sensor",
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "tempestsquadronpilot": {
+            "name": "Tempest Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Sensor",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE Reaper": {
+        "captainferoph": {
+            "name": "Captain Feroph",
+            "subtitle": "Imperial Courier",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 5,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Modification",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "majorvermeil": {
+            "name": "Major Vermeil",
+            "subtitle": "Veteran of Scarif",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 16,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Crew",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "vizier": {
+            "name": "“Vizier”",
+            "subtitle": "Ruthless Tactician",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 10,
+            "slots": [
+                "Crew",
+                "Crew",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "scarifbasepilot": {
+            "name": "Scarif Base Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 5,
+            "loadout": 19,
+            "slots": [
+                "Crew",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/D Defender": {
+        "captaindobbs": {
+            "name": "Captain Dobbs",
+            "subtitle": "Reliable Replacement",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 18,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Cannon",
+                "Missile",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "captainyorr-battleoverendor": {
+            "name": "Captain Yorr",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "coloneljendon-battleoverendor": {
+            "name": "Colonel Jendon",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 8,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "colonelvessery": {
+            "name": "Colonel Vessery",
+            "subtitle": "Contemplative Commander",
+            "limited": 1,
+            "cost": 8,
+            "loadout": 23,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Cannon",
+                "Missile",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "countessryad": {
+            "name": "Countess Ryad",
+            "subtitle": "Cutthroat Politico",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 12,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Sensor",
+                "Cannon",
+                "Missile",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "darthvader-tieddefender": {
+            "name": "Darth Vader",
+            "subtitle": "Dark Lord of the Sith",
+            "limited": 1,
+            "cost": 9,
+            "loadout": 8,
+            "slots": [
+                "Force Power",
+                "Tech",
+                "Cannon",
+                "Missile",
+                "Configuration"
+            ],
+            "keywords": [
+                "Dark Side",
+                "Sith",
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "rexlerbrath": {
+            "name": "Rexler Brath",
+            "subtitle": "Onyx Leader",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 13,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Cannon",
+                "Missile",
+                "Missile",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "vultskerris": {
+            "name": "Vult Skerris",
+            "subtitle": "Arrogant Ace",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 18,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Sensor",
+                "Cannon",
+                "Missile",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "deltasquadronpilot": {
+            "name": "Delta Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 6,
+            "loadout": 11,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "onyxsquadronace": {
+            "name": "Onyx Squadron Ace",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 7,
+            "loadout": 18,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Cannon",
+                "Missile",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/ag Aggressor": {
+        "doubleedge": {
+            "name": "“Double Edge”",
+            "subtitle": "Contingency Planner",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 11,
+            "slots": [
+                "Talent",
+                "Turret",
+                "Missile",
+                "Missile",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "lieutenantkestal": {
+            "name": "Lieutenant Kestal",
+            "subtitle": "Innate Deadeye",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 19,
+            "slots": [
+                "Talent",
+                "Turret",
+                "Missile",
+                "Missile",
+                "Modification",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "onyxsquadronscout": {
+            "name": "Onyx Squadron Scout",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 14,
+            "slots": [
+                "Talent",
+                "Turret",
+                "Missile",
+                "Gunner",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sienarspecialist": {
+            "name": "Sienar Specialist",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 3,
+            "loadout": 5,
+            "slots": [
+                "Turret",
+                "Missile",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/ca Punisher": {
+        "deathrain": {
+            "name": "“Deathrain”",
+            "subtitle": "Dexterous Bombardier",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 22,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Payload",
+                "Payload",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "redline": {
+            "name": "“Redline”",
+            "subtitle": "Adrenaline Junkie",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 26,
+            "slots": [
+                "Sensor",
+                "Torpedo",
+                "Missile",
+                "Missile",
+                "Payload",
+                "Modification",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "cutlasssquadronpilot": {
+            "name": "Cutlass Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 13,
+            "slots": [
+                "Sensor",
+                "Torpedo",
+                "Missile",
+                "Payload",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/in Interceptor": {
+        "cienaree": {
+            "name": "Ciena Ree",
+            "subtitle": "Look Through My Eyes",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 4,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "commandantgoran": {
+            "name": "Commandant Goran",
+            "subtitle": "Skystrike Superintendent",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 5,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "gideonhask-tieininterceptor": {
+            "name": "Gideon Hask",
+            "subtitle": "Inferno Two",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 4,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "idenversio-battleofyavin": {
+            "name": "Iden Versio",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "lieutenantlorrir": {
+            "name": "Lieutenant Lorrir",
+            "subtitle": "Requiem for Brentaal",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 13,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "mausmonare-battleoverendor": {
+            "name": "Maus Monare",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "nashwindrider": {
+            "name": "Nash Windrider",
+            "subtitle": "Alderaanian Zealot",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 11,
+            "slots": [
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sapphire2-battleoverendor": {
+            "name": "Sapphire 2",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "secondsister": {
+            "name": "Second Sister",
+            "subtitle": "Manipulative Monster",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 15,
+            "slots": [
+                "Force Power",
+                "Force Power",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Dark Side",
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sigma4-battleofyavin": {
+            "name": "Sigma 4",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sigma5-battleofyavin": {
+            "name": "Sigma 5",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sigma6-battleofyavin": {
+            "name": "Sigma 6",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sigma7-battleofyavin": {
+            "name": "Sigma 7",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "soontirfel": {
+            "name": "Soontir Fel",
+            "subtitle": "Ace of Legend",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "soontirfel-battleoverendor": {
+            "name": "Soontir Fel",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "turrphennir": {
+            "name": "Turr Phennir",
+            "subtitle": "Ambitious Ace",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 10,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "vultskerris-tieininterceptor": {
+            "name": "Vult Skerris",
+            "subtitle": "Arrogant Ace",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 9,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "alphasquadronpilot": {
+            "name": "Alpha Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 3,
+            "loadout": 0,
+            "slots": [
+                "Talent",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sabersquadronace": {
+            "name": "Saber Squadron Ace",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Talent",
+                "Configuration",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/ln Fighter": {
+        "backstabber-battleofyavin": {
+            "name": "“Backstabber”",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "darkcurse-battleofyavin": {
+            "name": "“Dark Curse”",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "delmeeko": {
+            "name": "Del Meeko",
+            "subtitle": "Inferno Three",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 12,
+            "slots": [
+                "Cannon",
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "gideonhask": {
+            "name": "Gideon Hask",
+            "subtitle": "Inferno Two",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 12,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Missile",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "howlrunner": {
+            "name": "“Howlrunner”",
+            "subtitle": "Obsidian Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 18,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "idenversio": {
+            "name": "Iden Versio",
+            "subtitle": "Inferno Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 16,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Cannon",
+                "Missile",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "idenversio-swz105": {
+            "name": "Iden Versio",
+            "subtitle": "Inferno Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "isbjingoist": {
+            "name": "ISB Jingoist",
+            "subtitle": "Heartless Enforcer",
+            "limited": 2,
+            "cost": 4,
+            "loadout": 18,
+            "slots": [
+                "Talent",
+                "Illicit",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "lieutenanthebsly-battleoverendor": {
+            "name": "Lieutenant Hebsly",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "magnatolvan": {
+            "name": "Magna Tolvan",
+            "subtitle": "Cold Tyrant",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 10,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "majormianda-battleoverendor": {
+            "name": "Major Mianda",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "maulermithel-battleofyavin": {
+            "name": "“Mauler” Mithel",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "maulermithel": {
+            "name": "“Mauler” Mithel",
+            "subtitle": "Black Two",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 11,
+            "slots": [
+                "Talent",
+                "Cannon"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "moffgideon": {
+            "name": "Moff Gideon",
+            "subtitle": "Ruthless Remnant Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 15,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Modification",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "nightbeast": {
+            "name": "“Night Beast”",
+            "subtitle": "Obsidian Two",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 6,
+            "slots": [
+                "Talent",
+                "Talent"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "nightbeast-swz105": {
+            "name": "“Night Beast”",
+            "subtitle": "Obsidian Two",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "scourgeskutu": {
+            "name": "“Scourge” Skutu",
+            "subtitle": "Seasoned Veteran",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 11,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "scythe6-battleoverendor": {
+            "name": "Scythe 6",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "seynmarana": {
+            "name": "Seyn Marana",
+            "subtitle": "Inferno Four",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 12,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "valenrudor": {
+            "name": "Valen Rudor",
+            "subtitle": "Braggadocious Baron",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 5,
+            "slots": [
+                "Talent",
+                "Talent"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "valenrudor-swz105": {
+            "name": "Valen Rudor",
+            "subtitle": "Braggadocious Baron",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "wampa-battleofyavin": {
+            "name": "“Wampa”",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "wampa": {
+            "name": "“Wampa”",
+            "subtitle": "Black Eleven",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 11,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "yricaquell": {
+            "name": "Yrica Quell",
+            "subtitle": "Consumed by Duty",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 9,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "academypilot": {
+            "name": "Academy Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 2,
+            "loadout": 4,
+            "slots": [
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "blacksquadronace": {
+            "name": "Black Squadron Ace",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 3,
+            "loadout": 14,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "obsidiansquadronpilot": {
+            "name": "Obsidian Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 2,
+            "loadout": 0,
+            "slots": [
+                "Talent"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/ph Phantom": {
+        "echo-ssl": {
+            "name": "“Echo”",
+            "subtitle": "Copycat",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "echo": {
+            "name": "“Echo”",
+            "subtitle": "Slippery Trickster",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 10,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Sensor",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "whisper": {
+            "name": "“Whisper”",
+            "subtitle": "Soft-Spoken Slayer",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 13,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Modification",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "whisper-ssl": {
+            "name": "“Whisper”",
+            "subtitle": "Unseen Assailant",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "imdaartestpilot": {
+            "name": "Imdaar Test Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 9,
+            "slots": [
+                "Sensor",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sigmasquadronace": {
+            "name": "Sigma Squadron Ace",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 3,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/rb Heavy": {
+        "flightleaderubbel": {
+            "name": "Flight Leader Ubbel",
+            "subtitle": "Onyx Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 8,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Cannon",
+                "Gunner",
+                "Modification",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "lyttandree": {
+            "name": "Lyttan Dree",
+            "subtitle": "Onyx 2",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 6,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Cannon",
+                "Gunner",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "rampage": {
+            "name": "“Rampage”",
+            "subtitle": "Implacable Pursuer",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Cannon",
+                "Gunner",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "caridaacademycadet": {
+            "name": "Carida Academy Cadet",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 5,
+            "loadout": 18,
+            "slots": [
+                "Cannon",
+                "Cannon",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "onyxsquadronsentry": {
+            "name": "Onyx Squadron Sentry",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 5,
+            "loadout": 17,
+            "slots": [
+                "Cannon",
+                "Cannon",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/sa Bomber": {
+        "captainjonus": {
+            "name": "Captain Jonus",
+            "subtitle": "Disciplined Instructor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 7,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Missile",
+                "Missile",
+                "Payload",
+                "Payload",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "captainjonus-swz105": {
+            "name": "Captain Jonus",
+            "subtitle": "Disciplined Instructor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "captainjonus-swz98": {
+            "name": "Captain Jonus",
+            "subtitle": "Top Cover",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "deathfire-swz98": {
+            "name": "“Deathfire”",
+            "subtitle": "Obstinate Bombardier",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "deathfire": {
+            "name": "“Deathfire”",
+            "subtitle": "Unflinching Diehard",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 7,
+            "slots": [
+                "Torpedo",
+                "Missile",
+                "Payload",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "majorrhymer-swz98": {
+            "name": "Major Rhymer",
+            "subtitle": "Precision Destruction",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "majorrhymer": {
+            "name": "Major Rhymer",
+            "subtitle": "Scimitar Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 10,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Missile",
+                "Missile",
+                "Payload",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "scimitar1-battleoverendor": {
+            "name": "Scimitar 1",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "scimitar3-battleoverendor": {
+            "name": "Scimitar 3",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "tomaxbren": {
+            "name": "Tomax Bren",
+            "subtitle": "Brash Maverick",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 4,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Missile",
+                "Missile",
+                "Payload",
+                "Payload",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "tomaxbren-swz105": {
+            "name": "Tomax Bren",
+            "subtitle": "Brash Maverick",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "tomaxbren-swz98": {
+            "name": "Tomax Bren",
+            "subtitle": "Scimitar Veteran",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "gammasquadronace": {
+            "name": "Gamma Squadron Ace",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 10,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Payload",
+                "Payload",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "scimitarsquadronpilot": {
+            "name": "Scimitar Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Missile",
+                "Payload",
+                "Payload",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/sk Striker": {
+        "countdown": {
+            "name": "“Countdown”",
+            "subtitle": "Death Defier",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 11,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Payload",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "duchess": {
+            "name": "“Duchess”",
+            "subtitle": "Urbane Ace",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Payload",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "puresabacc": {
+            "name": "“Pure Sabacc”",
+            "subtitle": "Confident Gambler",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 10,
+            "slots": [
+                "Talent",
+                "Payload",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "vagabond": {
+            "name": "“Vagabond”",
+            "subtitle": "Destitute Demolitionist",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 20,
+            "slots": [
+                "Talent",
+                "Gunner",
+                "Payload",
+                "Payload",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "blacksquadronscout": {
+            "name": "Black Squadron Scout",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 10,
+            "slots": [
+                "Talent",
+                "Payload",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "planetarysentinel": {
+            "name": "Planetary Sentinel",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 10,
+            "slots": [
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "VT-49 Decimator": {
+        "captainoicunn": {
+            "name": "Captain Oicunn",
+            "subtitle": "Inspired Tactician",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 16,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Torpedo",
+                "Crew",
+                "Crew",
+                "Payload",
+                "Modification",
+                "Title",
+                "Gunner"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "mornakee": {
+            "name": "Morna Kee",
+            "subtitle": "Determined Attaché",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 14,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Crew",
+                "Crew",
+                "Gunner",
+                "Payload",
+                "Modification",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "rearadmiralchiraneau": {
+            "name": "Rear Admiral Chiraneau",
+            "subtitle": "Advisor to Admiral Piett",
+            "limited": 1,
+            "cost": 8,
+            "loadout": 24,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Crew",
+                "Crew",
+                "Crew",
+                "Payload",
+                "Modification",
+                "Title",
+                "Gunner"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "patrolleader": {
+            "name": "Patrol Leader",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 7,
+            "loadout": 19,
+            "slots": [
+                "Torpedo",
+                "Crew",
+                "Crew",
+                "Payload",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    }
+}

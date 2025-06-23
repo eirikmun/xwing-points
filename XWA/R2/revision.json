@@ -1,0 +1,16 @@
+{
+    "effective_date": "June 23, 2025",
+    "format": "R2: XWA Points Update",
+    "author": "The X-Wing Alliance",
+    "subject": "The X-Wing Alliance community point update for X-Wing the miniatures game",
+    "files": {
+        "rebelalliance": "XWA/R1/rebelalliance.json", 
+        "galacticempire": "XWA/R1/galacticempire.json", 
+        "scumandvillainy": "XWA/R1/scumandvillainy.json",
+        "resistance": "XWA/R1/resistance.json", 
+        "firstorder": "XWA/R1/firstorder.json",
+        "galacticrepublic": "XWA/R1/galacticrepublic.json",
+        "separatistalliance": "XWA/R1/separatistalliance.json",
+        "upgrades": "XWA/R1/upgrades.json"
+    }
+}

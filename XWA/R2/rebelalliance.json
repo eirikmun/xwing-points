@@ -1,0 +1,2652 @@
+{
+    "A/SF-01 B-wing": {
+        "adonfox-battleoverendor": {
+            "name": "Adon Fox",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "B-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "braylenstramm-battleoverendor": {
+            "name": "Braylen Stramm",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "B-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "braylenstramm": {
+            "name": "Braylen Stramm",
+            "subtitle": "Blade Leader",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 13,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Cannon",
+                "Cannon",
+                "Torpedo",
+                "Modification",
+                "Payload",
+                "Configuration"
+            ],
+            "keywords": [
+                "B-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "ginamoonsong-battleoverendor": {
+            "name": "Gina Moonsong",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "B-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "ginamoonsong": {
+            "name": "Gina Moonsong",
+            "subtitle": "Insubordinate Ace",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 7,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Cannon",
+                "Cannon",
+                "Torpedo",
+                "Modification",
+                "Payload",
+                "Configuration"
+            ],
+            "keywords": [
+                "B-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "herasyndulla-asf01bwing": {
+            "name": "Hera Syndulla",
+            "subtitle": "Phoenix Leader",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 14,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Cannon",
+                "Cannon",
+                "Torpedo",
+                "Missile",
+                "Payload",
+                "Modification",
+                "Title",
+                "Configuration"
+            ],
+            "keywords": [
+                "B-wing",
+                "Spectre"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "netrempollard": {
+            "name": "Netrem Pollard",
+            "subtitle": "Dagger Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Cannon",
+                "Cannon",
+                "Missile",
+                "Modification",
+                "Payload",
+                "Configuration"
+            ],
+            "keywords": [
+                "B-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "tennumb": {
+            "name": "Ten Numb",
+            "subtitle": "Blue Five",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 5,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Cannon",
+                "Cannon",
+                "Torpedo",
+                "Modification",
+                "Payload",
+                "Configuration"
+            ],
+            "keywords": [
+                "B-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "bladesquadronveteran": {
+            "name": "Blade Squadron Veteran",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 5,
+            "loadout": 17,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Cannon",
+                "Torpedo",
+                "Configuration"
+            ],
+            "keywords": [
+                "B-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "bluesquadronpilot": {
+            "name": "Blue Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 8,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Cannon",
+                "Payload",
+                "Configuration"
+            ],
+            "keywords": [
+                "B-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "ARC-170 Starfighter": {
+        "garvendreis": {
+            "name": "Garven Dreis",
+            "subtitle": "Red Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 3,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Cannon",
+                "Gunner",
+                "Astromech",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "ibtisam": {
+            "name": "Ibtisam",
+            "subtitle": "Survivor of Endor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 7,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Gunner",
+                "Astromech",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "norrawexley": {
+            "name": "Norra Wexley",
+            "subtitle": "Gold Nine",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 12,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Torpedo",
+                "Gunner",
+                "Astromech",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sharabey": {
+            "name": "Shara Bey",
+            "subtitle": "Green Four",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 15,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Missile",
+                "Gunner",
+                "Astromech",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Attack Shuttle": {
+        "ezrabridger": {
+            "name": "Ezra Bridger",
+            "subtitle": "Spectre-6",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Turret",
+                "Crew",
+                "Modification",
+                "Title",
+                "Force Power"
+            ],
+            "keywords": [
+                "Light Side",
+                "Spectre"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "herasyndulla": {
+            "name": "Hera Syndulla",
+            "subtitle": "Spectre-2",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 14,
+            "slots": [
+                "Talent",
+                "Turret",
+                "Crew",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Spectre"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sabinewren": {
+            "name": "Sabine Wren",
+            "subtitle": "Spectre-5",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 11,
+            "slots": [
+                "Talent",
+                "Turret",
+                "Crew",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Mandalorian",
+                "Spectre"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "zeborrelios": {
+            "name": "“Zeb” Orrelios",
+            "subtitle": "Spectre-4",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 6,
+            "slots": [
+                "Talent",
+                "Turret",
+                "Crew",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Spectre"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Auzituck Gunship": {
+        "lowhhrick": {
+            "name": "Lowhhrick",
+            "subtitle": "Escaped Gladiator",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 15,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Crew",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "wullffwarro": {
+            "name": "Wullffwarro",
+            "subtitle": "Wookiee Chief",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 4,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Crew"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "kashyyykdefender": {
+            "name": "Kashyyyk Defender",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 5,
+            "loadout": 16,
+            "slots": [
+                "Crew",
+                "Crew",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "BTL-A4 Y-wing": {
+        "dextiree-battleofyavin": {
+            "name": "Dex Tiree",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "dutchvander-battleofyavin": {
+            "name": "“Dutch” Vander",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "dutchvander": {
+            "name": "“Dutch” Vander",
+            "subtitle": "Gold Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 10,
+            "slots": [
+                "Talent",
+                "Turret",
+                "Torpedo",
+                "Astromech",
+                "Payload",
+                "Payload",
+                "Modification",
+                "Missile"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "dutchvander-swz106": {
+            "name": "“Dutch” Vander",
+            "subtitle": "Gold Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "evaanverlaine": {
+            "name": "Evaan Verlaine",
+            "subtitle": "Gold Three",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 8,
+            "slots": [
+                "Turret",
+                "Torpedo",
+                "Missile",
+                "Astromech",
+                "Payload",
+                "Modification",
+                "Modification"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "holokand-battleofyavin": {
+            "name": "Hol Okand",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "hortonsalm": {
+            "name": "Horton Salm",
+            "subtitle": "Gray Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 16,
+            "slots": [
+                "Turret",
+                "Torpedo",
+                "Astromech",
+                "Payload",
+                "Modification",
+                "Missile"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "hortonsalm-swz106": {
+            "name": "Horton Salm",
+            "subtitle": "Gray Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "norrawexley-btla4ywing": {
+            "name": "Norra Wexley",
+            "subtitle": "Gold Nine",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Talent",
+                "Turret",
+                "Gunner",
+                "Torpedo",
+                "Astromech",
+                "Payload",
+                "Modification"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "popskrail-battleofyavin": {
+            "name": "“Pops” Krail",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "popskrail": {
+            "name": "“Pops” Krail",
+            "subtitle": "Gold Five",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 6,
+            "slots": [
+                "Talent",
+                "Turret",
+                "Torpedo",
+                "Astromech",
+                "Payload",
+                "Missile",
+                "Modification"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "goldsquadronveteran": {
+            "name": "Gold Squadron Veteran",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 3,
+            "loadout": 8,
+            "slots": [
+                "Turret",
+                "Modification",
+                "Missile"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "graysquadronbomber": {
+            "name": "Gray Squadron Bomber",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 18,
+            "slots": [
+                "Turret",
+                "Astromech",
+                "Payload",
+                "Modification",
+                "Missile"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "BTL-S8 K-wing": {
+        "esegetuketu": {
+            "name": "Esege Tuketu",
+            "subtitle": "Selfless Hero",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 11,
+            "slots": [
+                "Torpedo",
+                "Missile",
+                "Missile",
+                "Crew",
+                "Payload",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "mirandadoni": {
+            "name": "Miranda Doni",
+            "subtitle": "Heavy Hitter",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 20,
+            "slots": [
+                "Torpedo",
+                "Missile",
+                "Crew",
+                "Payload",
+                "Payload",
+                "Modification",
+                "Gunner"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "wardensquadronpilot": {
+            "name": "Warden Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 5,
+            "loadout": 25,
+            "slots": [
+                "Torpedo",
+                "Missile",
+                "Payload",
+                "Payload",
+                "Gunner"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "CR-90 Corvette": {
+        "raymustantilles-epicsl-rebelalliance": {
+            "name": "Raymus Antilles",
+            "subtitle": "Tantive IV",
+            "limited": 1,
+            "cost": 12,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [],
+            "standard": "No",
+            "extended": "No",
+            "epic": "Yes"
+        },
+        "alderaanianguard": {
+            "name": "Alderaanian Guard",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 14,
+            "loadout": 40,
+            "slots": [
+                "Command",
+                "Hardpoint",
+                "Hardpoint",
+                "Crew",
+                "Crew",
+                "Gunner",
+                "Team",
+                "Team",
+                "Cargo",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "No",
+            "epic": "Yes"
+        }
+    },
+    "E-wing": {
+        "corranhorn": {
+            "name": "Corran Horn",
+            "subtitle": "Tenacious Investigator",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 9,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Sensor",
+                "Tech",
+                "Torpedo",
+                "Astromech",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "gavindarklighter": {
+            "name": "Gavin Darklighter",
+            "subtitle": "Bold Wingman",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 10,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Tech",
+                "Torpedo",
+                "Astromech",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "knavesquadronescort": {
+            "name": "Knave Squadron Escort",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 6,
+            "loadout": 22,
+            "slots": [
+                "Sensor",
+                "Tech",
+                "Astromech",
+                "Torpedo",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "roguesquadronescort": {
+            "name": "Rogue Squadron Escort",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 5,
+            "loadout": 14,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Torpedo",
+                "Astromech",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Fang Fighter": {
+        "bodicavenj": {
+            "name": "Bodica Venj",
+            "subtitle": "Wrathful Warrior",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 5,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Torpedo",
+                "Modification",
+                "Modification"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "clanwrenvolunteer": {
+            "name": "Clan Wren Volunteer",
+            "subtitle": "Unlikely Ally",
+            "limited": 2,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Modification",
+                "Modification"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "dirkullodin": {
+            "name": "Dirk Ullodin",
+            "subtitle": "Aspiring Commando",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 9,
+            "slots": [
+                "Torpedo",
+                "Modification",
+                "Modification"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "fennrau-fangfighter": {
+            "name": "Fenn Rau",
+            "subtitle": "Mandalorian Protector",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 8,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Torpedo",
+                "Modification",
+                "Modification"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "GR-75 Medium Transport": {
+        "treborzednem-epicsl": {
+            "name": "Trebor Zednem",
+            "subtitle": "Bright Hope",
+            "limited": 1,
+            "cost": 8,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [],
+            "standard": "No",
+            "extended": "No",
+            "epic": "Yes"
+        },
+        "echobaseevacuees": {
+            "name": "Echo Base Evacuees",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 10,
+            "loadout": 25,
+            "slots": [
+                "Command",
+                "Hardpoint",
+                "Turret",
+                "Crew",
+                "Crew",
+                "Team",
+                "Cargo",
+                "Cargo",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "extended": "No",
+            "epic": "Yes"
+        }
+    },
+    "Gauntlet Fighter": {
+        "chopper-gauntletfighter": {
+            "name": "“Chopper”",
+            "subtitle": "Spectre-3",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 18,
+            "slots": [
+                "Crew",
+                "Gunner",
+                "Payload",
+                "Illicit",
+                "Modification",
+                "Modification",
+                "Configuration",
+                "Title"
+            ],
+            "keywords": [
+                "Droid",
+                "Spectre"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "ezrabridger-gauntletfighter": {
+            "name": "Ezra Bridger",
+            "subtitle": "Spectre-6",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 15,
+            "slots": [
+                "Force Power",
+                "Force Power",
+                "Crew",
+                "Gunner",
+                "Payload",
+                "Illicit",
+                "Modification",
+                "Modification",
+                "Configuration",
+                "Title"
+            ],
+            "keywords": [
+                "Light Side",
+                "Spectre"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "mandalorianresistancepilot": {
+            "name": "Mandalorian Resistance Pilot",
+            "subtitle": "Clan Loyalist",
+            "limited": 0,
+            "cost": 6,
+            "loadout": 20,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Gunner",
+                "Payload",
+                "Illicit",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "HWK-290 Light Freighter": {
+        "janors": {
+            "name": "Jan Ors",
+            "subtitle": "Espionage Expert",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Payload",
+                "Payload",
+                "Modification",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "kylekatarn": {
+            "name": "Kyle Katarn",
+            "subtitle": "Relentless Operative",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 5,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Crew",
+                "Payload",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "roarkgarnet": {
+            "name": "Roark Garnet",
+            "subtitle": "Good-Hearted Smuggler",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 11,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Payload",
+                "Modification",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "rebelscout": {
+            "name": "Rebel Scout",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 3,
+            "loadout": 7,
+            "slots": [
+                "Payload",
+                "Modification"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Modified YT-1300 Light Freighter": {
+        "chewbacca": {
+            "name": "Chewbacca",
+            "subtitle": "The Mighty",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 20,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Modification",
+                "Title",
+                "Illicit",
+                "Gunner"
+            ],
+            "keywords": [
+                "Freighter",
+                "YT-1300"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "hansolo-battleofyavin": {
+            "name": "Han Solo",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "Freighter",
+                "YT-1300"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "hansolo-modifiedyt1300lightfreighter": {
+            "name": "Han Solo",
+            "subtitle": "Scoundrel for Hire",
+            "limited": 1,
+            "cost": 9,
+            "loadout": 25,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Modification",
+                "Title",
+                "Illicit",
+                "Gunner"
+            ],
+            "keywords": [
+                "Freighter",
+                "YT-1300"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "landocalrissian-battleoverendor": {
+            "name": "Lando Calrissian",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "Freighter",
+                "YT-1300"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "landocalrissian-modifiedyt1300lightfreighter": {
+            "name": "Lando Calrissian",
+            "subtitle": "General of the Alliance",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 15,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Modification",
+                "Title",
+                "Illicit",
+                "Gunner"
+            ],
+            "keywords": [
+                "Freighter",
+                "YT-1300"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "leiaorgana": {
+            "name": "Leia Organa",
+            "subtitle": "There Is Another",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 15,
+            "slots": [
+                "Force Power",
+                "Missile",
+                "Crew",
+                "Crew",
+                "Gunner",
+                "Modification",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Freighter",
+                "YT-1300",
+                "Light Side"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "outerrimsmuggler": {
+            "name": "Outer Rim Smuggler",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 6,
+            "loadout": 11,
+            "slots": [
+                "Crew",
+                "Missile",
+                "Gunner",
+                "Modification"
+            ],
+            "keywords": [
+                "Freighter",
+                "YT-1300"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "RZ-1 A-wing": {
+        "ahsokatano-rz1awing": {
+            "name": "Ahsoka Tano",
+            "subtitle": "Fulcrum",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 5,
+            "slots": [
+                "Force Power",
+                "Force Power",
+                "Missile",
+                "Modification",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "A-wing",
+                "Light Side"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "arvelcrynyd-battleoverendor": {
+            "name": "Arvel Crynyd",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "arvelcrynyd": {
+            "name": "Arvel Crynyd",
+            "subtitle": "Green Leader",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 7,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Configuration"
+            ],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "arvelcrynyd-swz106": {
+            "name": "Arvel Crynyd",
+            "subtitle": "Green Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "derekklivian": {
+            "name": "Derek Klivian",
+            "subtitle": "Hobbie",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 9,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Configuration"
+            ],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "gemmersojan-battleoverendor": {
+            "name": "Gemmer Sojan",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "herasyndulla-rz1awing": {
+            "name": "Hera Syndulla",
+            "subtitle": "Phoenix Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 4,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Missile",
+                "Sensor",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "A-wing",
+                "Spectre"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "jakefarrell": {
+            "name": "Jake Farrell",
+            "subtitle": "Sage Instructor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "jakefarrell-swz106": {
+            "name": "Jake Farrell",
+            "subtitle": "Sage Instructor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "keovenzee": {
+            "name": "Keo Venzee",
+            "subtitle": "Auspicious Ace",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Configuration"
+            ],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sabinewren-rz1awing": {
+            "name": "Sabine Wren",
+            "subtitle": "Daughter of Mandalore",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 4,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "A-wing",
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sharabey-rz1awing": {
+            "name": "Shara Bey",
+            "subtitle": "Green Four",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 17,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sharabey-swz106": {
+            "name": "Shara Bey",
+            "subtitle": "Green Four",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "tychocelchu-battleoverendor": {
+            "name": "Tycho Celchu",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "tychocelchu": {
+            "name": "Tycho Celchu",
+            "subtitle": "Son of Alderaan",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 10,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Cannon",
+                "Missile",
+                "Configuration"
+            ],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "wedgeantilles-rz1awing": {
+            "name": "Wedge Antilles",
+            "subtitle": "Promising Pilot",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 4,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "greensquadronpilot": {
+            "name": "Green Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 13,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Missile",
+                "Configuration"
+            ],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "phoenixsquadronpilot": {
+            "name": "Phoenix Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 3,
+            "loadout": 6,
+            "slots": [
+                "Talent",
+                "Configuration"
+            ],
+            "keywords": [
+                "A-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Sheathipede-class Shuttle": {
+        "ap5": {
+            "name": "AP-5",
+            "subtitle": "Escaped Analyst Droid",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 7,
+            "slots": [
+                "Crew",
+                "Astromech",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Droid",
+                "Spectre"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "ezrabridger-sheathipedeclassshuttle": {
+            "name": "Ezra Bridger",
+            "subtitle": "Spectre-6",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Crew",
+                "Astromech",
+                "Modification",
+                "Title",
+                "Force Power"
+            ],
+            "keywords": [
+                "Light Side",
+                "Spectre"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "fennrau-sheathipedeclassshuttle": {
+            "name": "Fenn Rau",
+            "subtitle": "Reluctant Rebel",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 6,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Astromech",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Mandalorian",
+                "Spectre"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "zeborrelios-sheathipedeclassshuttle": {
+            "name": "“Zeb” Orrelios",
+            "subtitle": "Spectre-4",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 4,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Astromech",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Spectre"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "T-65 X-wing": {
+        "biggsdarklighter-battleofyavin": {
+            "name": "Biggs Darklighter",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "biggsdarklighter": {
+            "name": "Biggs Darklighter",
+            "subtitle": "Red Three",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 10,
+            "slots": [
+                "Torpedo",
+                "Astromech",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "corranhorn-t65xwing": {
+            "name": "Corran Horn",
+            "subtitle": "Rogue Nine",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 9,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Astromech",
+                "Configuration"
+            ],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "edriotwotubes": {
+            "name": "Edrio Two Tubes",
+            "subtitle": "Cavern Angels Veteran",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 10,
+            "slots": [
+                "Missile",
+                "Illicit",
+                "Configuration"
+            ],
+            "keywords": [
+                "Partisan",
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "garvendreis-battleofyavin": {
+            "name": "Garven Dreis",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "garvendreis-t65xwing": {
+            "name": "Garven Dreis",
+            "subtitle": "Red Leader",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 6,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Astromech",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "jekporkins-battleofyavin": {
+            "name": "Jek Porkins",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "jekporkins": {
+            "name": "Jek Porkins",
+            "subtitle": "Red Six",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 8,
+            "slots": [
+                "Torpedo",
+                "Astromech",
+                "Talent",
+                "Configuration"
+            ],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "jekporkins-swz106": {
+            "name": "Jek Porkins",
+            "subtitle": "Red Six",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "kendyidele-battleoverendor": {
+            "name": "Kendy Idele",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "kullbeesperado": {
+            "name": "Kullbee Sperado",
+            "subtitle": "Enigmatic Gunslinger",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 9,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Astromech",
+                "Illicit",
+                "Configuration"
+            ],
+            "keywords": [
+                "Partisan",
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "leevantenza": {
+            "name": "Leevan Tenza",
+            "subtitle": "Rebel Alliance Defector",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 11,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Astromech",
+                "Illicit",
+                "Configuration"
+            ],
+            "keywords": [
+                "Partisan",
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "lukeskywalker-battleofyavin": {
+            "name": "Luke Skywalker",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "lukeskywalker": {
+            "name": "Luke Skywalker",
+            "subtitle": "Red Five",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 7,
+            "slots": [
+                "Force Power",
+                "Force Power",
+                "Torpedo",
+                "Astromech",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Light Side",
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "lukeskywalker-swz106": {
+            "name": "Luke Skywalker",
+            "subtitle": "Red Five",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "thanekyrell": {
+            "name": "Thane Kyrell",
+            "subtitle": "Corona Four",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 6,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Astromech",
+                "Configuration"
+            ],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "wedgeantilles-battleofyavin": {
+            "name": "Wedge Antilles",
+            "subtitle": "Battle of Yavin",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "wedgeantilles-battleoverendor": {
+            "name": "Wedge Antilles",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "wedgeantilles": {
+            "name": "Wedge Antilles",
+            "subtitle": "Red Two",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 11,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Torpedo",
+                "Astromech",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "wesjanson": {
+            "name": "Wes Janson",
+            "subtitle": "Wisecracking Wingman",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 17,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Astromech",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "yendor-battleoverendor": {
+            "name": "Yendor",
+            "subtitle": "Battle Over Endor",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "bluesquadronescort": {
+            "name": "Blue Squadron Escort",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 5,
+            "loadout": 18,
+            "slots": [
+                "Astromech",
+                "Torpedo",
+                "Configuration",
+                "Modification"
+            ],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "cavernangelszealot": {
+            "name": "Cavern Angels Zealot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 12,
+            "slots": [
+                "Astromech",
+                "Illicit",
+                "Configuration",
+                "Modification"
+            ],
+            "keywords": [
+                "Partisan",
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "redsquadronveteran": {
+            "name": "Red Squadron Veteran",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 4,
+            "loadout": 8,
+            "slots": [
+                "Talent",
+                "Astromech",
+                "Configuration"
+            ],
+            "keywords": [
+                "X-wing"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/ln Fighter": {
+        "captainrex": {
+            "name": "Captain Rex",
+            "subtitle": "Clone Wars Veteran",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 11,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [
+                "Clone",
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "ezrabridger-tielnfighter": {
+            "name": "Ezra Bridger",
+            "subtitle": "Spectre-6",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 11,
+            "slots": [
+                "Modification",
+                "Crew",
+                "Force Power"
+            ],
+            "keywords": [
+                "Light Side",
+                "Spectre",
+                "TIE"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sabinewren-tielnfighter": {
+            "name": "Sabine Wren",
+            "subtitle": "Spectre-5",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 11,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [
+                "Mandalorian",
+                "TIE",
+                "Spectre"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "zeborrelios-tielnfighter": {
+            "name": "“Zeb” Orrelios",
+            "subtitle": "Spectre-4",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 11,
+            "slots": [
+                "Crew",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE",
+                "Spectre"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "UT-60D U-wing": {
+        "benthictwotubes": {
+            "name": "Benthic Two Tubes",
+            "subtitle": "Cavern Angels Marksman",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 17,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Partisan"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "bodhirook": {
+            "name": "Bodhi Rook",
+            "subtitle": "Imperial Defector",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 6,
+            "slots": [
+                "Sensor",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "cassianandor": {
+            "name": "Cassian Andor",
+            "subtitle": "Raised by the Rebellion",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 14,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Crew",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "hefftobber": {
+            "name": "Heff Tobber",
+            "subtitle": "Blue Eight",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 21,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "k2so": {
+            "name": "K-2SO",
+            "subtitle": "Cassian Said I Had To",
+            "limited": 1,
+            "cost": 4,
+            "loadout": 6,
+            "slots": [
+                "Sensor",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "magvayarro": {
+            "name": "Magva Yarro",
+            "subtitle": "Cavern Angels Spotter",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 15,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Partisan"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "sawgerrera": {
+            "name": "Saw Gerrera",
+            "subtitle": "Obsessive Outlaw",
+            "limited": 1,
+            "cost": 5,
+            "loadout": 13,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Partisan"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "bluesquadronscout": {
+            "name": "Blue Squadron Scout",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 5,
+            "loadout": 22,
+            "slots": [
+                "Sensor",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "partisanrenegade": {
+            "name": "Partisan Renegade",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 5,
+            "loadout": 22,
+            "slots": [
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Configuration",
+                "Modification"
+            ],
+            "keywords": [
+                "Partisan"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "VCX-100 Light Freighter": {
+        "alexsandrkallus": {
+            "name": "Alexsandr Kallus",
+            "subtitle": "Fulcrum",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 10,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Turret",
+                "Torpedo",
+                "Crew",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Freighter",
+                "Spectre"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "chopper": {
+            "name": "“Chopper”",
+            "subtitle": "Spectre-3",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 14,
+            "slots": [
+                "Sensor",
+                "Turret",
+                "Torpedo",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Title",
+                "Crew"
+            ],
+            "keywords": [
+                "Droid",
+                "Freighter",
+                "Spectre"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "herasyndulla-vcx100lightfreighter": {
+            "name": "Hera Syndulla",
+            "subtitle": "Spectre-2",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 22,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Turret",
+                "Torpedo",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Title",
+                "Gunner"
+            ],
+            "keywords": [
+                "Freighter",
+                "Spectre"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "kananjarrus": {
+            "name": "Kanan Jarrus",
+            "subtitle": "Spectre-1",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 18,
+            "slots": [
+                "Sensor",
+                "Turret",
+                "Torpedo",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Title",
+                "Gunner",
+                "Force Power"
+            ],
+            "keywords": [
+                "Freighter",
+                "Jedi",
+                "Light Side",
+                "Spectre"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "lothalrebel": {
+            "name": "Lothal Rebel",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 6,
+            "loadout": 10,
+            "slots": [
+                "Turret",
+                "Torpedo",
+                "Crew"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "YT-2400 Light Freighter": {
+        "dashrendar-swz103-rebelalliance": {
+            "name": "Dash Rendar",
+            "subtitle": "Freighter for Hire",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 20,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Crew",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "dashrendar": {
+            "name": "Dash Rendar",
+            "subtitle": "Hotshot Mercenary",
+            "limited": 1,
+            "cost": 8,
+            "loadout": 20,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Crew",
+                "Illicit",
+                "Illicit",
+                "Modification"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "dashrendar-swz103-sl-rebelalliance": {
+            "name": "Dash Rendar",
+            "subtitle": "In it for Himself",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "leebo": {
+            "name": "“Leebo”",
+            "subtitle": "Dry-Witted Droid",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 22,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Illicit",
+                "Illicit",
+                "Modification"
+            ],
+            "keywords": [
+                "Droid",
+                "Freighter"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "leebo-swz103-sl-rebelalliance": {
+            "name": "“Leebo”",
+            "subtitle": "He Thinks He's Funny",
+            "limited": 1,
+            "cost": 7,
+            "loadout": 0,
+            "slots": [],
+            "keywords": [
+                "Droid",
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "leebo-swz103-rebelalliance": {
+            "name": "“Leebo”",
+            "subtitle": "Wisdom of Ages",
+            "limited": 1,
+            "cost": 6,
+            "loadout": 7,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Illicit",
+                "Illicit",
+                "Crew",
+                "Title"
+            ],
+            "keywords": [
+                "Droid",
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "wildspacefringer": {
+            "name": "Wild Space Fringer",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 7,
+            "loadout": 19,
+            "slots": [
+                "Missile",
+                "Gunner",
+                "Illicit",
+                "Modification"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "No",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Z-95-AF4 Headhunter": {
+        "airencracken": {
+            "name": "Airen Cracken",
+            "subtitle": "Intelligence Chief",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 6,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Sensor",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "lieutenantblount": {
+            "name": "Lieutenant Blount",
+            "subtitle": "Team Player",
+            "limited": 1,
+            "cost": 3,
+            "loadout": 11,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "banditsquadronpilot": {
+            "name": "Bandit Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 3,
+            "loadout": 12,
+            "slots": [
+                "Missile",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        },
+        "talasquadronpilot": {
+            "name": "Tala Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 3,
+            "loadout": 10,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "extended": "Yes",
+            "epic": "Yes"
+        }
+    }
+}

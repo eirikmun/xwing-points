@@ -1,0 +1,8143 @@
+{
+    "chopper": {
+        "name": "“Chopper”",
+        "cost": 2,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "genius": {
+        "name": "“Genius”",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r2astromech": {
+        "name": "R2 Astromech",
+        "cost": 8,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r2d2": {
+        "name": "R2-D2",
+        "cost": 10,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r3astromech": {
+        "name": "R3 Astromech",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r4astromech": {
+        "name": "R4 Astromech",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r5astromech": {
+        "name": "R5 Astromech",
+        "cost": 7,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r5d8": {
+        "name": "R5-D8",
+        "cost": 9,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r5p8": {
+        "name": "R5-P8",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r5tk": {
+        "name": "R5-TK",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r5x3": {
+        "name": "R5-X3",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r2ha": {
+        "name": "R2-HA",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "bb8": {
+        "name": "BB-8",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "bbastromech": {
+        "name": "BB Astromech",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "m9g8": {
+        "name": "M9-G8",
+        "cost": 7,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r2c4": {
+        "name": "R2-C4",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r4pastromech": {
+        "name": "R4-P Astromech",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r4p17": {
+        "name": "R4-P17",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r4p44": {
+        "name": "R4-P44",
+        "cost": 2,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r2a6": {
+        "name": "R2-A6",
+        "cost": 6,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "c110p": {
+        "name": "C1-10P  / + \nC1-10P (Erratic)",
+        "cost": 10,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r1j5": {
+        "name": "R1-J5",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "q7astromech": {
+        "name": "Q7 Astromech",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r2d2-republic": {
+        "name": "R2-D2",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r2d2-resistance": {
+        "name": "R2-D2",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r6d8": {
+        "name": "R6-D8",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r7a7": {
+        "name": "R7-A7",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "r4b11": {
+        "name": "R4-B11",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "watchfulastromech": {
+        "name": "Watchful Astromech",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "l4er5": {
+        "name": "L4E-R5",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            },
+            {
+                "action": {
+                    "type": "Rotate Arc"
+                }
+            }
+        ],
+        "slots": [
+            "Astromech"
+        ]
+    },
+    "heavylasercannon": {
+        "name": "Heavy Laser Cannon",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Cannon"
+        ]
+    },
+    "ioncannon": {
+        "name": "Ion Cannon",
+        "cost": 6,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Cannon"
+        ]
+    },
+    "jammingbeam": {
+        "name": "Jamming Beam",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Cannon"
+        ]
+    },
+    "tractorbeam": {
+        "name": "Tractor Beam",
+        "cost": 6,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Cannon"
+        ]
+    },
+    "autoblasters": {
+        "name": "Autoblasters",
+        "cost": 7,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Cannon"
+        ]
+    },
+    "syncedlasercannons": {
+        "name": "Synced Laser Cannons",
+        "cost": 6,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Cannon",
+            "Cannon"
+        ]
+    },
+    "protoncannons": {
+        "name": "Proton Cannons",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Cannon",
+            "Cannon"
+        ]
+    },
+    "underslungblastercannon": {
+        "name": "Underslung Blaster Cannon",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            },
+            {
+                "ships": [
+                    "t70xwing"
+                ]
+            }
+        ],
+        "slots": [
+            "Cannon"
+        ]
+    },
+    "adaptiveshields": {
+        "name": "Adaptive Shields",
+        "cost": 5,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Cargo"
+        ]
+    },
+    "boostedscanners": {
+        "name": "Boosted Scanners",
+        "cost": 7,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Cargo"
+        ]
+    },
+    "optimizedpowercore": {
+        "name": "Optimized Power Core",
+        "cost": 6,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Cargo"
+        ]
+    },
+    "tibannareserves": {
+        "name": "Tibanna Reserves",
+        "cost": 3,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Cargo"
+        ]
+    },
+    "agentoftheempire": {
+        "name": "Agent of the Empire",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Command"
+        ]
+    },
+    "dreadnoughthunter": {
+        "name": "Dreadnought Hunter",
+        "cost": 3,
+        "limited": 2,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Command"
+        ]
+    },
+    "firstorderelite": {
+        "name": "First Order Elite",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Command"
+        ]
+    },
+    "veteranwingleader": {
+        "name": "Veteran Wing Leader",
+        "cost": 2,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Command"
+        ]
+    },
+    "admiralozzel": {
+        "name": "Admiral Ozzel",
+        "cost": 6,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Command",
+            "Crew"
+        ]
+    },
+    "azmorigan": {
+        "name": "Azmorigan",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Command",
+            "Crew"
+        ]
+    },
+    "captainneeda": {
+        "name": "Captain Needa",
+        "cost": 8,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Command",
+            "Crew"
+        ]
+    },
+    "carlistrieekan": {
+        "name": "Carlist Rieekan",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Command",
+            "Crew"
+        ]
+    },
+    "jandodonna": {
+        "name": "Jan Dodonna",
+        "cost": 3,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Command",
+            "Crew"
+        ]
+    },
+    "raymusantilles": {
+        "name": "Raymus Antilles",
+        "cost": 8,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Command",
+            "Crew"
+        ]
+    },
+    "stalwartcaptain": {
+        "name": "Stalwart Captain",
+        "cost": 6,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Huge"
+                ]
+            }
+        ],
+        "slots": [
+            "Command",
+            "Crew"
+        ]
+    },
+    "strategiccommander": {
+        "name": "Strategic Commander",
+        "cost": 6,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Huge"
+                ]
+            }
+        ],
+        "slots": [
+            "Command",
+            "Crew"
+        ]
+    },
+    "jedicommander": {
+        "name": "Jedi Commander",
+        "cost": 4,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            },
+            {
+                "ships": [
+                    "delta7aethersprite",
+                    "eta2actis"
+                ]
+            }
+        ],
+        "slots": [
+            "Command"
+        ]
+    },
+    "b6bladewingprototype-command": {
+        "name": "B6 Blade Wing Prototype",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "asf01bwing"
+                ]
+            }
+        ],
+        "slots": [
+            "Command",
+            "Title"
+        ]
+    },
+    "bounty": {
+        "name": "Bounty",
+        "cost": 1,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Command"
+        ]
+    },
+    "phoenixsquadron": {
+        "name": "Phoenix Squadron",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Command"
+        ]
+    },
+    "shadowwing": {
+        "name": "Shadow Wing",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Command"
+        ]
+    },
+    "skystrikeacademyclass": {
+        "name": "Skystrike Academy Class",
+        "cost": 3,
+        "limited": 2,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Command"
+        ]
+    },
+    "initforthemoneyrebellion": {
+        "name": "In It For The Money/Rebellion",
+        "cost": 1,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "standardized": true
+            },
+            {
+                "non-limited": false
+            }
+        ],
+        "slots": [
+            "Command"
+        ]
+    },
+    "martuuk": {
+        "name": "Mar Tuuk",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            },
+            {
+                "sizes": [
+                    "Huge"
+                ]
+            }
+        ],
+        "slots": [
+            "Command",
+            "Crew"
+        ]
+    },
+    "rifftamson": {
+        "name": "Riff Tamson",
+        "cost": 6,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            },
+            {
+                "sizes": [
+                    "Huge"
+                ]
+            }
+        ],
+        "slots": [
+            "Command",
+            "Crew"
+        ]
+    },
+    "asajjventresscommand": {
+        "name": "Asajj Ventress",
+        "cost": 6,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance",
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "sizes": [
+                    "Huge"
+                ]
+            }
+        ],
+        "slots": [
+            "Command",
+            "Crew"
+        ]
+    },
+    "zealouscaptain": {
+        "name": "Zealous Captain",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Huge"
+                ]
+            }
+        ],
+        "slots": [
+            "Command",
+            "Crew"
+        ]
+    },
+    "hondoohnakacommand": {
+        "name": "Hondo Ohnaka",
+        "cost": 7,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Huge"
+                ]
+            }
+        ],
+        "slots": [
+            "Command",
+            "Crew"
+        ]
+    },
+    "generalgrievouscommand": {
+        "name": "General Grievous",
+        "cost": 5,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Huge"
+                ]
+            },
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Command",
+            "Crew"
+        ]
+    },
+    "combatboardingtube": {
+        "name": "Combat Boarding Tube",
+        "cost": 0,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "gauntletfighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Command",
+            "Configuration"
+        ]
+    },
+    "integratedsfoils": {
+        "name": "Integrated S-foils (Open) / + \nIntegrated S-foils (Closed)",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "t70xwing"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "os1arsenalloadout": {
+        "name": "Os-1 Arsenal Loadout",
+        "cost": 0,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "alphaclassstarwing"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "pivotwing": {
+        "name": "Pivot Wing (Open) / + \nPivot Wing (Closed)",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "ut60duwing"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "swivelwing": {
+        "name": "Swivel Wing (Up) / + \nSwivel Wing (Down)",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "gauntletfighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "servomotorsfoils": {
+        "name": "Servomotor S-foils (Open) / + \nServomotor S-foils (Closed)",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "t65xwing"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "xg1assaultconfiguration": {
+        "name": "Xg-1 Assault Configuration",
+        "cost": 0,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "alphaclassstarwing"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "grapplingstruts": {
+        "name": "Grappling Struts (Open) / + \nGrappling Struts (Closed)",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "vultureclassdroidfighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "calibratedlasertargeting": {
+        "name": "Calibrated Laser Targeting",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "delta7aethersprite"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration",
+            "Modification"
+        ]
+    },
+    "landingstruts": {
+        "name": "Landing Struts (Open) / + \nLanding Struts (Closed)",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "hyenaclassdroidbomber"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "corsairrefit": {
+        "name": "Corsair Refit",
+        "cost": 6,
+        "limited": 2,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "stabilizedsfoils": {
+        "name": "Stabilized S-foils (Open) / + \nStabilized S-foils (Closed)",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "asf01bwing"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "repulsorliftstabilizers": {
+        "name": "Repulsorlift Stabilizers (Active) / + \n Repulsorlift Stabilizers (Offline)",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "hmpdroidgunship"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "alpha3bbesh": {
+        "name": "Alpha-3B “Besh”",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "nimbusclassvwing"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "alpha3eesk": {
+        "name": "Alpha-3E “Esk”",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "nimbusclassvwing"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "interceptbooster": {
+        "name": "Intercept Booster (Attached) / + \nIntercept Booster (Detached)",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "droidtrifighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "maneuverassistmgk300": {
+        "name": "Maneuver-Assist MGK-300",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "tierbheavy"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "targetassistmgk300": {
+        "name": "Target-Assist MGK-300",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "tierbheavy"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "sensitivecontrols": {
+        "name": "Sensitive Controls",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "shipAbility": [
+                    "Autothrusters"
+                ]
+            },
+            {
+                "standardized": true
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "tiedefenderelite": {
+        "name": "TIE Defender Elite",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "ships": [
+                    "tieddefender"
+                ]
+            },
+            {
+                "standardized": true
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "vectoredcannonsrz1": {
+        "name": "Vectored Cannons (RZ-1)",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "shipAbility": [
+                    "Vectored Thrusters"
+                ]
+            },
+            {
+                "standardized": true
+            },
+            {
+                "ships": [
+                    "rz1awing"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration"
+        ]
+    },
+    "wartimeloadout": {
+        "name": "Wartime Loadout",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "btanr2ywing"
+                ]
+            }
+        ],
+        "slots": [
+            "Configuration",
+            "Modification"
+        ]
+    },
+    "enhancedjammingsuite": {
+        "name": "Enhanced Jamming Suite",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "tiewiwhispermodifiedinterceptor"
+                ]
+            },
+            {
+                "standardized": true
+            }
+        ],
+        "slots": [
+            "Configuration",
+            "Tech"
+        ]
+    },
+    "chopper-crew": {
+        "name": "“Chopper”",
+        "cost": 1,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "zeborrelios": {
+        "name": "“Zeb” Orrelios",
+        "cost": 1,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "000": {
+        "name": "0-0-0",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ],
+                "names": [
+                    "Darth Vader"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "4lom": {
+        "name": "4-LOM",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "admiralsloane": {
+        "name": "Admiral Sloane",
+        "cost": 25,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "agentkallus": {
+        "name": "Agent Kallus",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "bazemalbus": {
+        "name": "Baze Malbus",
+        "cost": 7,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "bobafett": {
+        "name": "Boba Fett",
+        "cost": 7,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "c3po": {
+        "name": "C-3PO",
+        "cost": 7,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "cadbane": {
+        "name": "Cad Bane",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "captainphasma": {
+        "name": "Captain Phasma",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "cassianandor": {
+        "name": "Cassian Andor",
+        "cost": 7,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "chewbacca": {
+        "name": "Chewbacca",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "chewbacca-crew": {
+        "name": "Chewbacca",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "cienaree": {
+        "name": "Ciena Ree",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "action": {
+                    "type": "Coordinate"
+                }
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "cikatrovizago": {
+        "name": "Cikatro Vizago",
+        "cost": 1,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "darthvader": {
+        "name": "Darth Vader",
+        "cost": 15,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "deathtroopers": {
+        "name": "Death Troopers",
+        "cost": 10,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew",
+            "Crew"
+        ]
+    },
+    "directorkrennic": {
+        "name": "Director Krennic",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "emperorpalpatine": {
+        "name": "Emperor Palpatine",
+        "cost": 12,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew",
+            "Crew"
+        ]
+    },
+    "freelanceslicer": {
+        "name": "Freelance Slicer",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "generalhux": {
+        "name": "General Hux",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            },
+            {
+                "action": {
+                    "type": "Coordinate"
+                }
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "gnkgonkdroid": {
+        "name": "GNK “Gonk” Droid",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "grandinquisitor": {
+        "name": "Grand Inquisitor",
+        "cost": 12,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "grandmofftarkin": {
+        "name": "Grand Moff Tarkin",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "action": {
+                    "type": "Lock"
+                }
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "herasyndulla": {
+        "name": "Hera Syndulla",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "ig88d": {
+        "name": "IG-88D",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "isbslicer": {
+        "name": "ISB Slicer",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "informant": {
+        "name": "Informant",
+        "cost": 6,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "jabbathehutt": {
+        "name": "Jabba the Hutt",
+        "cost": 11,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew",
+            "Crew"
+        ]
+    },
+    "jynerso": {
+        "name": "Jyn Erso",
+        "cost": 7,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "kananjarrus": {
+        "name": "Kanan Jarrus",
+        "cost": 12,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "ketsuonyo": {
+        "name": "Ketsu Onyo",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "kyloren": {
+        "name": "Kylo Ren",
+        "cost": 9,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "l337": {
+        "name": "L3-37 / + \nL3-37's Programming",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew / Configuration"
+        ]
+    },
+    "landocalrissian-crew": {
+        "name": "Lando Calrissian",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "landocalrissian": {
+        "name": "Lando Calrissian",
+        "cost": 2,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "lattsrazzi": {
+        "name": "Latts Razzi",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "leiaorgana": {
+        "name": "Leia Organa",
+        "cost": 7,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "magvayarro": {
+        "name": "Magva Yarro",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "maul": {
+        "name": "Maul",
+        "cost": 12,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ],
+                "names": [
+                    "Ezra Bridger"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "ministertua": {
+        "name": "Minister Tua",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "moffjerjerrod": {
+        "name": "Moff Jerjerrod",
+        "cost": 7,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "action": {
+                    "type": "Coordinate"
+                }
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "niennunb": {
+        "name": "Nien Nunb",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "novicetechnician": {
+        "name": "Novice Technician",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "perceptivecopilot": {
+        "name": "Perceptive Copilot",
+        "cost": 8,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "pettyofficerthanisson": {
+        "name": "Petty Officer Thanisson",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "qira": {
+        "name": "Qi'ra",
+        "cost": 2,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "r2d2-crew": {
+        "name": "R2-D2",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "sabinewren": {
+        "name": "Sabine Wren",
+        "cost": 5,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "sawgerrera": {
+        "name": "Saw Gerrera",
+        "cost": 9,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "seasonednavigator": {
+        "name": "Seasoned Navigator",
+        "cost": 7,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "seventhsister": {
+        "name": "Seventh Sister",
+        "cost": 9,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "supremeleadersnoke": {
+        "name": "Supreme Leader Snoke",
+        "cost": 15,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew",
+            "Crew"
+        ]
+    },
+    "tacticalofficer": {
+        "name": "Tactical Officer",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "action": {
+                    "type": "Coordinate",
+                    "difficulty": "Red"
+                }
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "tobiasbeckett": {
+        "name": "Tobias Beckett",
+        "cost": 8,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "unkarplutt": {
+        "name": "Unkar Plutt",
+        "cost": 2,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "zuckuss": {
+        "name": "Zuckuss",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "c3po-crew": {
+        "name": "C-3PO",
+        "cost": 7,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "hansolo-crew": {
+        "name": "Han Solo",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "chewbacca-crew-swz19": {
+        "name": "Chewbacca",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "rosetico": {
+        "name": "Rose Tico",
+        "cost": 9,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "chancellorpalpatine": {
+        "name": "Chancellor Palpatine / + \nDarth Sidious",
+        "cost": 11,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic",
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "countdooku": {
+        "name": "Count Dooku",
+        "cost": 12,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "generalgrievous": {
+        "name": "General Grievous",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "amilynholdo": {
+        "name": "Amilyn Holdo",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "ga97": {
+        "name": "GA-97",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "kaydelconnix": {
+        "name": "Kaydel Connix",
+        "cost": 8,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "korrsella": {
+        "name": "Korr Sella",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "larmadacy": {
+        "name": "Larma D'Acy",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "leiaorgana-resistance": {
+        "name": "Leia Organa",
+        "cost": 10,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew",
+            "Crew"
+        ]
+    },
+    "pz4co": {
+        "name": "PZ-4CO",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "c3po-republic": {
+        "name": "C-3PO",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "aaylasecura": {
+        "name": "Aayla Secura",
+        "cost": 12,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "agentterex": {
+        "name": "Agent Terex / + \nAgent Terex (Cyborg)",
+        "cost": 7,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "k2so": {
+        "name": "K-2SO",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "plokoon": {
+        "name": "Plo Koon",
+        "cost": 9,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "torynfarr": {
+        "name": "Toryn Farr",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "kitfisto": {
+        "name": "Kit Fisto",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "yoda": {
+        "name": "Yoda",
+        "cost": 12,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "fives": {
+        "name": "“Fives”",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "wolfpack": {
+        "name": "Wolfpack",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew",
+            "Gunner"
+        ]
+    },
+    "commandermalarus": {
+        "name": "Commander Malarus / + \nCommander Malarus (Perfected)",
+        "cost": 2,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "ghostcompany": {
+        "name": "Ghost Company",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            },
+            {
+                "action": {
+                    "type": "Rotate Arc"
+                }
+            }
+        ],
+        "slots": [
+            "Crew",
+            "Gunner"
+        ]
+    },
+    "commanderpyre": {
+        "name": "Commander Pyre",
+        "cost": 10,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "hondoohnaka": {
+        "name": "Hondo Ohnaka",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "jangofett": {
+        "name": "Jango Fett",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy",
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "zamwesell": {
+        "name": "Zam Wesell",
+        "cost": 9,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy",
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "gamutkey": {
+        "name": "Gamut Key",
+        "cost": 7,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "protectorategleb": {
+        "name": "Protectorate Gleb",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy",
+                    "galacticempire",
+                    "firstorder"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "themandalorian": {
+        "name": "The Mandalorian",
+        "cost": 2,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "thechild": {
+        "name": "The Child",
+        "cost": 7,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire",
+                    "rebelalliance",
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "ig11": {
+        "name": "IG-11 / + \nIG-11 (Anti-Capture Protocol)",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "greefkarga": {
+        "name": "Greef Karga",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "kuiil": {
+        "name": "Kuiil",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "pelimotto": {
+        "name": "Peli Motto",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "sizes": [
+                    "Medium",
+                    "Large"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "primeministeralmec": {
+        "name": "Prime Minister Almec / + \nAlmec, Maul's Puppet",
+        "cost": 7,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy",
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "rookkast": {
+        "name": "Rook Kast",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "obiwankenobi": {
+        "name": "Obi-Wan Kenobi",
+        "cost": 11,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "bokatankryze": {
+        "name": "Bo-Katan Kryze",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic",
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "bokatankryze-rebel-scum": {
+        "name": "Bo-Katan Kryze",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy",
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "korkiekryze": {
+        "name": "Korkie Kryze",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "satinekryze": {
+        "name": "Satine Kryze",
+        "cost": 15,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "talmerrik": {
+        "name": "Tal Merrik",
+        "cost": 7,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "savageopress": {
+        "name": "Savage Opress",
+        "cost": 10,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy",
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "fennrau": {
+        "name": "Fenn Rau",
+        "cost": 7,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy",
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "garsaxon": {
+        "name": "Gar Saxon",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "previzsla": {
+        "name": "Pre Vizsla",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy",
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "tristanwren": {
+        "name": "Tristan Wren",
+        "cost": 2,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ],
+                "names": [
+                    "Gar Saxon"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "ursawren": {
+        "name": "Ursa Wren",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "captainhark": {
+        "name": "Captain Hark",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "ahsokatano-crew": {
+        "name": "Ahsoka Tano",
+        "cost": 10,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy",
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew"
+        ]
+    },
+    "maul-crew": {
+        "name": "Maul",
+        "cost": 10,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew",
+            "Crew"
+        ]
+    },
+    "clanwrencommandos": {
+        "name": "Clan Wren Commandos",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "sizes": [
+                    "Medium",
+                    "Large",
+                    "Huge"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew",
+            "Crew"
+        ]
+    },
+    "imperialsupercommandos": {
+        "name": "Imperial Super Commandos",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "sizes": [
+                    "Medium",
+                    "Large",
+                    "Huge"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew",
+            "Crew"
+        ]
+    },
+    "mandaloriansupercommandos": {
+        "name": "Mandalorian Super Commandos",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "sizes": [
+                    "Medium",
+                    "Large",
+                    "Huge"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew",
+            "Crew"
+        ]
+    },
+    "niteowlcommandos": {
+        "name": "Nite Owl Commandos",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            },
+            {
+                "sizes": [
+                    "Medium",
+                    "Large",
+                    "Huge"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew",
+            "Crew"
+        ]
+    },
+    "deathwatchcommandos": {
+        "name": "Death Watch Commandos",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            },
+            {
+                "sizes": [
+                    "Medium",
+                    "Large",
+                    "Huge"
+                ]
+            }
+        ],
+        "slots": [
+            "Crew",
+            "Crew"
+        ]
+    },
+    "bombletgenerator": {
+        "name": "Bomblet Generator",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Payload",
+            "Payload"
+        ]
+    },
+    "blazerbomb": {
+        "name": "Blazer Bomb",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Payload"
+        ]
+    },
+    "connernets": {
+        "name": "Conner Nets",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Payload"
+        ]
+    },
+    "protonbombs": {
+        "name": "Proton Bombs",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Payload"
+        ]
+    },
+    "proximitymines": {
+        "name": "Proximity Mines",
+        "cost": 9,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Payload"
+        ]
+    },
+    "seismiccharges": {
+        "name": "Seismic Charges",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Payload"
+        ]
+    },
+    "drk1probedroids": {
+        "name": "DRK-1 Probe Droids",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Payload"
+        ]
+    },
+    "electroprotonbomb": {
+        "name": "Electro-Proton Bomb",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "action": {
+                    "type": "Reload"
+                }
+            }
+        ],
+        "slots": [
+            "Payload",
+            "Modification"
+        ]
+    },
+    "clustermines": {
+        "name": "Cluster Mines",
+        "cost": 7,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Payload"
+        ]
+    },
+    "ionbombs": {
+        "name": "Ion Bombs",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Payload"
+        ]
+    },
+    "concussionbombs": {
+        "name": "Concussion Bombs",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Payload"
+        ]
+    },
+    "thermaldetonators": {
+        "name": "Thermal Detonators",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Payload"
+        ]
+    },
+    "heightenedperception": {
+        "name": "Heightened Perception",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "instinctiveaim": {
+        "name": "Instinctive Aim",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "sense": {
+        "name": "Sense",
+        "cost": 10,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "supernaturalreflexes": {
+        "name": "Supernatural Reflexes",
+        "cost": 24,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small"
+                ]
+            }
+        ],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "brilliantevasion": {
+        "name": "Brilliant Evasion",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "hate": {
+        "name": "Hate",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "force_side": [
+                    "dark"
+                ]
+            }
+        ],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "predictiveshot": {
+        "name": "Predictive Shot",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "battlemeditation": {
+        "name": "Battle Meditation",
+        "cost": 6,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "foresight": {
+        "name": "Foresight",
+        "cost": 6,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "precognitivereflexes": {
+        "name": "Precognitive Reflexes",
+        "cost": 15,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small"
+                ]
+            }
+        ],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "extrememaneuvers": {
+        "name": "Extreme Maneuvers",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small"
+                ]
+            },
+            {
+                "action": {
+                    "type": "Boost"
+                }
+            }
+        ],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "compassion": {
+        "name": "Compassion",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "force_side": [
+                    "light"
+                ]
+            }
+        ],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "malice": {
+        "name": "Malice",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "force_side": [
+                    "dark"
+                ]
+            }
+        ],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "shatteringshot": {
+        "name": "Shattering Shot",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "patience": {
+        "name": "Patience",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "force_side": [
+                    "light"
+                ]
+            }
+        ],
+        "slots": [
+            "Force Power"
+        ]
+    },
+    "agilegunner": {
+        "name": "Agile Gunner",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "bt1": {
+        "name": "BT-1",
+        "cost": 2,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ],
+                "names": [
+                    "Darth Vader"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "bistan": {
+        "name": "Bistan",
+        "cost": 12,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "bossk": {
+        "name": "Bossk",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "dengar": {
+        "name": "Dengar",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "ezrabridger": {
+        "name": "Ezra Bridger",
+        "cost": 9,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "fifthbrother": {
+        "name": "Fifth Brother",
+        "cost": 12,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "greedo": {
+        "name": "Greedo",
+        "cost": 1,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "hansolo": {
+        "name": "Han Solo",
+        "cost": 10,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "hansolo-gunner": {
+        "name": "Han Solo",
+        "cost": 7,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "hotshotgunner": {
+        "name": "Hotshot Gunner",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "lukeskywalker": {
+        "name": "Luke Skywalker",
+        "cost": 12,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "skilledbombardier": {
+        "name": "Skilled Bombardier",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "specialforcesgunner": {
+        "name": "Special Forces Gunner",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            },
+            {
+                "ships": [
+                    "tiesffighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "veterantailgunner": {
+        "name": "Veteran Tail Gunner",
+        "cost": 6,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "arcs": [
+                    "Rear Arc"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "veteranturretgunner": {
+        "name": "Veteran Turret Gunner",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "action": {
+                    "type": "Rotate Arc"
+                }
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "finn": {
+        "name": "Finn",
+        "cost": 9,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "paigetico": {
+        "name": "Paige Tico",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "rey-gunner": {
+        "name": "Rey",
+        "cost": 14,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "seventhfleetgunner": {
+        "name": "Seventh Fleet Gunner",
+        "cost": 9,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "clonecommandercody": {
+        "name": "Clone Commander Cody",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "ahsokatano": {
+        "name": "Ahsoka Tano",
+        "cost": 12,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "clonecaptainrex": {
+        "name": "Clone Captain Rex",
+        "cost": 2,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "suppressivegunner": {
+        "name": "Suppressive Gunner",
+        "cost": 7,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "bobafett-gunner": {
+        "name": "Boba Fett",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance",
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "weaponssystemsofficer": {
+        "name": "Weapons Systems Officer",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "sabinewren-gunner": {
+        "name": "Sabine Wren",
+        "cost": 2,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "dt798": {
+        "name": "DT-798",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "firstorderordnancetech": {
+        "name": "First Order Ordnance Tech",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "garsaxon-gunner": {
+        "name": "Gar Saxon",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Large",
+                    "Huge"
+                ]
+            },
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "tibersaxon": {
+        "name": "Tiber Saxon",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "ursawren-gunner": {
+        "name": "Ursa Wren",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic",
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "migsmayfeld": {
+        "name": "Migs Mayfeld",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire",
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Gunner"
+        ]
+    },
+    "ioncannonbattery": {
+        "name": "Ion Cannon Battery",
+        "cost": 5,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Hardpoint"
+        ]
+    },
+    "ordnancetubes": {
+        "name": "Ordnance Tubes",
+        "cost": 1,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Hardpoint"
+        ]
+    },
+    "pointdefensebattery": {
+        "name": "Point-Defense Battery",
+        "cost": 9,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Hardpoint"
+        ]
+    },
+    "targetingbattery": {
+        "name": "Targeting Battery",
+        "cost": 5,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Hardpoint"
+        ]
+    },
+    "turbolaserbattery": {
+        "name": "Turbolaser Battery",
+        "cost": 10,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Hardpoint"
+        ]
+    },
+    "tractortentacles": {
+        "name": "Tractor Tentacles",
+        "cost": 0,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Huge"
+                ]
+            },
+            {
+                "ships": [
+                    "tridentclassassaultship"
+                ]
+            }
+        ],
+        "slots": [
+            "Hardpoint"
+        ]
+    },
+    "protoncannonbattery": {
+        "name": "Proton Cannon Battery",
+        "cost": 10,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Hardpoint",
+            "Cargo"
+        ]
+    },
+    "enhancedpropulsion": {
+        "name": "Enhanced Propulsion",
+        "cost": 6,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Huge"
+                ]
+            },
+            {
+                "ships": [
+                    "tridentclassassaultship"
+                ]
+            }
+        ],
+        "slots": [
+            "Hardpoint",
+            "Cargo"
+        ]
+    },
+    "drillbeak": {
+        "name": "Drill Beak",
+        "cost": 4,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Huge"
+                ]
+            },
+            {
+                "ships": [
+                    "tridentclassassaultship"
+                ]
+            }
+        ],
+        "slots": [
+            "Hardpoint",
+            "Cargo"
+        ]
+    },
+    "cloakingdevice": {
+        "name": "Cloaking Device",
+        "cost": 8,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small",
+                    "Medium"
+                ]
+            }
+        ],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "contrabandcybernetics": {
+        "name": "Contraband Cybernetics",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "deadmansswitch": {
+        "name": "Deadman's Switch",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "feedbackarray": {
+        "name": "Feedback Array",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "inertialdampeners": {
+        "name": "Inertial Dampeners",
+        "cost": 8,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "riggedcargochute": {
+        "name": "Rigged Cargo Chute",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Medium",
+                    "Large"
+                ]
+            }
+        ],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "coaxiumhyperfuel": {
+        "name": "Coaxium Hyperfuel",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "quickreleaselocks": {
+        "name": "Quick-Release Locks",
+        "cost": 5,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "saboteursmap": {
+        "name": "Saboteur's Map",
+        "cost": 3,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "scannerbaffler": {
+        "name": "Scanner Baffler",
+        "cost": 8,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "falsetranspondercodes": {
+        "name": "False Transponder Codes",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "babufrik": {
+        "name": "Babu Frik",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy",
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "overtunedmodulators": {
+        "name": "Overtuned Modulators",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "trackingfob": {
+        "name": "Tracking Fob",
+        "cost": 3,
+        "limited": 3,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "keywords": [
+                    "Bounty Hunter"
+                ]
+            }
+        ],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "hotshottailblaster": {
+        "name": "Hotshot Tail Blaster",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Medium",
+                    "Large"
+                ]
+            }
+        ],
+        "slots": [
+            "Illicit"
+        ]
+    },
+    "barragerockets": {
+        "name": "Barrage Rockets",
+        "cost": 8,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Missile",
+            "Missile"
+        ]
+    },
+    "clustermissiles": {
+        "name": "Cluster Missiles",
+        "cost": 6,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Missile"
+        ]
+    },
+    "concussionmissiles": {
+        "name": "Concussion Missiles",
+        "cost": 7,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Missile"
+        ]
+    },
+    "homingmissiles": {
+        "name": "Homing Missiles",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Missile"
+        ]
+    },
+    "ionmissiles": {
+        "name": "Ion Missiles",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Missile"
+        ]
+    },
+    "protonrockets": {
+        "name": "Proton Rockets",
+        "cost": 6,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Missile"
+        ]
+    },
+    "energyshellcharges": {
+        "name": "Energy-Shell Charges",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "action": {
+                    "type": "Calculate",
+                    "difficulty": "White"
+                }
+            },
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Missile",
+            "Modification"
+        ]
+    },
+    "discordmissiles": {
+        "name": "Discord Missiles",
+        "cost": 4,
+        "limited": 3,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Missile"
+        ]
+    },
+    "diamondboronmissiles": {
+        "name": "Diamond-Boron Missiles",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Missile",
+            "Missile"
+        ]
+    },
+    "magpulsewarheads": {
+        "name": "Mag-Pulse Warheads",
+        "cost": 7,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Missile"
+        ]
+    },
+    "electrochaffmissiles": {
+        "name": "Electro-Chaff Missiles",
+        "cost": 11,
+        "limited": 2,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Missile",
+            "Payload"
+        ]
+    },
+    "multimissilepods": {
+        "name": "Multi-Missile Pods",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Missile",
+            "Missile"
+        ]
+    },
+    "xx23sthreadtracers": {
+        "name": "XX-23 S-Thread Tracers",
+        "cost": 4,
+        "limited": 2,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Missile"
+        ]
+    },
+    "ablativeplating": {
+        "name": "Ablative Plating",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Medium",
+                    "Large"
+                ]
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "advancedslam": {
+        "name": "Advanced SLAM",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "action": {
+                    "type": "SLAM",
+                    "difficulty": "White"
+                }
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "afterburners": {
+        "name": "Afterburners",
+        "cost": 8,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small"
+                ]
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "electronicbaffle": {
+        "name": "Electronic Baffle",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "engineupgrade": {
+        "name": "Engine Upgrade",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "action": {
+                    "type": "Boost",
+                    "difficulty": "Red"
+                }
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "hullupgrade": {
+        "name": "Hull Upgrade",
+        "cost": 9,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "munitionsfailsafe": {
+        "name": "Munitions Failsafe",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "shieldupgrade": {
+        "name": "Shield Upgrade",
+        "cost": 10,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "staticdischargevanes": {
+        "name": "Static Discharge Vanes",
+        "cost": 12,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "stealthdevice": {
+        "name": "Stealth Device",
+        "cost": 8,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Medium",
+                    "Large"
+                ]
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "tacticalscrambler": {
+        "name": "Tactical Scrambler",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Medium",
+                    "Large"
+                ]
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "imperviumplating": {
+        "name": "Impervium Plating",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "belbullab22starfighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "synchronizedconsole": {
+        "name": "Synchronized Console",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            },
+            {
+                "action": {
+                    "type": "Lock",
+                    "difficulty": "White"
+                }
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "sparepartscanisters": {
+        "name": "Spare Parts Canisters",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "equipped": [
+                    "Astromech"
+                ]
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "delayedfuses": {
+        "name": "Delayed Fuses",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "angleddeflectors": {
+        "name": "Angled Deflectors",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small",
+                    "Medium"
+                ]
+            },
+            {
+                "shipStat": [
+                    "Shield value of 1 or more"
+                ]
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "targetingcomputer": {
+        "name": "Targeting Computer",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "independentcalculations": {
+        "name": "Independent Calculations",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "shipAbility": [
+                    "Networked Calculations"
+                ]
+            },
+            {
+                "standardized": true
+            },
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "overdrivethruster": {
+        "name": "Overdrive Thruster",
+        "cost": 5,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "t70xwing"
+                ]
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "precisionionengines": {
+        "name": "Precision Ion Engines",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "shipStat": [
+                    "Agility 3"
+                ]
+            },
+            {
+                "keywords": [
+                    "TIE"
+                ]
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "mandalorianoptics": {
+        "name": "Mandalorian Optics",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "keywords": [
+                    "Mandalorian"
+                ]
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "dropseatbay": {
+        "name": "Drop-Seat bay",
+        "cost": 0,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "gauntletfighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "beskarreinforcedplating": {
+        "name": "Beskar Reinforced Plating",
+        "cost": 6,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "keywords": [
+                    "Mandalorian"
+                ]
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "burnoutthrusters": {
+        "name": "Burnout Thrusters",
+        "cost": 6,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "sizes": [
+                    "Small",
+                    "Medium"
+                ]
+            }
+        ],
+        "slots": [
+            "Modification"
+        ]
+    },
+    "advancedsensors": {
+        "name": "Advanced Sensors",
+        "cost": 8,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Sensor"
+        ]
+    },
+    "collisiondetector": {
+        "name": "Collision Detector",
+        "cost": 7,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Sensor"
+        ]
+    },
+    "firecontrolsystem": {
+        "name": "Fire-Control System",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Sensor"
+        ]
+    },
+    "trajectorysimulator": {
+        "name": "Trajectory Simulator",
+        "cost": 10,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Sensor"
+        ]
+    },
+    "passivesensors": {
+        "name": "Passive Sensors",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Sensor"
+        ]
+    },
+    "kraken": {
+        "name": "Kraken",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            },
+            {
+                "solitary": true
+            }
+        ],
+        "slots": [
+            "Tactical Relay"
+        ]
+    },
+    "tv94": {
+        "name": "TV-94",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            },
+            {
+                "solitary": true
+            }
+        ],
+        "slots": [
+            "Tactical Relay"
+        ]
+    },
+    "k2b4": {
+        "name": "K2-B4",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            },
+            {
+                "solitary": true
+            }
+        ],
+        "slots": [
+            "Tactical Relay"
+        ]
+    },
+    "ta175": {
+        "name": "TA-175",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            },
+            {
+                "solitary": true
+            }
+        ],
+        "slots": [
+            "Tactical Relay"
+        ]
+    },
+    "kalani": {
+        "name": "Kalani",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            },
+            {
+                "solitary": true
+            }
+        ],
+        "slots": [
+            "Tactical Relay"
+        ]
+    },
+    "composure": {
+        "name": "Composure",
+        "cost": 1,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "action": {
+                    "type": "Focus"
+                }
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "crackshot": {
+        "name": "Crack Shot",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "daredevil": {
+        "name": "Daredevil",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small"
+                ]
+            },
+            {
+                "action": {
+                    "type": "Boost",
+                    "difficulty": "White"
+                }
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "debrisgambit": {
+        "name": "Debris Gambit",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small",
+                    "Medium"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "elusive": {
+        "name": "Elusive",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small",
+                    "Medium"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "experthandling": {
+        "name": "Expert Handling",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "action": {
+                    "type": "Barrel Roll",
+                    "difficulty": "Red"
+                }
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "fanatical": {
+        "name": "Fanatical",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "fearless": {
+        "name": "Fearless",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "heroic": {
+        "name": "Heroic",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "intimidation": {
+        "name": "Intimidation",
+        "cost": 7,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small",
+                    "Medium"
+                ]
+            },
+            {
+                "non-limited": false
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "juke": {
+        "name": "Juke",
+        "cost": 7,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small",
+                    "Medium"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "lonewolf": {
+        "name": "Lone Wolf",
+        "cost": 3,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "marksmanship": {
+        "name": "Marksmanship",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "outmaneuver": {
+        "name": "Outmaneuver",
+        "cost": 9,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "predator": {
+        "name": "Predator",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "ruthless": {
+        "name": "Ruthless",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "saturationsalvo": {
+        "name": "Saturation Salvo",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "action": {
+                    "type": "Reload"
+                }
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "selfless": {
+        "name": "Selfless",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "squadleader": {
+        "name": "Squad Leader",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "swarmtactics": {
+        "name": "Swarm Tactics",
+        "cost": 7,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "trickshot": {
+        "name": "Trick Shot",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "treacherous": {
+        "name": "Treacherous",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "dedicated": {
+        "name": "Dedicated",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic"
+                ]
+            },
+            {
+                "keywords": [
+                    "Clone"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "ensnare": {
+        "name": "Ensnare",
+        "cost": 10,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "nantexclassstarfighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "snapshot": {
+        "name": "Snap Shot",
+        "cost": 7,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "graviticdeflection": {
+        "name": "Gravitic Deflection",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "nantexclassstarfighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "proudtradition": {
+        "name": "Proud Tradition / + \nFalse Tradition",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "deadeyeshot": {
+        "name": "Deadeye Shot",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small",
+                    "Medium"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "backwardstailslide": {
+        "name": "Backwards Tailslide",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "keywords": [
+                    "X-wing"
+                ]
+            },
+            {
+                "equipped": [
+                    "Configuration"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "ionlimiteroverride": {
+        "name": "Ion Limiter Override",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "keywords": [
+                    "TIE"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "margsablclosure": {
+        "name": "Marg Sabl Closure",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small",
+                    "Medium"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "starbirdslash": {
+        "name": "Starbird Slash",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "keywords": [
+                    "A-wing"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "cutthroat": {
+        "name": "Cutthroat",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "disciplined": {
+        "name": "Disciplined",
+        "cost": 2,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "hopeful": {
+        "name": "Hopeful",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "interloperturn": {
+        "name": "Interloper Turn",
+        "cost": 1,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "tieddefender"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "tierfonbellyrun": {
+        "name": "Tierfon Belly Run",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "keywords": [
+                    "Y-wing"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "feedbackping": {
+        "name": "Feedback Ping",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "action": {
+                    "type": "Reload"
+                }
+            },
+            {
+                "keywords": [
+                    "TIE"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "clantraining": {
+        "name": "Clan Training",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "keywords": [
+                    "Mandalorian"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "notorious": {
+        "name": "Notorious",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "equipped": [
+                    "Illicit"
+                ]
+            }
+        ],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "enduring": {
+        "name": "Enduring",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Talent"
+        ]
+    },
+    "bombardmentspecialists": {
+        "name": "Bombardment Specialists",
+        "cost": 6,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Team"
+        ]
+    },
+    "commsteam": {
+        "name": "Comms Team",
+        "cost": 7,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Team"
+        ]
+    },
+    "damagecontrolteam": {
+        "name": "Damage Control Team",
+        "cost": 3,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Team"
+        ]
+    },
+    "gunneryspecialists": {
+        "name": "Gunnery Specialists",
+        "cost": 5,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Team"
+        ]
+    },
+    "igrmdroids": {
+        "name": "IG-RM Droids",
+        "cost": 2,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Team"
+        ]
+    },
+    "ordnanceteam": {
+        "name": "Ordnance Team",
+        "cost": 2,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Team"
+        ]
+    },
+    "sensorexperts": {
+        "name": "Sensor Experts",
+        "cost": 6,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Team"
+        ]
+    },
+    "tractortechnicians": {
+        "name": "Tractor Technicians",
+        "cost": 2,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Team"
+        ]
+    },
+    "corsaircrew": {
+        "name": "Corsair Crew",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            }
+        ],
+        "slots": [
+            "Team",
+            "Gunner"
+        ]
+    },
+    "droidcrew": {
+        "name": "Droid Crew",
+        "cost": 5,
+        "limited": 0,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            }
+        ],
+        "slots": [
+            "Team"
+        ]
+    },
+    "advancedoptics": {
+        "name": "Advanced Optics",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Tech"
+        ]
+    },
+    "ferrospherepaint": {
+        "name": "Ferrosphere Paint",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            }
+        ],
+        "slots": [
+            "Tech"
+        ]
+    },
+    "hyperspacetrackingdata": {
+        "name": "Hyperspace Tracking Data",
+        "cost": 15,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            },
+            {
+                "sizes": [
+                    "Large"
+                ]
+            }
+        ],
+        "slots": [
+            "Tech"
+        ]
+    },
+    "primedthrusters": {
+        "name": "Primed Thrusters",
+        "cost": 6,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Small"
+                ]
+            }
+        ],
+        "slots": [
+            "Tech"
+        ]
+    },
+    "targetingsynchronizer": {
+        "name": "Targeting Synchronizer",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "action": {
+                    "type": "Lock"
+                }
+            }
+        ],
+        "slots": [
+            "Tech"
+        ]
+    },
+    "patternanalyzer": {
+        "name": "Pattern Analyzer",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Tech"
+        ]
+    },
+    "biohexacryptcodes": {
+        "name": "Biohexacrypt Codes",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            },
+            {
+                "action": {
+                    "type": "Lock"
+                }
+            }
+        ],
+        "slots": [
+            "Tech"
+        ]
+    },
+    "deuteriumpowercells": {
+        "name": "Deuterium Power Cells",
+        "cost": 8,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            }
+        ],
+        "slots": [
+            "Tech",
+            "Modification"
+        ]
+    },
+    "automatedtargetpriority": {
+        "name": "Automated Target Priority",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "pilotStat": [
+                    "initiative 3 or lower"
+                ]
+            }
+        ],
+        "slots": [
+            "Tech"
+        ]
+    },
+    "sensorbuoysuite": {
+        "name": "Sensor Buoy Suite",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "firstorder"
+                ]
+            },
+            {
+                "sizes": [
+                    "Medium",
+                    "Large"
+                ]
+            }
+        ],
+        "slots": [
+            "Tech"
+        ]
+    },
+    "sensorscramblers": {
+        "name": "Sensor Scramblers",
+        "cost": 1,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "tiewiwhispermodifiedinterceptor",
+                    "tievnsilencer"
+                ]
+            }
+        ],
+        "slots": [
+            "Tech"
+        ]
+    },
+    "andrasta": {
+        "name": "Andrasta",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "firesprayclasspatrolcraft"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "blackone": {
+        "name": "Black One",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            },
+            {
+                "ships": [
+                    "t70xwing"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "dauntless": {
+        "name": "Dauntless",
+        "cost": 4,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "ships": [
+                    "vt49decimator"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "ghost": {
+        "name": "Ghost",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "vcx100lightfreighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "havoc": {
+        "name": "Havoc",
+        "cost": 0,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "scurrgh6bomber"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "houndstooth": {
+        "name": "Hound's Tooth",
+        "cost": 6,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "yv666lightfreighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "ig2000": {
+        "name": "IG-2000",
+        "cost": 0,
+        "limited": 0,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "aggressorassaultfighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "landosmillenniumfalcon": {
+        "name": "Lando's Millennium Falcon",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "customizedyt1300lightfreighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "marauder": {
+        "name": "Marauder",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "firesprayclasspatrolcraft"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "millenniumfalcon": {
+        "name": "Millennium Falcon",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "modifiedyt1300lightfreighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "misthunter": {
+        "name": "Mist Hunter",
+        "cost": 0,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "g1astarfighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "moldycrow": {
+        "name": "Moldy Crow",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance",
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "hwk290lightfreighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "outrider": {
+        "name": "Outrider",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "yt2400lightfreighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "phantom": {
+        "name": "Phantom",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "attackshuttle",
+                    "sheathipedeclassshuttle"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "punishingone": {
+        "name": "Punishing One",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "jumpmaster5000"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "st321": {
+        "name": "ST-321",
+        "cost": 3,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "ships": [
+                    "lambdaclasst4ashuttle"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "shadowcaster": {
+        "name": "Shadow Caster",
+        "cost": 0,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "lancerclasspursuitcraft"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "slavei": {
+        "name": "Slave I",
+        "cost": 10,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "firesprayclasspatrolcraft"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "virago": {
+        "name": "Virago",
+        "cost": 8,
+        "limited": 1,
+        "standard": false,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "starviperclassattackplatform"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "reysmillenniumfalcon": {
+        "name": "Rey's Millennium Falcon",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            },
+            {
+                "ships": [
+                    "scavengedyt1300"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "soullessone": {
+        "name": "Soulless One",
+        "cost": 9,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "belbullab22starfighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "scimitar": {
+        "name": "Scimitar",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "sithinfiltrator"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "assailer": {
+        "name": "Assailer",
+        "cost": 5,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "ships": [
+                    "raiderclasscorvette"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "bloodcrow": {
+        "name": "Blood Crow",
+        "cost": 8,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "ships": [
+                    "gozanticlasscruiser"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "brighthope": {
+        "name": "Bright Hope",
+        "cost": 5,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "gr75mediumtransport"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "brokenhorn": {
+        "name": "Broken Horn",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "croccruiser"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "corvus": {
+        "name": "Corvus",
+        "cost": 3,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "ships": [
+                    "raiderclasscorvette"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "dodonnaspride": {
+        "name": "Dodonna's Pride",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "cr90corelliancorvette"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "impetuous": {
+        "name": "Impetuous",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "ships": [
+                    "raiderclasscorvette"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "insatiableworrt": {
+        "name": "Insatiable Worrt",
+        "cost": 7,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "croccruiser"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "instigator": {
+        "name": "Instigator",
+        "cost": 6,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "ships": [
+                    "raiderclasscorvette"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "jainaslight": {
+        "name": "Jaina's Light",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "cr90corelliancorvette"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "kazsfireball": {
+        "name": "Kaz's Fireball",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "resistance"
+                ]
+            },
+            {
+                "ships": [
+                    "fireball"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "liberator": {
+        "name": "Liberator",
+        "cost": 5,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "cr90corelliancorvette"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "luminous": {
+        "name": "Luminous",
+        "cost": 12,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "gr75mediumtransport"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "merchantone": {
+        "name": "Merchant One",
+        "cost": 8,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "croccruiser"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "quantumstorm": {
+        "name": "Quantum Storm",
+        "cost": 3,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "gr75mediumtransport"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "requiem": {
+        "name": "Requiem",
+        "cost": 7,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "ships": [
+                    "gozanticlasscruiser"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "suppressor": {
+        "name": "Suppressor",
+        "cost": 6,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "ships": [
+                    "gozanticlasscruiser"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "tantiveiv": {
+        "name": "Tantive IV",
+        "cost": 5,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "cr90corelliancorvette"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "thunderstrike": {
+        "name": "Thunderstrike",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "cr90corelliancorvette"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "vector": {
+        "name": "Vector",
+        "cost": 7,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticempire"
+                ]
+            },
+            {
+                "ships": [
+                    "gozanticlasscruiser"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "slavei-swz82": {
+        "name": "Slave I",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy",
+                    "separatistalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "firesprayclasspatrolcraft"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "b6bladewingprototype": {
+        "name": "B6 Blade Wing Prototype",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "asf01bwing"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "nautolansrevenge": {
+        "name": "Nautolan's Revenge",
+        "cost": 2,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy"
+                ]
+            },
+            {
+                "ships": [
+                    "tridentclassassaultship"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "grappler": {
+        "name": "Grappler",
+        "cost": 3,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "tridentclassassaultship"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "neimoidiangrasp": {
+        "name": "Neimoidian Grasp",
+        "cost": 5,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "tridentclassassaultship"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "trident": {
+        "name": "Trident",
+        "cost": 4,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "separatistalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "tridentclassassaultship"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "nightbrother": {
+        "name": "Nightbrother",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "scumandvillainy",
+                    "rebelalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "gauntletfighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Title",
+            "Modification"
+        ]
+    },
+    "gauntlet": {
+        "name": "Gauntlet",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "factions": [
+                    "galacticrepublic",
+                    "separatistalliance"
+                ]
+            },
+            {
+                "ships": [
+                    "gauntletfighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Title",
+            "Modification"
+        ]
+    },
+    "razorcrest": {
+        "name": "Razor Crest",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "st70assaultship"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "xanadublood": {
+        "name": "Xanadu Blood",
+        "cost": 0,
+        "limited": 1,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [
+            {
+                "ships": [
+                    "rogueclassstarfighter"
+                ]
+            }
+        ],
+        "slots": [
+            "Title"
+        ]
+    },
+    "homingtorpedoes": {
+        "name": "Homing Torpedoes",
+        "cost": 4,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Torpedo"
+        ]
+    },
+    "advprotontorpedoes": {
+        "name": "Adv. Proton Torpedoes",
+        "cost": 9,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Torpedo"
+        ]
+    },
+    "iontorpedoes": {
+        "name": "Ion Torpedoes",
+        "cost": 5,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Torpedo"
+        ]
+    },
+    "protontorpedoes": {
+        "name": "Proton Torpedoes",
+        "cost": 14,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Torpedo"
+        ]
+    },
+    "plasmatorpedoes": {
+        "name": "Plasma Torpedoes",
+        "cost": 7,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Torpedo"
+        ]
+    },
+    "trackingtorpedoes": {
+        "name": "Tracking Torpedoes",
+        "cost": 8,
+        "limited": 1,
+        "standard": false,
+        "extended": false,
+        "epic": true,
+        "restrictions": [
+            {
+                "sizes": [
+                    "Huge"
+                ]
+            }
+        ],
+        "slots": [
+            "Torpedo"
+        ]
+    },
+    "dorsalturret": {
+        "name": "Dorsal Turret",
+        "cost": 3,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Turret"
+        ]
+    },
+    "ioncannonturret": {
+        "name": "Ion Cannon Turret",
+        "cost": 6,
+        "limited": 0,
+        "standard": true,
+        "extended": true,
+        "epic": true,
+        "restrictions": [],
+        "slots": [
+            "Turret"
+        ]
+    }
+}
