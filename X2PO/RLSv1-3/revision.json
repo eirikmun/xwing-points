@@ -1,0 +1,16 @@
+{
+    "effective_date": "2025-08-10",
+    "format": "RLS Salvage pack update",
+    "author": "X2PO",
+    "subject": "RSL upgrades received updated wording, stats and price based on community feedback and playtesting by X2PO",
+    "files": {
+        "rebelalliance": "X2PO/RLSv1-3/rebelalliance.json",
+        "galacticempire": "X2PO/RLSv1-3/galacticempire.json",
+        "scumandvillainy": "X2PO/RLSv1-3/scumandvillainy.json",
+        "resistance": "X2PO/RLSv1-3/resistance.json",
+        "firstorder": "X2PO/RLSv1-3/firstorder.json",
+        "galacticrepublic": "X2PO/RLSv1-3/galacticrepublic.json",
+        "separatistalliance": "X2PO/RLSv1-3/separatistalliance.json",
+        "upgrades": "X2PO/RLSv1-3/upgrades.json"
+    }
+}
