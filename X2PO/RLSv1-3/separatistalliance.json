@@ -1,0 +1,1506 @@
+{
+    "Vulture-class Droid Fighter": {
+        "tradefederationdrone": {
+            "name": "Trade Federation Drone",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 21,
+            "slots": [
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "precisehunter": {
+            "name": "Precise Hunter",
+            "subtitle": "Pinpoint Protocols",
+            "limited": 3,
+            "cost": 23,
+            "slots": [
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "haorchallprototype": {
+            "name": "Haor Chall Prototype",
+            "subtitle": "Xi Char Offering",
+            "limited": 2,
+            "cost": 22,
+            "slots": [
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dfs081": {
+            "name": "DFS-081",
+            "subtitle": "Preservation Programming",
+            "limited": 1,
+            "cost": 22,
+            "slots": [
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "separatistdrone": {
+            "name": "Separatist Drone",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 22,
+            "slots": [
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dfs311": {
+            "name": "DFS-311",
+            "subtitle": "Scouting Drone",
+            "limited": 1,
+            "cost": 23,
+            "slots": [
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dfs081-siegeofcoruscant": {
+            "name": "DFS-081",
+            "subtitle": "Siege of Coruscant",
+            "limited": 1,
+            "cost": 28,
+            "slots": [],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "No",
+            "wildspace": "Yes",
+            "epic": "Yes",
+            "standardLoadout": [
+                "discordmissiles",
+                "contingencyprotocol-siegeofcoruscant",
+                "strutlockoverride-siegeofcoruscant"
+            ]
+        },
+        "dfs081-siegeofcoruscant-lsl": {
+            "name": "DFS-081",
+            "subtitle": "Siege of Coruscant",
+            "limited": 1,
+            "cost": 23,
+            "slots": [
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dfs311-siegeofcoruscant": {
+            "name": "DFS-311",
+            "subtitle": "Siege of Coruscant",
+            "limited": 1,
+            "cost": 28,
+            "slots": [],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "No",
+            "wildspace": "Yes",
+            "epic": "Yes",
+            "standardLoadout": [
+                "discordmissiles",
+                "contingencyprotocol-siegeofcoruscant",
+                "strutlockoverride-siegeofcoruscant"
+            ]
+        },
+        "dfs311-siegeofcoruscant-lsl": {
+            "name": "DFS-311",
+            "subtitle": "Siege of Coruscant",
+            "limited": 1,
+            "cost": 23,
+            "slots": [
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "haorchallprototype-siegeofcoruscant": {
+            "name": "Haor Chall Prototype",
+            "subtitle": "Siege of Coruscant",
+            "limited": 2,
+            "cost": 25,
+            "slots": [],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "No",
+            "wildspace": "Yes",
+            "epic": "Yes",
+            "standardLoadout": [
+                "ionmissiles",
+                "contingencyprotocol-siegeofcoruscant",
+                "strutlockoverride-siegeofcoruscant"
+            ]
+        },
+        "haorchallprototype-siegeofcoruscant-lsl": {
+            "name": "Haor Chall Prototype",
+            "subtitle": "Siege of Coruscant",
+            "limited": 2,
+            "cost": 22,
+            "slots": [
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "theironassembler": {
+            "name": "The Iron Assembler",
+            "subtitle": "Scintilla Scavenger",
+            "limited": 1,
+            "cost": 22,
+            "slots": [
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "kelrodoaiholdout": {
+            "name": "Kelrodo-Ai Holdout",
+            "subtitle": "Separatist Stalwart",
+            "limited": 3,
+            "cost": 22,
+            "slots": [
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "C-ROC Cruiser": {
+        "separatistprivateers": {
+            "name": "Separatist Privateers",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 63,
+            "slots": [
+                "Command",
+                "Hardpoint",
+                "Crew",
+                "Crew",
+                "Tactical Relay",
+                "Team",
+                "Cargo",
+                "Device",
+                "Configuration"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "wildspace": "No",
+            "epic": "Yes"
+        }
+    },
+    "Belbullab-22 Starfighter": {
+        "generalgrievous": {
+            "name": "General Grievous",
+            "subtitle": "Ambitious Cyborg",
+            "limited": 1,
+            "cost": 44,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Title",
+                "Tactical Relay"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "wattambor": {
+            "name": "Wat Tambor",
+            "subtitle": "Techno Union Foreman",
+            "limited": 1,
+            "cost": 39,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Title",
+                "Tactical Relay"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "feethanottrawautopilot": {
+            "name": "Feethan Ottraw Autopilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 34,
+            "slots": [
+                "Modification",
+                "Title",
+                "Tactical Relay"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "captainsear": {
+            "name": "Captain Sear",
+            "subtitle": "Kage Infiltrator",
+            "limited": 1,
+            "cost": 44,
+            "slots": [
+                "Modification",
+                "Title",
+                "Tactical Relay"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "skakoanace": {
+            "name": "Skakoan Ace",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 37,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Title",
+                "Tactical Relay"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Sith Infiltrator": {
+        "darthmaul": {
+            "name": "Darth Maul",
+            "subtitle": "Sith Assassin",
+            "limited": 1,
+            "cost": 62,
+            "slots": [
+                "Cannon",
+                "Torpedo",
+                "Crew",
+                "Crew",
+                "Device",
+                "Modification",
+                "Title",
+                "Force Power",
+                "Tactical Relay"
+            ],
+            "keywords": [
+                "Dark Side",
+                "Sith"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "countdooku": {
+            "name": "Count Dooku",
+            "subtitle": "Darth Tyranus",
+            "limited": 1,
+            "cost": 60,
+            "slots": [
+                "Cannon",
+                "Torpedo",
+                "Crew",
+                "Crew",
+                "Device",
+                "Modification",
+                "Title",
+                "Force Power",
+                "Tactical Relay"
+            ],
+            "keywords": [
+                "Dark Side",
+                "Sith"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "darkcourier": {
+            "name": "Dark Courier",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 45,
+            "slots": [
+                "Cannon",
+                "Torpedo",
+                "Crew",
+                "Crew",
+                "Device",
+                "Modification",
+                "Title",
+                "Tactical Relay"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "066": {
+            "name": "0-66",
+            "subtitle": "Sinister Automaton",
+            "limited": 1,
+            "cost": 46,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Cannon",
+                "Crew",
+                "Crew",
+                "Tactical Relay",
+                "Device",
+                "Title",
+                "Modification"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "countdooku-siegeofcoruscant": {
+            "name": "Count Dooku",
+            "subtitle": "Siege of Coruscant",
+            "limited": 1,
+            "cost": 75,
+            "slots": [],
+            "keywords": [
+                "Dark Side",
+                "Sith"
+            ],
+            "standard": "No",
+            "wildspace": "Yes",
+            "epic": "Yes",
+            "standardLoadout": [
+                "malice",
+                "roilinganger-siegeofcoruscant",
+                "scimitar"
+            ]
+        },
+        "countdooku-siegeofcoruscant-lsl": {
+            "name": "Count Dooku",
+            "subtitle": "Siege of Coruscant",
+            "limited": 1,
+            "cost": 64,
+            "slots": [
+                "Cannon",
+                "Torpedo",
+                "Crew",
+                "Crew",
+                "Device",
+                "Modification",
+                "Title",
+                "Force Power",
+                "Tactical Relay"
+            ],
+            "keywords": [
+                "Dark Side",
+                "Sith"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Hyena-class Droid Bomber": {
+        "technounionbomber": {
+            "name": "Techno Union Bomber",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 26,
+            "slots": [
+                "Torpedo",
+                "Missile",
+                "Device",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "bombardmentdrone": {
+            "name": "Bombardment Drone",
+            "subtitle": "Time on Target",
+            "limited": 3,
+            "cost": 31,
+            "slots": [
+                "Sensor",
+                "Device",
+                "Device",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dbs404": {
+            "name": "DBS-404",
+            "subtitle": "Preservation Protocol Not Found",
+            "limited": 1,
+            "cost": 31,
+            "slots": [
+                "Torpedo",
+                "Missile",
+                "Device",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "baktoidprototype": {
+            "name": "Baktoid Prototype",
+            "subtitle": "Function over Form",
+            "limited": 2,
+            "cost": 25,
+            "slots": [
+                "Sensor",
+                "Missile",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "separatistbomber": {
+            "name": "Separatist Bomber",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 28,
+            "slots": [
+                "Torpedo",
+                "Missile",
+                "Device",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dbs32c": {
+            "name": "DBS-32C",
+            "subtitle": "Droid Control Signal Relay",
+            "limited": 1,
+            "cost": 37,
+            "slots": [
+                "Sensor",
+                "Tactical Relay",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dbs32c-siegeofcoruscant": {
+            "name": "DBS-32C",
+            "subtitle": "Siege of Coruscant",
+            "limited": 1,
+            "cost": 38,
+            "slots": [],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "No",
+            "wildspace": "Yes",
+            "epic": "Yes",
+            "standardLoadout": [
+                "plasmatorpedoes",
+                "contingencyprotocol-siegeofcoruscant",
+                "strutlockoverride-siegeofcoruscant"
+            ]
+        },
+        "dbs32c-siegeofcoruscant-lsl": {
+            "name": "DBS-32C",
+            "subtitle": "Siege of Coruscant",
+            "limited": 1,
+            "cost": 30,
+            "slots": [
+                "Sensor",
+                "Tactical Relay",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dbs404-siegeofcoruscant": {
+            "name": "DBS-404",
+            "subtitle": "Siege of Coruscant",
+            "limited": 1,
+            "cost": 36,
+            "slots": [],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "No",
+            "wildspace": "Yes",
+            "epic": "Yes",
+            "standardLoadout": [
+                "advprotontorpedoes",
+                "contingencyprotocol-siegeofcoruscant",
+                "strutlockoverride-siegeofcoruscant"
+            ]
+        },
+        "dbs404-siegeofcoruscant-lsl": {
+            "name": "DBS-404",
+            "subtitle": "Siege of Coruscant",
+            "limited": 1,
+            "cost": 30,
+            "slots": [
+                "Torpedo",
+                "Missile",
+                "Device",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "baktoidprototype-siegeofcoruscant": {
+            "name": "Baktoid Prototype",
+            "subtitle": "Siege of Coruscant",
+            "limited": 2,
+            "cost": 34,
+            "slots": [],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "No",
+            "wildspace": "Yes",
+            "epic": "Yes",
+            "standardLoadout": [
+                "homingmissiles",
+                "contingencyprotocol-siegeofcoruscant",
+                "strutlockoverride-siegeofcoruscant"
+            ]
+        },
+        "baktoidprototype-siegeofcoruscant-lsl": {
+            "name": "Baktoid Prototype",
+            "subtitle": "Siege of Coruscant",
+            "limited": 2,
+            "cost": 25,
+            "slots": [
+                "Sensor",
+                "Missile",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Nantex-class Starfighter": {
+        "stalgasinhiveguard": {
+            "name": "Stalgasin Hive Guard",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 33,
+            "slots": [
+                "Talent"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "sunfac": {
+            "name": "Sun Fac",
+            "subtitle": "Archduke’s Enforcer",
+            "limited": 1,
+            "cost": 43,
+            "slots": [
+                "Talent",
+                "Talent"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "berwerkret": {
+            "name": "Berwer Kret",
+            "subtitle": "Hive Guard Captain",
+            "limited": 1,
+            "cost": 36,
+            "slots": [
+                "Talent",
+                "Talent"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "chertek": {
+            "name": "Chertek",
+            "subtitle": "Opportunistic Ace",
+            "limited": 1,
+            "cost": 36,
+            "slots": [
+                "Talent",
+                "Talent"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "gorgol": {
+            "name": "Gorgol",
+            "subtitle": "Handy Engineer",
+            "limited": 1,
+            "cost": 29,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "petranakiarenaace": {
+            "name": "Petranaki Arena Ace",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 36,
+            "slots": [
+                "Talent",
+                "Talent"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Droid Tri-Fighter": {
+        "dist81": {
+            "name": "DIS-T81",
+            "subtitle": "Clever Circuits",
+            "limited": 1,
+            "cost": 36,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "phlacarphoccprototype": {
+            "name": "Phlac-Arphocc Prototype",
+            "subtitle": "Predictive Analysis Protocol",
+            "limited": 2,
+            "cost": 38,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "fearsomepredator": {
+            "name": "Fearsome Predator",
+            "subtitle": "Fixated Pursuit",
+            "limited": 3,
+            "cost": 35,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dis347": {
+            "name": "DIS-347",
+            "subtitle": "Target Acquired",
+            "limited": 1,
+            "cost": 36,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "separatistinterceptor": {
+            "name": "Separatist Interceptor",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 35,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "colicoidinterceptor": {
+            "name": "Colicoid Interceptor",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 34,
+            "slots": [
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dis347-siegeofcoruscant": {
+            "name": "DIS-347",
+            "subtitle": "Siege of Coruscant",
+            "limited": 1,
+            "cost": 40,
+            "slots": [],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "No",
+            "wildspace": "Yes",
+            "epic": "Yes",
+            "standardLoadout": [
+                "marksmanship",
+                "afterburners",
+                "contingencyprotocol-siegeofcoruscant"
+            ]
+        },
+        "dis347-siegeofcoruscant-lsl": {
+            "name": "DIS-347",
+            "subtitle": "Siege of Coruscant",
+            "limited": 1,
+            "cost": 36,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dist81-siegeofcoruscant": {
+            "name": "DIS-T81",
+            "subtitle": "Siege of Coruscant",
+            "limited": 1,
+            "cost": 48,
+            "slots": [],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "No",
+            "wildspace": "Yes",
+            "epic": "Yes",
+            "standardLoadout": [
+                "outmaneuver",
+                "afterburners",
+                "contingencyprotocol-siegeofcoruscant"
+            ]
+        },
+        "dist81-siegeofcoruscant-lsl": {
+            "name": "DIS-T81",
+            "subtitle": "Siege of Coruscant",
+            "limited": 1,
+            "cost": 38,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "phlacarphoccprototype-siegeofcoruscant": {
+            "name": "Phlac-Arphocc Prototype",
+            "subtitle": "Siege of Coruscant",
+            "limited": 2,
+            "cost": 50,
+            "slots": [],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "No",
+            "wildspace": "Yes",
+            "epic": "Yes",
+            "standardLoadout": [
+                "afterburners",
+                "contingencyprotocol-siegeofcoruscant",
+                "evasionsequence7-siegeofcoruscant"
+            ]
+        },
+        "phlacarphoccprototype-siegeofcoruscant-lsl": {
+            "name": "Phlac-Arphocc Prototype",
+            "subtitle": "Siege of Coruscant",
+            "limited": 2,
+            "cost": 41,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "volandas": {
+            "name": "Volan Das",
+            "subtitle": "Impatient Invader",
+            "limited": 1,
+            "cost": 41,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Illicit",
+                "Modification",
+                "Configuration"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "HMP Droid Gunship": {
+        "dgs047": {
+            "name": "DGS-047",
+            "subtitle": "Adaptive Intelligence",
+            "limited": 1,
+            "cost": 38,
+            "slots": [
+                "Missile",
+                "Missile",
+                "Crew",
+                "Device",
+                "Modification",
+                "Configuration",
+                "Tactical Relay"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "baktoiddrone": {
+            "name": "Baktoid Drone",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 37,
+            "slots": [
+                "Missile",
+                "Missile",
+                "Crew",
+                "Device",
+                "Modification",
+                "Configuration",
+                "Tactical Relay"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "geonosianprototype": {
+            "name": "Geonosian Prototype",
+            "subtitle": "Devastation Protocols",
+            "limited": 2,
+            "cost": 38,
+            "slots": [
+                "Cannon",
+                "Cannon",
+                "Missile",
+                "Missile",
+                "Modification",
+                "Configuration",
+                "Tactical Relay"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dgs286": {
+            "name": "DGS-286",
+            "subtitle": "Ambush Protocols",
+            "limited": 1,
+            "cost": 39,
+            "slots": [
+                "Missile",
+                "Missile",
+                "Crew",
+                "Device",
+                "Modification",
+                "Configuration",
+                "Tactical Relay"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "onderonoppressor": {
+            "name": "Onderon Oppressor",
+            "subtitle": "Atmospheric Attack Module",
+            "limited": 2,
+            "cost": 39,
+            "slots": [
+                "Missile",
+                "Missile",
+                "Crew",
+                "Device",
+                "Modification",
+                "Configuration",
+                "Tactical Relay"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "separatistpredator": {
+            "name": "Separatist Predator",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 38,
+            "slots": [
+                "Missile",
+                "Missile",
+                "Crew",
+                "Device",
+                "Modification",
+                "Configuration",
+                "Tactical Relay"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Trident-Class Assault Ship": {
+        "colicoiddestroyer": {
+            "name": "Colicoid Destroyer",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 85,
+            "slots": [
+                "Command",
+                "Torpedo",
+                "Hardpoint",
+                "Hardpoint",
+                "Crew",
+                "Crew",
+                "Gunner",
+                "Team",
+                "Cargo",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "wildspace": "No",
+            "epic": "Yes"
+        }
+    },
+    "Firespray-class Patrol Craft": {
+        "jangofett": {
+            "name": "Jango Fett",
+            "subtitle": "Simple Man",
+            "limited": 1,
+            "cost": 79,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "zamwesell": {
+            "name": "Zam Wesell",
+            "subtitle": "Clawdite Changeling",
+            "limited": 1,
+            "cost": 83,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "bobafett-firesprayclasspatrolcraft": {
+            "name": "Boba Fett",
+            "subtitle": "Survivor",
+            "limited": 1,
+            "cost": 68,
+            "slots": [
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "separatistracketeer": {
+            "name": "Separatist Racketeer",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 62,
+            "slots": [
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "aurrasing": {
+            "name": "Aurra Sing",
+            "subtitle": "Bane of the Jedi",
+            "limited": 1,
+            "cost": 75,
+            "slots": [
+                "Force Power",
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Dark Side",
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Rogue-class Starfighter": {
+        "durge-separatistalliance": {
+            "name": "Durge",
+            "subtitle": "On His Own Time",
+            "limited": 1,
+            "cost": 45,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Cannon",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "cadbane-separatistalliance": {
+            "name": "Cad Bane",
+            "subtitle": "Needs No Introduction",
+            "limited": 1,
+            "cost": 42,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Cannon",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "ig101": {
+            "name": "IG-101",
+            "subtitle": "Tenacious Bodyguard",
+            "limited": 1,
+            "cost": 39,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Cannon",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "magnaguardexecutioner": {
+            "name": "MagnaGuard Executioner",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 37,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Cannon",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "magnaguardprotector": {
+            "name": "MagnaGuard Protector",
+            "subtitle": "Implacable Escort",
+            "limited": 2,
+            "cost": 39,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Cannon",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "ig102": {
+            "name": "IG-102",
+            "subtitle": "Dueling Droid",
+            "limited": 1,
+            "cost": 39,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Cannon",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "ig111": {
+            "name": "IG-111",
+            "subtitle": "One Eye",
+            "limited": 1,
+            "cost": 37,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Cannon",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Gauntlet Fighter": {
+        "bokatankryze-separatistalliance": {
+            "name": "Bo-Katan Kryze",
+            "subtitle": "Vizsla's Lieutenant",
+            "limited": 1,
+            "cost": 57,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Gunner",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Configuration",
+                "Title"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "previzsla": {
+            "name": "Pre Vizsla",
+            "subtitle": "Leader of Death Watch",
+            "limited": 1,
+            "cost": 61,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Gunner",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Configuration",
+                "Title"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "deathwatchwarrior": {
+            "name": "Death Watch Warrior",
+            "subtitle": "Fanatical Adherent",
+            "limited": 0,
+            "cost": 53,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Gunner",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Configuration",
+                "Title"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    }
+}

@@ -1,0 +1,1122 @@
+{
+    "Gozanti-class Cruiser": {
+        "firstordersympathizers": {
+            "name": "First Order Sympathizers",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 66,
+            "slots": [
+                "Command",
+                "Hardpoint",
+                "Crew",
+                "Crew",
+                "Gunner",
+                "Team",
+                "Cargo",
+                "Cargo"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "wildspace": "No",
+            "epic": "Yes"
+        }
+    },
+    "Raider-class Corvette": {
+        "firstordercollaborators": {
+            "name": "First Order Collaborators",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 131,
+            "slots": [
+                "Command",
+                "Torpedo",
+                "Missile",
+                "Hardpoint",
+                "Hardpoint",
+                "Crew",
+                "Crew",
+                "Team",
+                "Team",
+                "Cargo"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "wildspace": "No",
+            "epic": "Yes"
+        }
+    },
+    "TIE/ba Interceptor": {
+        "majorvonreg": {
+            "name": "Major Vonreg",
+            "subtitle": "Red Baron",
+            "limited": 1,
+            "cost": 54,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Missile",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "holo": {
+            "name": "“Holo”",
+            "subtitle": "Trick of the Light",
+            "limited": 1,
+            "cost": 52,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Missile",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "ember": {
+            "name": "“Ember”",
+            "subtitle": "Dying Flame",
+            "limited": 1,
+            "cost": 44,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Missile",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "firstorderprovocateur": {
+            "name": "First Order Provocateur",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 41,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Missile",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/fo Fighter": {
+        "midnight": {
+            "name": "“Midnight”",
+            "subtitle": "Omega Leader",
+            "limited": 1,
+            "cost": 35,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "commandermalarus": {
+            "name": "Commander Malarus",
+            "subtitle": "First Order Enforcer",
+            "limited": 1,
+            "cost": 34,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "scorch": {
+            "name": "“Scorch”",
+            "subtitle": "Zeta Leader",
+            "limited": 1,
+            "cost": 33,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "static": {
+            "name": "“Static”",
+            "subtitle": "Omega Ace",
+            "limited": 1,
+            "cost": 30,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "longshot": {
+            "name": "“Longshot”",
+            "subtitle": "Zeta Ace",
+            "limited": 1,
+            "cost": 30,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "omegasquadronace": {
+            "name": "Omega Squadron Ace",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 28,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "muse": {
+            "name": "“Muse”",
+            "subtitle": "Epsilon Leader",
+            "limited": 1,
+            "cost": 29,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "tn3465": {
+            "name": "TN-3465",
+            "subtitle": "Loose End",
+            "limited": 1,
+            "cost": 28,
+            "slots": [
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "zetasquadronpilot": {
+            "name": "Zeta Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 27,
+            "slots": [
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "epsilonsquadroncadet": {
+            "name": "Epsilon Squadron Cadet",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 26,
+            "slots": [
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "lieutenantrivas": {
+            "name": "Lieutenant Rivas",
+            "subtitle": "Inconvenient Witness",
+            "limited": 1,
+            "cost": 28,
+            "slots": [
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "null": {
+            "name": "“Null”",
+            "subtitle": "Epsilon Ace",
+            "limited": 1,
+            "cost": 29,
+            "slots": [
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "lieutenantgalek": {
+            "name": "Lieutenant Galek",
+            "subtitle": "Harsh Instructor",
+            "limited": 1,
+            "cost": 32,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dt798": {
+            "name": "DT-798",
+            "subtitle": "Jace Rucklin",
+            "limited": 1,
+            "cost": 34,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "lingaava": {
+            "name": "Lin Gaava",
+            "subtitle": "Impetuous Mechanic",
+            "limited": 1,
+            "cost": 32,
+            "slots": [
+                "Talent",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/sf Fighter": {
+        "quickdraw": {
+            "name": "“Quickdraw”",
+            "subtitle": "Defiant Duelist",
+            "limited": 1,
+            "cost": 42,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Gunner",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "backdraft": {
+            "name": "“Backdraft”",
+            "subtitle": "Fiery Fanatic",
+            "limited": 1,
+            "cost": 36,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Gunner",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "omegasquadronexpert": {
+            "name": "Omega Squadron Expert",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 33,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Gunner",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "zetasquadronsurvivor": {
+            "name": "Zeta Squadron Survivor",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 32,
+            "slots": [
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Gunner",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "lieutenantlehuse": {
+            "name": "Lieutenant LeHuse",
+            "subtitle": "Unflinching Executioner",
+            "limited": 1,
+            "cost": 37,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Gunner",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "captainphasma": {
+            "name": "Captain Phasma",
+            "subtitle": "Scyre Survivor",
+            "limited": 1,
+            "cost": 34,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Missile",
+                "Modification",
+                "Gunner",
+                "Tech"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/vn Silencer": {
+        "blackout": {
+            "name": "“Blackout”",
+            "subtitle": "Ill-Fated Test Pilot",
+            "limited": 1,
+            "cost": 60,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Missile",
+                "Tech",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "kyloren": {
+            "name": "Kylo Ren",
+            "subtitle": "Tormented Apprentice",
+            "limited": 1,
+            "cost": 79,
+            "slots": [
+                "Force Power",
+                "Torpedo",
+                "Missile",
+                "Tech",
+                "Configuration"
+            ],
+            "keywords": [
+                "Dark Side",
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "firstordertestpilot": {
+            "name": "First Order Test Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 55,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Missile",
+                "Tech",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "recoil": {
+            "name": "“Recoil”",
+            "subtitle": "Quantity Over Quality",
+            "limited": 1,
+            "cost": 55,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Missile",
+                "Tech",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "avenger": {
+            "name": "“Avenger”",
+            "subtitle": "Wrathful Wingmate",
+            "limited": 1,
+            "cost": 55,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Missile",
+                "Tech",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "sienarjaemusengineer": {
+            "name": "Sienar-Jaemus Engineer",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 49,
+            "slots": [
+                "Torpedo",
+                "Missile",
+                "Tech",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "rush": {
+            "name": "“Rush”",
+            "subtitle": "Adrenaline Junkie",
+            "limited": 1,
+            "cost": 57,
+            "slots": [
+                "Torpedo",
+                "Missile",
+                "Tech",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Upsilon-class command shuttle": {
+        "lieutenantdormitz": {
+            "name": "Lieutenant Dormitz",
+            "subtitle": "Hypercomms Specialist",
+            "limited": 1,
+            "cost": 64,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Crew",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Tech",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "majorstridan": {
+            "name": "Major Stridan",
+            "subtitle": "Stentorian Commander",
+            "limited": 1,
+            "cost": 61,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Crew",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Tech",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "pettyofficerthanisson": {
+            "name": "Petty Officer Thanisson",
+            "subtitle": "Alert Flight Controller",
+            "limited": 1,
+            "cost": 59,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Crew",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Tech",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "starkillerbasepilot": {
+            "name": "Starkiller Base Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 58,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Crew",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Tech",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "lieutenanttavson": {
+            "name": "Lieutenant Tavson",
+            "subtitle": "Obedient Shuttle Pilot",
+            "limited": 1,
+            "cost": 64,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Crew",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Tech",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "captaincardinal": {
+            "name": "Captain Cardinal",
+            "subtitle": "Principled Instructor",
+            "limited": 1,
+            "cost": 60,
+            "slots": [
+                "Sensor",
+                "Cannon",
+                "Crew",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Tech",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Xi-class Light Shuttle": {
+        "agentterex": {
+            "name": "Agent Terex",
+            "subtitle": "Devious Provocateur",
+            "limited": 1,
+            "cost": 34,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Tech",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "commandermalarus-xiclasslightshuttle": {
+            "name": "Commander Malarus",
+            "subtitle": "Vindictive Taskmaster",
+            "limited": 1,
+            "cost": 44,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Tech",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "firstordercourier": {
+            "name": "First Order Courier",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 32,
+            "slots": [
+                "Crew",
+                "Crew",
+                "Modification",
+                "Tech",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "gideonhask-xiclasslightshuttle": {
+            "name": "Gideon Hask",
+            "subtitle": "Merciless Hard-Liner",
+            "limited": 1,
+            "cost": 40,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Tech",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "agenttierny": {
+            "name": "Agent Tierny",
+            "subtitle": "Persuasive Recruiter",
+            "limited": 1,
+            "cost": 49,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Crew",
+                "Modification",
+                "Tech",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/se Bomber": {
+        "breach": {
+            "name": "“Breach”",
+            "subtitle": "Ordnance Expert",
+            "limited": 1,
+            "cost": 37,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Torpedo",
+                "Missile",
+                "Gunner",
+                "Device",
+                "Device",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "scorch-tiesebomber": {
+            "name": "“Scorch”",
+            "subtitle": "Jad Bean",
+            "limited": 1,
+            "cost": 33,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Torpedo",
+                "Missile",
+                "Gunner",
+                "Device",
+                "Device",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dread": {
+            "name": "“Dread”",
+            "subtitle": "Devotee of Devastation",
+            "limited": 1,
+            "cost": 32,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Torpedo",
+                "Missile",
+                "Gunner",
+                "Device",
+                "Device",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "grudge": {
+            "name": "“Grudge”",
+            "subtitle": "Hateful Harrier",
+            "limited": 1,
+            "cost": 38,
+            "slots": [
+                "Tech",
+                "Torpedo",
+                "Missile",
+                "Gunner",
+                "Device",
+                "Device",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "firstordercadet": {
+            "name": "First Order Cadet",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 32,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Torpedo",
+                "Missile",
+                "Gunner",
+                "Device",
+                "Device",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "sienarjaemustestpilot": {
+            "name": "Sienar-Jaemus Test Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 31,
+            "slots": [
+                "Tech",
+                "Torpedo",
+                "Missile",
+                "Gunner",
+                "Device",
+                "Device",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "juljerjerrod": {
+            "name": "Jul Jerjerrod",
+            "subtitle": "Security Commander",
+            "limited": 1,
+            "cost": 34,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Torpedo",
+                "Missile",
+                "Gunner",
+                "Device",
+                "Device",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "TIE/wi Whisper Modified Interceptor": {
+        "kyloren-tiewiwhispermodifiedinterceptor": {
+            "name": "Kylo Ren",
+            "subtitle": "Supreme Leader of the First Order",
+            "limited": 1,
+            "cost": 61,
+            "slots": [
+                "Force Power",
+                "Talent",
+                "Missile",
+                "Tech",
+                "Tech",
+                "Configuration"
+            ],
+            "keywords": [
+                "Dark Side",
+                "Light Side",
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "wrath": {
+            "name": "“Wrath”",
+            "subtitle": "Herald of Destruction",
+            "limited": 1,
+            "cost": 48,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Missile",
+                "Tech",
+                "Tech",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "nightfall": {
+            "name": "“Nightfall”",
+            "subtitle": "709th Legion Veteran",
+            "limited": 1,
+            "cost": 45,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Missile",
+                "Tech",
+                "Tech",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "whirlwind": {
+            "name": "“Whirlwind”",
+            "subtitle": "Reap What You Sow",
+            "limited": 1,
+            "cost": 45,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Missile",
+                "Tech",
+                "Tech",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "709thlegionace": {
+            "name": "709th Legion Ace",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 44,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Missile",
+                "Tech",
+                "Tech",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "redfuryzealot": {
+            "name": "Red Fury Zealot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 41,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Tech",
+                "Tech",
+                "Configuration"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    }
+}
