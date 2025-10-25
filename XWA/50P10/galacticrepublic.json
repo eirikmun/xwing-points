@@ -1,0 +1,1932 @@
+{
+  "ARC-170 Starfighter": {
+    "jag": {
+      "name": "“Jag”",
+      "subtitle": "CT-55/11-9009",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 4,
+      "slots": [
+        "Astromech",
+        "Gunner",
+        "Crew",
+        "Modification",
+        "Torpedo"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "jag-siegeofcoruscant": {
+      "name": "“Jag”",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "oddball-arc170starfighter": {
+      "name": "“Odd Ball”",
+      "subtitle": "CC-2237",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 8,
+      "slots": [
+        "Astromech",
+        "Gunner",
+        "Crew",
+        "Modification",
+        "Torpedo",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "oddball-siegeofcoruscant": {
+      "name": "“Odd Ball”",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 13,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "sinker": {
+      "name": "“Sinker”",
+      "subtitle": "Wolfpack Veteran",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 6,
+      "slots": [
+        "Astromech",
+        "Gunner",
+        "Crew",
+        "Modification",
+        "Torpedo",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "wolffe": {
+      "name": "“Wolffe”",
+      "subtitle": "CC-3636",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 12,
+      "slots": [
+        "Astromech",
+        "Gunner",
+        "Crew",
+        "Modification",
+        "Torpedo",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "wolffe-siegeofcoruscant": {
+      "name": "“Wolffe”",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "104thbattalionpilot": {
+      "name": "104th Battalion Pilot",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 10,
+      "loadout": 3,
+      "slots": [
+        "Astromech",
+        "Gunner",
+        "Crew",
+        "Modification",
+        "Torpedo"
+      ],
+      "keywords": [
+        "Clone",
+        "Restricted-2"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 2
+    },
+    "squadsevenveteran": {
+      "name": "Squad Seven Veteran",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 12,
+      "loadout": 16,
+      "slots": [
+        "Astromech",
+        "Gunner",
+        "Crew",
+        "Modification",
+        "Torpedo",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "BTL-B Y-wing": {
+    "anakinskywalker-btlbywing": {
+      "name": "Anakin Skywalker",
+      "subtitle": "Hero of the Republic",
+      "limited": 1,
+      "cost": 13,
+      "loadout": 16,
+      "slots": [
+        "Astromech",
+        "Gunner",
+        "Modification",
+        "Payload",
+        "Torpedo",
+        "Turret",
+        "Force Power",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side",
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "broadside": {
+      "name": "“Broadside”",
+      "subtitle": "Shadow Three",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 10,
+      "slots": [
+        "Astromech",
+        "Gunner",
+        "Modification",
+        "Payload",
+        "Torpedo",
+        "Turret"
+      ],
+      "keywords": [
+        "Clone",
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "goji": {
+      "name": "“Goji”",
+      "subtitle": "Payload Specialist",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 13,
+      "slots": [
+        "Astromech",
+        "Gunner",
+        "Modification",
+        "Payload",
+        "Torpedo",
+        "Turret"
+      ],
+      "keywords": [
+        "Clone",
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "matchstick": {
+      "name": "“Matchstick”",
+      "subtitle": "Shadow Two",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 13,
+      "slots": [
+        "Astromech",
+        "Gunner",
+        "Modification",
+        "Payload",
+        "Torpedo",
+        "Turret",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone",
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "oddball-btlbywing": {
+      "name": "“Odd Ball”",
+      "subtitle": "CC-2237",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 19,
+      "slots": [
+        "Astromech",
+        "Gunner",
+        "Modification",
+        "Payload",
+        "Torpedo",
+        "Turret",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone",
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "r2d2": {
+      "name": "R2-D2",
+      "subtitle": "Bucket of Bolts",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 20,
+      "slots": [
+        "Gunner",
+        "Modification",
+        "Payload",
+        "Torpedo",
+        "Turret",
+        "Crew"
+      ],
+      "keywords": [
+        "Droid",
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "redsquadronbomber": {
+      "name": "Red Squadron Bomber",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 8,
+      "loadout": 9,
+      "slots": [
+        "Astromech",
+        "Gunner",
+        "Modification",
+        "Payload",
+        "Torpedo",
+        "Turret"
+      ],
+      "keywords": [
+        "Clone",
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "shadowsquadronveteran": {
+      "name": "Shadow Squadron Veteran",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 9,
+      "loadout": 13,
+      "slots": [
+        "Astromech",
+        "Gunner",
+        "Modification",
+        "Payload",
+        "Torpedo",
+        "Turret",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone",
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "CR-90 Corvette": {
+    "raymusantilles-epicsl-galacticrepublic": {
+      "name": "Raymus Antilles",
+      "subtitle": "Tantive IV",
+      "limited": 1,
+      "cost": 35,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [],
+      "standard": "No",
+      "extended": "No",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "republicjudiciary": {
+      "name": "Republic Judiciary",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 36,
+      "loadout": 40,
+      "slots": [
+        "Command",
+        "Hardpoint",
+        "Hardpoint",
+        "Crew",
+        "Crew",
+        "Gunner",
+        "Team",
+        "Team",
+        "Cargo"
+      ],
+      "keywords": [],
+      "standard": "No",
+      "extended": "No",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "Clone Z-95 Headhunter": {
+    "boost": {
+      "name": "“Boost”",
+      "subtitle": "CT-4860",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 10,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Sensor"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "drift": {
+      "name": "“Drift”",
+      "subtitle": "CT-1020",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 12,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Sensor"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "hawk-clonez95headhunter": {
+      "name": "“Hawk”",
+      "subtitle": "Valkyrie 2929",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 10,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Sensor"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "killer": {
+      "name": "“Killer”",
+      "subtitle": "Dependable Closer",
+      "limited": 1,
+      "cost": 7,
+      "loadout": 5,
+      "slots": [
+        "Modification",
+        "Sensor"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "knack": {
+      "name": "“Knack”",
+      "subtitle": "Incautious Instructor",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 11,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Sensor",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "slider": {
+      "name": "“Slider”",
+      "subtitle": "Evasive Aviator",
+      "limited": 1,
+      "cost": 7,
+      "loadout": 5,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Sensor"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "stub": {
+      "name": "“Stub”",
+      "subtitle": "Scrappy Flier",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 10,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Sensor"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "warthog-clonez95headhunter": {
+      "name": "“Warthog”",
+      "subtitle": "Veteran of Kadavo",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 17,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Sensor"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "7thskycorpspilot": {
+      "name": "7th Sky Corps Pilot",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 7,
+      "loadout": 8,
+      "slots": [
+        "Modification",
+        "Sensor"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "reapersquadronscout": {
+      "name": "Reaper Squadron Scout",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 8,
+      "loadout": 11,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Sensor"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "Delta-7 Aethersprite": {
+    "adigallia": {
+      "name": "Adi Gallia",
+      "subtitle": "Shooting Star",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 6,
+      "slots": [
+        "Force Power",
+        "Configuration",
+        "Modification",
+        "Modification",
+        "Astromech",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "ahsokatano": {
+      "name": "Ahsoka Tano",
+      "subtitle": "“Snips”",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 8,
+      "slots": [
+        "Force Power",
+        "Configuration",
+        "Modification",
+        "Modification",
+        "Astromech"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "anakinskywalker": {
+      "name": "Anakin Skywalker",
+      "subtitle": "Hero of the Republic",
+      "limited": 1,
+      "cost": 14,
+      "loadout": 12,
+      "slots": [
+        "Force Power",
+        "Configuration",
+        "Modification",
+        "Modification",
+        "Astromech",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "barrissoffee": {
+      "name": "Barriss Offee",
+      "subtitle": "Conflicted Padawan",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 10,
+      "slots": [
+        "Force Power",
+        "Configuration",
+        "Modification",
+        "Modification",
+        "Astromech"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "luminaraunduli": {
+      "name": "Luminara Unduli",
+      "subtitle": "Wise Protector",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 7,
+      "slots": [
+        "Force Power",
+        "Configuration",
+        "Modification",
+        "Modification",
+        "Astromech",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "macewindu": {
+      "name": "Mace Windu",
+      "subtitle": "Harsh Traditionalist",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 10,
+      "slots": [
+        "Force Power",
+        "Configuration",
+        "Modification",
+        "Modification",
+        "Astromech",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "obiwankenobi": {
+      "name": "Obi-Wan Kenobi",
+      "subtitle": "Guardian of the Republic",
+      "limited": 1,
+      "cost": 13,
+      "loadout": 10,
+      "slots": [
+        "Force Power",
+        "Configuration",
+        "Modification",
+        "Modification",
+        "Astromech",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "plokoon": {
+      "name": "Plo Koon",
+      "subtitle": "Serene Mentor",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 8,
+      "slots": [
+        "Force Power",
+        "Configuration",
+        "Modification",
+        "Modification",
+        "Astromech",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "saeseetiin": {
+      "name": "Saesee Tiin",
+      "subtitle": "Prophetic Pilot",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 7,
+      "slots": [
+        "Force Power",
+        "Configuration",
+        "Modification",
+        "Modification",
+        "Astromech",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "No",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "jediknight": {
+      "name": "Jedi Knight",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 9,
+      "loadout": 6,
+      "slots": [
+        "Force Power",
+        "Configuration",
+        "Modification",
+        "Modification",
+        "Astromech"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "Delta-7B Aethersprite": {
+    "adigallia-delta7baethersprite": {
+      "name": "Adi Gallia",
+      "subtitle": "Shooting Star",
+      "limited": 1,
+      "cost": 14,
+      "loadout": 7,
+      "slots": [
+        "Force Power",
+        "Modification",
+        "Astromech",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "ahsokatano-delta7baethersprite": {
+      "name": "Ahsoka Tano",
+      "subtitle": "“Snips”",
+      "limited": 1,
+      "cost": 13,
+      "loadout": 10,
+      "slots": [
+        "Force Power",
+        "Modification",
+        "Astromech"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "anakinskywalker-delta7baethersprite": {
+      "name": "Anakin Skywalker",
+      "subtitle": "Hero of the Republic",
+      "limited": 1,
+      "cost": 16,
+      "loadout": 12,
+      "slots": [
+        "Force Power",
+        "Modification",
+        "Astromech",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "barrissoffee-delta7baethersprite": {
+      "name": "Barriss Offee",
+      "subtitle": "Conflicted Padawan",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 9,
+      "slots": [
+        "Force Power",
+        "Modification",
+        "Astromech"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "luminaraunduli-delta7baethersprite": {
+      "name": "Luminara Unduli",
+      "subtitle": "Wise Protector",
+      "limited": 1,
+      "cost": 13,
+      "loadout": 8,
+      "slots": [
+        "Force Power",
+        "Modification",
+        "Astromech",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "macewindu-delta7baethersprite": {
+      "name": "Mace Windu",
+      "subtitle": "Harsh Traditionalist",
+      "limited": 1,
+      "cost": 13,
+      "loadout": 8,
+      "slots": [
+        "Force Power",
+        "Modification",
+        "Astromech",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "obiwankenobi-delta7baethersprite": {
+      "name": "Obi-Wan Kenobi",
+      "subtitle": "Guardian of the Republic",
+      "limited": 1,
+      "cost": 15,
+      "loadout": 11,
+      "slots": [
+        "Force Power",
+        "Modification",
+        "Astromech",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "plokoon-delta7baethersprite": {
+      "name": "Plo Koon",
+      "subtitle": "Serene Mentor",
+      "limited": 1,
+      "cost": 14,
+      "loadout": 8,
+      "slots": [
+        "Force Power",
+        "Modification",
+        "Astromech",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "saeseetiin-delta7baethersprite": {
+      "name": "Saesee Tiin",
+      "subtitle": "Prophetic Pilot",
+      "limited": 1,
+      "cost": 13,
+      "loadout": 8,
+      "slots": [
+        "Force Power",
+        "Modification",
+        "Astromech",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "No",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "jediknight-delta7baethersprite": {
+      "name": "Jedi Knight",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 11,
+      "loadout": 4,
+      "slots": [
+        "Force Power",
+        "Modification",
+        "Astromech"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "Eta-2 Actis": {
+    "aaylasecura": {
+      "name": "Aayla Secura",
+      "subtitle": "Confident Warrior",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 11,
+      "slots": [
+        "Talent",
+        "Force Power",
+        "Astromech",
+        "Cannon",
+        "Modification",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "anakinskywalker-eta2actis": {
+      "name": "Anakin Skywalker",
+      "subtitle": "Hero of Coruscant",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 10,
+      "slots": [
+        "Talent",
+        "Force Power",
+        "Astromech",
+        "Cannon",
+        "Modification",
+        "Force Power"
+      ],
+      "keywords": [
+        "Dark Side",
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "anakinskywalker-siegeofcoruscant": {
+      "name": "Anakin Skywalker",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Dark Side",
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "kitfisto": {
+      "name": "Kit Fisto",
+      "subtitle": "Enthusiastic Exemplar",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 8,
+      "slots": [
+        "Talent",
+        "Force Power",
+        "Astromech",
+        "Cannon",
+        "Modification",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "obiwankenobi-eta2actis": {
+      "name": "Obi-Wan Kenobi",
+      "subtitle": "Guardian of Democracy",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 12,
+      "slots": [
+        "Talent",
+        "Force Power",
+        "Astromech",
+        "Cannon",
+        "Modification",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "obiwankenobi-siegeofcoruscant": {
+      "name": "Obi-Wan Kenobi",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "shaakti": {
+      "name": "Shaak Ti",
+      "subtitle": "Compassionate Mentor",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 14,
+      "slots": [
+        "Talent",
+        "Force Power",
+        "Astromech",
+        "Cannon",
+        "Modification",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "shaakti-siegeofcoruscant": {
+      "name": "Shaak Ti",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "yoda": {
+      "name": "Yoda",
+      "subtitle": "Grand Master",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 8,
+      "slots": [
+        "Talent",
+        "Force Power",
+        "Astromech",
+        "Cannon",
+        "Modification",
+        "Force Power"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "jedigeneral": {
+      "name": "Jedi General",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 10,
+      "loadout": 9,
+      "slots": [
+        "Talent",
+        "Force Power",
+        "Astromech",
+        "Cannon",
+        "Modification"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "Gauntlet Fighter": {
+    "bokatankryze": {
+      "name": "Bo-Katan Kryze",
+      "subtitle": "Nite Owl Commander",
+      "limited": 1,
+      "cost": 16,
+      "loadout": 20,
+      "slots": [
+        "Crew",
+        "Gunner",
+        "Illicit",
+        "Modification",
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Talent",
+        "Title"
+      ],
+      "keywords": [
+        "Mandalorian"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "niteowlliberator": {
+      "name": "Nite Owl Liberator",
+      "subtitle": "Resolute Warrior",
+      "limited": 1,
+      "cost": 15,
+      "loadout": 20,
+      "slots": [
+        "Crew",
+        "Gunner",
+        "Illicit",
+        "Modification",
+        "Modification",
+        "Payload",
+        "Configuration"
+      ],
+      "keywords": [
+        "Mandalorian"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "Gozanti-class Cruiser": {
+    "wezsynat-epicsl": {
+      "name": "Wez Synat",
+      "subtitle": "Spectre of Nayr",
+      "limited": 1,
+      "cost": 20,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [],
+      "standard": "No",
+      "extended": "No",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "LAAT/i Gunship": {
+    "hawk": {
+      "name": "“Hawk”",
+      "subtitle": "Valkyrie 2929",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 9,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Modification",
+        "Missile",
+        "Missile",
+        "Torpedo",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "hound": {
+      "name": "“Hound”",
+      "subtitle": "Vigilant Tracker",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 5,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Modification",
+        "Torpedo",
+        "Missile",
+        "Missile"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "sicko": {
+      "name": "“Sicko”",
+      "subtitle": "CT-1127/549",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 12,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Modification",
+        "Torpedo",
+        "Missile",
+        "Missile"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "warthog": {
+      "name": "“Warthog”",
+      "subtitle": "Veteran of Kadavo",
+      "limited": 1,
+      "cost": 13,
+      "loadout": 16,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Modification",
+        "Missile",
+        "Missile",
+        "Torpedo",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "212thbattalionpilot": {
+      "name": "212th Battalion Pilot",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 11,
+      "loadout": 11,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Modification",
+        "Torpedo",
+        "Missile",
+        "Missile"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "Naboo Royal N-1 Starfighter": {
+    "anakinskywalker-nabooroyaln1starfighter": {
+      "name": "Anakin Skywalker",
+      "subtitle": "Hero of Naboo",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 7,
+      "slots": [
+        "Talent",
+        "Astromech",
+        "Modification",
+        "Torpedo",
+        "Sensor",
+        "Force Power"
+      ],
+      "keywords": [
+        "Light Side"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "dineeellberger": {
+      "name": "Dineé Ellberger",
+      "subtitle": "Bravo Five",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 14,
+      "slots": [
+        "Talent",
+        "Astromech",
+        "Modification",
+        "Torpedo",
+        "Sensor"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "gavynsykes": {
+      "name": "Gavyn Sykes",
+      "subtitle": "Bravo Three",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 11,
+      "slots": [
+        "Talent",
+        "Astromech",
+        "Modification",
+        "Torpedo",
+        "Sensor"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "naboohandmaiden": {
+      "name": "Naboo Handmaiden",
+      "subtitle": "Regal Ruse",
+      "limited": 2,
+      "cost": 9,
+      "loadout": 9,
+      "slots": [
+        "Talent",
+        "Astromech",
+        "Modification",
+        "Torpedo",
+        "Sensor"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "padmeamidala": {
+      "name": "Padmé Amidala",
+      "subtitle": "Aggressive Negotiator",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 15,
+      "slots": [
+        "Talent",
+        "Astromech",
+        "Modification",
+        "Torpedo",
+        "Sensor"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "ricolie": {
+      "name": "Ric Olié",
+      "subtitle": "Bravo Leader",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 12,
+      "slots": [
+        "Talent",
+        "Astromech",
+        "Modification",
+        "Torpedo",
+        "Sensor",
+        "Talent"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "bravoflightofficer": {
+      "name": "Bravo Flight Officer",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 8,
+      "loadout": 6,
+      "slots": [
+        "Talent",
+        "Astromech",
+        "Modification",
+        "Torpedo",
+        "Sensor"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "Nimbus-class V-wing": {
+    "contrail": {
+      "name": "“Contrail”",
+      "subtitle": "CT-4981",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 8,
+      "slots": [
+        "Astromech",
+        "Configuration",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "contrail-siegeofcoruscant": {
+      "name": "“Contrail”",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "klick": {
+      "name": "“Klick”",
+      "subtitle": "GC-1000",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 14,
+      "slots": [
+        "Talent",
+        "Astromech",
+        "Configuration",
+        "Modification"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "klick-siegeofcoruscant": {
+      "name": "“Klick”",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "oddball-nimbusclassvwing": {
+      "name": "“Odd Ball”",
+      "subtitle": "CC-2237",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 9,
+      "slots": [
+        "Astromech",
+        "Configuration",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "wilhufftarkin": {
+      "name": "Wilhuff Tarkin",
+      "subtitle": "Aspiring Admiral",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 7,
+      "slots": [
+        "Astromech",
+        "Configuration",
+        "Modification"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "loyalistvolunteer": {
+      "name": "Loyalist Volunteer",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 7,
+      "loadout": 3,
+      "slots": [
+        "Astromech",
+        "Configuration",
+        "Modification"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "shadowsquadronescort": {
+      "name": "Shadow Squadron Escort",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 9,
+      "loadout": 10,
+      "slots": [
+        "Astromech",
+        "Configuration",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "Syliure-class Hyperspace Ring": {
+    "transgalmegcontrollink": {
+      "name": "TransGalMeg Control Link",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 1,
+      "loadout": 5,
+      "slots": [
+        "Hyperdrive"
+      ],
+      "keywords": [],
+      "standard": "No",
+      "extended": "No",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "V-19 Torrent Starfighter": {
+    "axe": {
+      "name": "“Axe”",
+      "subtitle": "Blue Two",
+      "limited": 1,
+      "cost": 7,
+      "loadout": 7,
+      "slots": [
+        "Missile",
+        "Modification",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "axe-siegeofcoruscant": {
+      "name": "“Axe”",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "kickback": {
+      "name": "“Kickback”",
+      "subtitle": "Blue Four",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 11,
+      "slots": [
+        "Missile",
+        "Modification",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "kickback-siegeofcoruscant": {
+      "name": "“Kickback”",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "oddball": {
+      "name": "“Odd Ball”",
+      "subtitle": "CC-2237",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 16,
+      "slots": [
+        "Missile",
+        "Modification",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "slammer": {
+      "name": "“Slammer”",
+      "subtitle": "Blue Three",
+      "limited": 1,
+      "cost": 7,
+      "loadout": 7,
+      "slots": [
+        "Missile",
+        "Modification",
+        "Modification"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "swoop": {
+      "name": "“Swoop”",
+      "subtitle": "Blue Six",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 12,
+      "slots": [
+        "Missile",
+        "Modification",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "tucker": {
+      "name": "“Tucker”",
+      "subtitle": "Blue Five",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 13,
+      "slots": [
+        "Missile",
+        "Modification",
+        "Modification"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "bluesquadronprotector": {
+      "name": "Blue Squadron Protector",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 9,
+      "loadout": 12,
+      "slots": [
+        "Missile",
+        "Missile",
+        "Modification",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "goldsquadrontrooper": {
+      "name": "Gold Squadron Trooper",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 6,
+      "loadout": 2,
+      "slots": [
+        "Missile",
+        "Modification",
+        "Modification"
+      ],
+      "keywords": [
+        "Clone"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  }
+}
