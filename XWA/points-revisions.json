@@ -1,5 +1,5 @@
 {
-    "current_revision": "XWA/R2/revision.json",
+    "current_revision": "XWA/50P10/revision.json",
     "revision_history": [
         "XWA/BV1/revision.json",
         "XWA/BV2/revision.json",
@@ -7,6 +7,7 @@
         "XWA/BV4/revision.json",
         "XWA/BV5/revision.json",
         "XWA/R1/revision.json",
-        "XWA/R2/revision.json"
+        "XWA/R2/revision.json",
+        "XWA/50P10/revision.json"
     ]
 }

@@ -1,0 +1,2374 @@
+{
+    "Aggressor Assault Fighter": {
+        "ig88a": {
+            "name": "IG-88A",
+            "subtitle": "Aggressive Automaton",
+            "limited": 1,
+            "cost": 64,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Cannon",
+                "Cannon",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter",
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "ig88b": {
+            "name": "IG-88B",
+            "subtitle": "Brutal Battledroid",
+            "limited": 1,
+            "cost": 61,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Cannon",
+                "Cannon",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter",
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "ig88c": {
+            "name": "IG-88C",
+            "subtitle": "Conniving Contraption",
+            "limited": 1,
+            "cost": 62,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Cannon",
+                "Cannon",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter",
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "ig88d": {
+            "name": "IG-88D",
+            "subtitle": "Deadly Device",
+            "limited": 1,
+            "cost": 61,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Cannon",
+                "Cannon",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter",
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "BTL-A4 Y-wing": {
+        "crymorahgoon": {
+            "name": "Crymorah Goon",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 29,
+            "slots": [
+                "Turret",
+                "Torpedo",
+                "Astromech",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Missile"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "drearenthal": {
+            "name": "Drea Renthal",
+            "subtitle": "Pirate Lord",
+            "limited": 1,
+            "cost": 46,
+            "slots": [
+                "Talent",
+                "Turret",
+                "Torpedo",
+                "Astromech",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Missile"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "hiredgun": {
+            "name": "Hired Gun",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 30,
+            "slots": [
+                "Talent",
+                "Turret",
+                "Torpedo",
+                "Astromech",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Missile"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "kavil": {
+            "name": "Kavil",
+            "subtitle": "Callous Corsair",
+            "limited": 1,
+            "cost": 40,
+            "slots": [
+                "Talent",
+                "Turret",
+                "Torpedo",
+                "Astromech",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Missile"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "leemakai": {
+            "name": "Leema Kai",
+            "subtitle": "Opportunity Knocks",
+            "limited": 1,
+            "cost": 37,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Turret",
+                "Torpedo",
+                "Missile",
+                "Astromech",
+                "Device"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "arlizhadrassian": {
+            "name": "Arliz Hadrassian",
+            "subtitle": "Crimson Blade",
+            "limited": 1,
+            "cost": 35,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Turret",
+                "Torpedo",
+                "Missile",
+                "Astromech",
+                "Device"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "amaxinewarrior": {
+            "name": "Amaxine Warrior",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 31,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Turret",
+                "Torpedo",
+                "Missile",
+                "Astromech",
+                "Device"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "padric": {
+            "name": "Padric",
+            "subtitle": "Napkin Bomber",
+            "limited": 1,
+            "cost": 32,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Turret",
+                "Torpedo",
+                "Missile",
+                "Astromech",
+                "Device"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "jinatasecurityofficer": {
+            "name": "Jinata Security Officer",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 39,
+            "slots": [
+                "Tech",
+                "Turret",
+                "Torpedo",
+                "Missile",
+                "Astromech",
+                "Device"
+            ],
+            "keywords": [
+                "Y-wing"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "C-ROC Cruiser": {
+        "syndicatesmugglers": {
+            "name": "Syndicate Smugglers",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 63,
+            "slots": [
+                "Command",
+                "Hardpoint",
+                "Crew",
+                "Crew",
+                "Team",
+                "Cargo",
+                "Device",
+                "Illicit",
+                "Title",
+                "Configuration"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "wildspace": "No",
+            "epic": "Yes"
+        }
+    },
+    "Customized YT-1300 Light Freighter": {
+        "freightercaptain": {
+            "name": "Freighter Captain",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 41,
+            "slots": [
+                "Missile",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Title",
+                "Gunner"
+            ],
+            "keywords": [
+                "Freighter",
+                "YT-1300"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "hansolo": {
+            "name": "Han Solo",
+            "subtitle": "The Corellian Kid",
+            "limited": 1,
+            "cost": 47,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Title",
+                "Gunner"
+            ],
+            "keywords": [
+                "Freighter",
+                "YT-1300"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "l337": {
+            "name": "L3-37",
+            "subtitle": "Droid Revolutionary",
+            "limited": 1,
+            "cost": 41,
+            "slots": [
+                "Missile",
+                "Crew",
+                "Crew",
+                "Gunner",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Droid",
+                "Freighter",
+                "YT-1300"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "landocalrissian": {
+            "name": "Lando Calrissian",
+            "subtitle": "Smooth-talking Gambler",
+            "limited": 1,
+            "cost": 43,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Title",
+                "Gunner"
+            ],
+            "keywords": [
+                "Freighter",
+                "YT-1300"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Escape Craft": {
+        "autopilotdrone": {
+            "name": "Autopilot Drone",
+            "subtitle": "Set to Blow",
+            "limited": 1,
+            "cost": 11,
+            "slots": [],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "l337-escapecraft": {
+            "name": "L3-37",
+            "subtitle": "Droid Revolutionary",
+            "limited": 1,
+            "cost": 25,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Modification"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "landocalrissian-escapecraft": {
+            "name": "Lando Calrissian",
+            "subtitle": "Smooth-talking Gambler",
+            "limited": 1,
+            "cost": 27,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "outerrimpioneer": {
+            "name": "Outer Rim Pioneer",
+            "subtitle": "Skillful Outlaw",
+            "limited": 1,
+            "cost": 26,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Fang Fighter": {
+        "fennrau": {
+            "name": "Fenn Rau",
+            "subtitle": "Skull Leader",
+            "limited": 1,
+            "cost": 69,
+            "slots": [
+                "Talent",
+                "Torpedo"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "joyrekkoff": {
+            "name": "Joy Rekkoff",
+            "subtitle": "Skull Squadron Ace",
+            "limited": 1,
+            "cost": 45,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Modification"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "kadsolus": {
+            "name": "Kad Solus",
+            "subtitle": "Skilled Commando",
+            "limited": 1,
+            "cost": 46,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Modification"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "oldteroch": {
+            "name": "Old Teroch",
+            "subtitle": "Mandalorian Mentor",
+            "limited": 1,
+            "cost": 57,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Modification"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "skullsquadronpilot": {
+            "name": "Skull Squadron Pilot",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 44,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Modification"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "zealousrecruit": {
+            "name": "Zealous Recruit",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 41,
+            "slots": [
+                "Torpedo",
+                "Modification"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "mandalorianroyalguard": {
+            "name": "Mandalorian Royal Guard",
+            "subtitle": "Selfless Protector",
+            "limited": 2,
+            "cost": 45,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Modification"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "torphun": {
+            "name": "Tor Phun",
+            "subtitle": "Direct Pressure",
+            "limited": 1,
+            "cost": 47,
+            "slots": [
+                "Talent",
+                "Torpedo",
+                "Modification"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Firespray-class Patrol Craft": {
+        "bobafett": {
+            "name": "Boba Fett",
+            "subtitle": "Notorious Bounty Hunter",
+            "limited": 1,
+            "cost": 90,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Missile",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "bountyhunter": {
+            "name": "Bounty Hunter",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 62,
+            "slots": [
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "emonazzameen": {
+            "name": "Emon Azzameen",
+            "subtitle": "Shipping Magnate",
+            "limited": 1,
+            "cost": 69,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "kathscarlet": {
+            "name": "Kath Scarlet",
+            "subtitle": "Captain of the Binayre Pirates",
+            "limited": 1,
+            "cost": 67,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "koshkafrost": {
+            "name": "Koshka Frost",
+            "subtitle": "Icy Professional",
+            "limited": 1,
+            "cost": 69,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "krassistrelix": {
+            "name": "Krassis Trelix",
+            "subtitle": "Imperial Deserter",
+            "limited": 1,
+            "cost": 65,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "hondoohnaka": {
+            "name": "Hondo Ohnaka",
+            "subtitle": "I Smell Profit!",
+            "limited": 1,
+            "cost": 63,
+            "slots": [
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "G-1A Starfighter": {
+        "4lom": {
+            "name": "4-LOM",
+            "subtitle": "Reprogrammed Protocol Droid",
+            "limited": 1,
+            "cost": 45,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter",
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "gandfindsman": {
+            "name": "Gand Findsman",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 39,
+            "slots": [
+                "Sensor",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "zuckuss": {
+            "name": "Zuckuss",
+            "subtitle": "Meditative Gand",
+            "limited": 1,
+            "cost": 42,
+            "slots": [
+                "Talent",
+                "Sensor",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Gauntlet Fighter": {
+        "maul": {
+            "name": "Maul",
+            "subtitle": "Lord of the Shadow Collective",
+            "limited": 1,
+            "cost": 73,
+            "slots": [
+                "Force Power",
+                "Crew",
+                "Gunner",
+                "Illicit",
+                "Device",
+                "Modification",
+                "Configuration",
+                "Title"
+            ],
+            "keywords": [
+                "Dark Side"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "rookkast": {
+            "name": "Rook Kast",
+            "subtitle": "Stoic Super Commando",
+            "limited": 1,
+            "cost": 61,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Gunner",
+                "Illicit",
+                "Device",
+                "Modification",
+                "Configuration",
+                "Title"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "shadowcollectiveoperator": {
+            "name": "Shadow Collective Operator",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 53,
+            "slots": [
+                "Crew",
+                "Gunner",
+                "Illicit",
+                "Device",
+                "Modification",
+                "Configuration",
+                "Title"
+            ],
+            "keywords": [
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "HWK-290 Light Freighter": {
+        "dacebonearm": {
+            "name": "Dace Bonearm",
+            "subtitle": "Outer Rim Mercenary",
+            "limited": 1,
+            "cost": 29,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "palobgodalhi": {
+            "name": "Palob Godalhi",
+            "subtitle": "Tethan Resister",
+            "limited": 1,
+            "cost": 40,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "spicerunner": {
+            "name": "Spice Runner",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 26,
+            "slots": [
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "torkilmux": {
+            "name": "Torkil Mux",
+            "subtitle": "Mercenary Miner",
+            "limited": 1,
+            "cost": 38,
+            "slots": [
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "gamutkey": {
+            "name": "Gamut Key",
+            "subtitle": "Collaborationist Governor",
+            "limited": 1,
+            "cost": 31,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "kananjarrus-hwk290lightfreighter": {
+            "name": "Kanan Jarrus",
+            "subtitle": "Lost Padawan",
+            "limited": 1,
+            "cost": 40,
+            "slots": [
+                "Force Power",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Jedi",
+                "Light Side",
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "tapusk": {
+            "name": "Tápusk",
+            "subtitle": "Order 66 Informant",
+            "limited": 1,
+            "cost": 33,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "JumpMaster 5000": {
+        "contractedscout": {
+            "name": "Contracted Scout",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 41,
+            "slots": [
+                "Cannon",
+                "Torpedo",
+                "Crew",
+                "Gunner",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dengar": {
+            "name": "Dengar",
+            "subtitle": "Vengeful Corellian",
+            "limited": 1,
+            "cost": 54,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Torpedo",
+                "Crew",
+                "Gunner",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "manaroo": {
+            "name": "Manaroo",
+            "subtitle": "Graceful Aruzan",
+            "limited": 1,
+            "cost": 45,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Torpedo",
+                "Crew",
+                "Gunner",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "teltrevura": {
+            "name": "Tel Trevura",
+            "subtitle": "Escape Artist",
+            "limited": 1,
+            "cost": 44,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Torpedo",
+                "Crew",
+                "Gunner",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "nomlumb": {
+            "name": "Nom Lumb",
+            "subtitle": "On the Run",
+            "limited": 1,
+            "cost": 39,
+            "slots": [
+                "Cannon",
+                "Torpedo",
+                "Crew",
+                "Gunner",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Kihraxz Fighter": {
+        "blacksunace": {
+            "name": "Black Sun Ace",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 38,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "captainjostero": {
+            "name": "Captain Jostero",
+            "subtitle": "Aggressive Opportunist",
+            "limited": 1,
+            "cost": 41,
+            "slots": [
+                "Missile",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "cartelmarauder": {
+            "name": "Cartel Marauder",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 37,
+            "slots": [
+                "Missile",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "graz": {
+            "name": "Graz",
+            "subtitle": "The Hunter",
+            "limited": 1,
+            "cost": 44,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Modification"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "talonbanecobra": {
+            "name": "Talonbane Cobra",
+            "subtitle": "Scourge of Tansarii Point",
+            "limited": 1,
+            "cost": 48,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "viktorhel": {
+            "name": "Viktor Hel",
+            "subtitle": "Storied Bounty Hunter",
+            "limited": 1,
+            "cost": 42,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Modification"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Lancer-class Pursuit Craft": {
+        "asajjventress": {
+            "name": "Asajj Ventress",
+            "subtitle": "Force of Her Own",
+            "limited": 1,
+            "cost": 66,
+            "slots": [
+                "Crew",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Title",
+                "Force Power"
+            ],
+            "keywords": [
+                "Bounty Hunter",
+                "Dark Side"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "ketsuonyo": {
+            "name": "Ketsu Onyo",
+            "subtitle": "Black Sun Contractor",
+            "limited": 1,
+            "cost": 66,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter",
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "sabinewren-lancerclasspursuitcraft": {
+            "name": "Sabine Wren",
+            "subtitle": "Artistic Saboteur",
+            "limited": 1,
+            "cost": 56,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter",
+                "Mandalorian"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "shadowporthunter": {
+            "name": "Shadowport Hunter",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 51,
+            "slots": [
+                "Crew",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "M12-L Kimogila Fighter": {
+        "cartelexecutioner": {
+            "name": "Cartel Executioner",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 41,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Torpedo",
+                "Missile",
+                "Astromech",
+                "Illicit",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dalanoberos": {
+            "name": "Dalan Oberos",
+            "subtitle": "Returned from the Grave",
+            "limited": 1,
+            "cost": 42,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Torpedo",
+                "Missile",
+                "Astromech",
+                "Illicit",
+                "Modification"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "toranikulda": {
+            "name": "Torani Kulda",
+            "subtitle": "Rodian Freelancer",
+            "limited": 1,
+            "cost": 47,
+            "slots": [
+                "Talent",
+                "Talent",
+                "Torpedo",
+                "Missile",
+                "Astromech",
+                "Illicit",
+                "Modification"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "M3-A Interceptor": {
+        "cartelspacer": {
+            "name": "Cartel Spacer",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 26,
+            "slots": [
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "genesisred": {
+            "name": "Genesis Red",
+            "subtitle": "Tansarii Point Crime Lord",
+            "limited": 1,
+            "cost": 31,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "inaldra": {
+            "name": "Inaldra",
+            "subtitle": "Tansarii Point Boss",
+            "limited": 1,
+            "cost": 27,
+            "slots": [
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "laetinashera": {
+            "name": "Laetin A’shera",
+            "subtitle": "Car’das Enforcer",
+            "limited": 1,
+            "cost": 30,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "quinnjast": {
+            "name": "Quinn Jast",
+            "subtitle": "Fortune Seeker",
+            "limited": 1,
+            "cost": 28,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "serissu": {
+            "name": "Serissu",
+            "subtitle": "Flight Instructor",
+            "limited": 1,
+            "cost": 40,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "sunnybounder": {
+            "name": "Sunny Bounder",
+            "subtitle": "Incurable Optimist",
+            "limited": 1,
+            "cost": 27,
+            "slots": [
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "tansariipointveteran": {
+            "name": "Tansarii Point Veteran",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 28,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "g4rgorvm": {
+            "name": "G4R-G0R V/M",
+            "subtitle": "Tilted Droid",
+            "limited": 1,
+            "cost": 25,
+            "slots": [
+                "Modification"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Modified TIE/ln Fighter": {
+        "ahhav": {
+            "name": "Ahhav",
+            "subtitle": "Vengeful Survivor",
+            "limited": 1,
+            "cost": 27,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "captainseevor": {
+            "name": "Captain Seevor",
+            "subtitle": "Noisy Nuisance",
+            "limited": 1,
+            "cost": 28,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "foremanproach": {
+            "name": "Foreman Proach",
+            "subtitle": "Slave Driver",
+            "limited": 1,
+            "cost": 27,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "miningguildsurveyor": {
+            "name": "Mining Guild Surveyor",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 23,
+            "slots": [
+                "Talent",
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "overseeryushyn": {
+            "name": "Overseer Yushyn",
+            "subtitle": "Overbearing Boss",
+            "limited": 1,
+            "cost": 22,
+            "slots": [
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "miningguildsentry": {
+            "name": "Mining Guild Sentry",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 22,
+            "slots": [
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "lapin": {
+            "name": "Lapin",
+            "subtitle": "Stickler for Details",
+            "limited": 1,
+            "cost": 24,
+            "slots": [
+                "Modification"
+            ],
+            "keywords": [
+                "TIE"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Quadrijet Transfer Spacetug": {
+        "constablezuvio": {
+            "name": "Constable Zuvio",
+            "subtitle": "Missing Sheriff of Niima Outpost",
+            "limited": 1,
+            "cost": 30,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "jakkugunrunner": {
+            "name": "Jakku Gunrunner",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 28,
+            "slots": [
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "sarcoplank": {
+            "name": "Sarco Plank",
+            "subtitle": "The Scavenger",
+            "limited": 1,
+            "cost": 29,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "unkarplutt": {
+            "name": "Unkar Plutt",
+            "subtitle": "Miserly Portion Master",
+            "limited": 1,
+            "cost": 29,
+            "slots": [
+                "Crew",
+                "Device",
+                "Illicit",
+                "Modification",
+                "Tech"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Rogue-class Starfighter": {
+        "durge": {
+            "name": "Durge",
+            "subtitle": "Hard to Kill",
+            "limited": 1,
+            "cost": 43,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Cannon",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "cadbane": {
+            "name": "Cad Bane",
+            "subtitle": "Infamous Bounty Hunter",
+            "limited": 1,
+            "cost": 40,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Cannon",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "viktorhel-rogueclassstarfighter": {
+            "name": "Viktor Hel",
+            "subtitle": "Storied Bounty Hunter",
+            "limited": 1,
+            "cost": 39,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Cannon",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "nomlumb-rogueclassstarfighter": {
+            "name": "Nom Lumb",
+            "subtitle": "Laughing Bandit",
+            "limited": 1,
+            "cost": 35,
+            "slots": [
+                "Cannon",
+                "Cannon",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "outerrimhunter": {
+            "name": "Outer Rim Hunter",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 35,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Cannon",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Scurrg H-6 bomber": {
+        "captainnym": {
+            "name": "Captain Nym",
+            "subtitle": "Captain of the Lok Revenants",
+            "limited": 1,
+            "cost": 46,
+            "slots": [
+                "Talent",
+                "Turret",
+                "Crew",
+                "Device",
+                "Device",
+                "Modification",
+                "Title",
+                "Gunner"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "lokrevenant": {
+            "name": "Lok Revenant",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 42,
+            "slots": [
+                "Turret",
+                "Crew",
+                "Device",
+                "Device",
+                "Modification",
+                "Title",
+                "Gunner"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "solsixxa": {
+            "name": "Sol Sixxa",
+            "subtitle": "Cunning Commander",
+            "limited": 1,
+            "cost": 44,
+            "slots": [
+                "Talent",
+                "Turret",
+                "Crew",
+                "Device",
+                "Device",
+                "Modification",
+                "Title",
+                "Gunner"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "ST-70 Assault Ship": {
+        "themandalorian": {
+            "name": "The Mandalorian",
+            "subtitle": "Din Djarin",
+            "limited": 1,
+            "cost": 49,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Crew",
+                "Gunner",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Mandalorian",
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "q90": {
+            "name": "Q9-0",
+            "subtitle": "Zero",
+            "limited": 1,
+            "cost": 50,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Crew",
+                "Gunner",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "guildbountyhunter": {
+            "name": "Guild Bounty Hunter",
+            "subtitle": "Blaster for Hire",
+            "limited": 2,
+            "cost": 46,
+            "slots": [
+                "Crew",
+                "Crew",
+                "Gunner",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "outerrimenforcer": {
+            "name": "Outer Rim Enforcer",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 45,
+            "slots": [
+                "Crew",
+                "Crew",
+                "Gunner",
+                "Illicit",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "StarViper-class Attack Platform": {
+        "blacksunassassin": {
+            "name": "Black Sun Assassin",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 45,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Torpedo",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "blacksunenforcer": {
+            "name": "Black Sun Enforcer",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 42,
+            "slots": [
+                "Tech",
+                "Torpedo",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "dalanoberos-starviperclassattackplatform": {
+            "name": "Dalan Oberos",
+            "subtitle": "Elite Bounty Hunter",
+            "limited": 1,
+            "cost": 46,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Torpedo",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "guri": {
+            "name": "Guri",
+            "subtitle": "Prince Xizor’s Bodyguard",
+            "limited": 1,
+            "cost": 59,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Torpedo",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Droid"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "princexizor": {
+            "name": "Prince Xizor",
+            "subtitle": "Black Sun Kingpin",
+            "limited": 1,
+            "cost": 46,
+            "slots": [
+                "Talent",
+                "Tech",
+                "Torpedo",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Trident-Class Assault Ship": {
+        "lawlesspirates": {
+            "name": "Lawless Pirates",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 85,
+            "slots": [
+                "Command",
+                "Torpedo",
+                "Hardpoint",
+                "Hardpoint",
+                "Crew",
+                "Crew",
+                "Gunner",
+                "Team",
+                "Cargo",
+                "Title"
+            ],
+            "keywords": [],
+            "standard": "No",
+            "wildspace": "No",
+            "epic": "Yes"
+        }
+    },
+    "YV-666 Light Freighter": {
+        "bossk": {
+            "name": "Bossk",
+            "subtitle": "Fearsome Hunter",
+            "limited": 1,
+            "cost": 63,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Title",
+                "Gunner"
+            ],
+            "keywords": [
+                "Bounty Hunter",
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "lattsrazzi": {
+            "name": "Latts Razzi",
+            "subtitle": "Martial Artist",
+            "limited": 1,
+            "cost": 53,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Title",
+                "Gunner"
+            ],
+            "keywords": [
+                "Bounty Hunter",
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "moraloeval": {
+            "name": "Moralo Eval",
+            "subtitle": "Criminal Mastermind",
+            "limited": 1,
+            "cost": 62,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Title",
+                "Gunner"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "trandoshanslaver": {
+            "name": "Trandoshan Slaver",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 51,
+            "slots": [
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Title",
+                "Gunner"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "doctoraphra": {
+            "name": "Doctor Aphra",
+            "subtitle": "Professional Disaster Zone",
+            "limited": 1,
+            "cost": 53,
+            "slots": [
+                "Talent",
+                "Cannon",
+                "Missile",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Title",
+                "Gunner"
+            ],
+            "keywords": [
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "YT-2400 Light Freighter (2023)": {
+        "dashrendar-swz103-sl-scumandvillainy": {
+            "name": "Dash Rendar",
+            "subtitle": "In it for Himself",
+            "limited": 1,
+            "cost": 88,
+            "slots": [],
+            "keywords": [
+                "Droid",
+                "Freighter"
+            ],
+            "standard": "No",
+            "wildspace": "Yes",
+            "epic": "Yes",
+            "standardLoadout": [
+                "mercenary-swz103",
+                "seekermissiles-swz103",
+                "leebo-swz103",
+                "outrider"
+            ]
+        },
+        "dashrendar-swz103-lsl-scumandvillainy": {
+            "name": "Dash Rendar",
+            "subtitle": "In it for Himself",
+            "limited": 1,
+            "cost": 74,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Crew",
+                "Crew",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Droid",
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "leebo-swz103-sl-scumandvillainy": {
+            "name": "“Leebo”",
+            "subtitle": "He Thinks He's Funny",
+            "limited": 1,
+            "cost": 83,
+            "slots": [],
+            "keywords": [
+                "Droid",
+                "Freighter"
+            ],
+            "standard": "No",
+            "wildspace": "Yes",
+            "epic": "Yes",
+            "standardLoadout": [
+                "efficientprocessing-swz103",
+                "seekermissiles-swz103",
+                "outrider"
+            ]
+        },
+        "leebo-swz103-lsl-scumandvillainy": {
+            "name": "“Leebo”",
+            "subtitle": "He Thinks He's Funny",
+            "limited": 1,
+            "cost": 69,
+            "slots": [
+                "Talent",
+                "Crew",
+                "Missile",
+                "Illicit",
+                "Modification",
+                "Title"
+            ],
+            "keywords": [
+                "Droid",
+                "Freighter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    },
+    "Z-95-AF4 Headhunter": {
+        "binayrepirate": {
+            "name": "Binayre Pirate",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 22,
+            "slots": [
+                "Missile",
+                "Illicit",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "blacksunsoldier": {
+            "name": "Black Sun Soldier",
+            "subtitle": "",
+            "limited": 0,
+            "cost": 23,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Illicit",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "kaatoleeachos": {
+            "name": "Kaa'to Leeachos",
+            "subtitle": "Imposing Marauder",
+            "limited": 1,
+            "cost": 22,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Illicit",
+                "Modification"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "ndrusuhlak": {
+            "name": "N’dru Suhlak",
+            "subtitle": "Hunt Saboteur",
+            "limited": 1,
+            "cost": 27,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Illicit",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "nashtahpup": {
+            "name": "Nashtah Pup",
+            "subtitle": "Contingency Plan",
+            "limited": 1,
+            "cost": 4,
+            "slots": [
+                "Missile",
+                "Illicit",
+                "Modification"
+            ],
+            "keywords": [],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        },
+        "bossk-z95af4headhunter": {
+            "name": "Bossk",
+            "subtitle": "Fearsome Hunter",
+            "limited": 1,
+            "cost": 25,
+            "slots": [
+                "Talent",
+                "Missile",
+                "Illicit",
+                "Modification"
+            ],
+            "keywords": [
+                "Bounty Hunter"
+            ],
+            "standard": "Yes",
+            "wildspace": "Yes",
+            "epic": "Yes"
+        }
+    }
+}
