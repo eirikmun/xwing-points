@@ -3,7 +3,7 @@
     "format": "50P-1.0",
     "author": "The X-Wing Alliance",
     "subject": "The X-Wing Alliance community point update for X-Wing the miniatures game",
-        "files": {
+    "files": {
         "rebelalliance": "XWA/50P10/rebelalliance.json", 
         "galacticempire": "XWA/50P10/galacticempire.json", 
         "scumandvillainy": "XWA/50P10/scumandvillainy.json",

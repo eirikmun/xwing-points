@@ -1,0 +1,1891 @@
+{
+  "BTA-NR2 Y-Wing": {
+    "aftabackbar": {
+      "name": "Aftab Ackbar",
+      "subtitle": "“Junior”",
+      "limited": 1,
+      "cost": 7,
+      "loadout": 8,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "coruskapellim": {
+      "name": "Corus Kapellim",
+      "subtitle": "“Gentleman Flyer”",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 15,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Illicit"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "caithrenalli-btanr2ywing": {
+      "name": "C’ai Threnalli",
+      "subtitle": "Tenacious Survivor",
+      "limited": 1,
+      "cost": 7,
+      "loadout": 8,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Talent"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "legafossang": {
+      "name": "Lega Fossang",
+      "subtitle": "Hero of Humbarine",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 9,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "shasazaro": {
+      "name": "Shasa Zaro",
+      "subtitle": "Artistic Ace",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 14,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Talent"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "tezanasz": {
+      "name": "Teza Nasz",
+      "subtitle": "Old Soldier",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 10,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Talent"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "wilsateshlo": {
+      "name": "Wilsa Teshlo",
+      "subtitle": "Veiled Sorority Privateer",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 8,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Talent"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "zoriibliss": {
+      "name": "Zorii Bliss",
+      "subtitle": "Corsair of Kijimi",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 16,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Talent",
+        "Illicit"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "kijimispicerunner": {
+      "name": "Kijimi Spice Runner",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 9,
+      "loadout": 14,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Illicit"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "newrepublicpatrol": {
+      "name": "New Republic Patrol",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 7,
+      "loadout": 5,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "BTA-NR2-W Y-Wing": {
+    "aftabackbar-wartime": {
+      "name": "Aftab Ackbar",
+      "subtitle": "“Junior”",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 13,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Missile",
+        "Torpedo"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "coruskapellim-wartime": {
+      "name": "Corus Kapellim",
+      "subtitle": "“Gentleman Flyer”",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 18,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Illicit",
+        "Missile",
+        "Torpedo"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "caithrenalli-wartime": {
+      "name": "C’ai Threnalli",
+      "subtitle": "Tenacious Survivor",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 12,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Missile",
+        "Torpedo",
+        "Talent"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "legafossang-wartime": {
+      "name": "Lega Fossang",
+      "subtitle": "Hero of Humbarine",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 10,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Missile",
+        "Torpedo"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "shasazaro-wartime": {
+      "name": "Shasa Zaro",
+      "subtitle": "Artistic Ace",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 15,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Missile",
+        "Torpedo",
+        "Talent"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "tezanasz-wartime": {
+      "name": "Teza Nasz",
+      "subtitle": "Old Soldier",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 18,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Missile",
+        "Torpedo",
+        "Talent"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "wilsateshlo-wartime": {
+      "name": "Wilsa Teshlo",
+      "subtitle": "Veiled Sorority Privateer",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 17,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Missile",
+        "Torpedo",
+        "Talent"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "zoriibliss-wartime": {
+      "name": "Zorii Bliss",
+      "subtitle": "Corsair of Kijimi",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 20,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Talent",
+        "Missile",
+        "Torpedo",
+        "Illicit"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "kijimispicerunner-wartime": {
+      "name": "Kijimi Spice Runner",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 11,
+      "loadout": 16,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Missile",
+        "Torpedo",
+        "Illicit"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "newrepublicpatrol-wartime": {
+      "name": "New Republic Patrol",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 10,
+      "loadout": 11,
+      "slots": [
+        "Astromech",
+        "Turret",
+        "Modification",
+        "Modification",
+        "Tech",
+        "Payload",
+        "Missile",
+        "Torpedo"
+      ],
+      "keywords": [
+        "Y-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "CR-90 Corvette": {
+    "leiaorgana-epicsl": {
+      "name": "Leia Organa",
+      "subtitle": "Tantive IV",
+      "limited": 1,
+      "cost": 32,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [],
+      "standard": "No",
+      "extended": "No",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "Fireball": {
+    "jarekyeager": {
+      "name": "Jarek Yeager",
+      "subtitle": "Too Old for This",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 14,
+      "slots": [
+        "Modification",
+        "Astromech",
+        "Illicit",
+        "Missile",
+        "Talent",
+        "Modification",
+        "Title"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "kazudaxiono": {
+      "name": "Kazuda Xiono",
+      "subtitle": "Best Pilot in the Galaxy",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 15,
+      "slots": [
+        "Modification",
+        "Astromech",
+        "Illicit",
+        "Missile",
+        "Talent",
+        "Modification",
+        "Title"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "r1j5": {
+      "name": "R1-J5",
+      "subtitle": "Bucket",
+      "limited": 1,
+      "cost": 6,
+      "loadout": 5,
+      "slots": [
+        "Modification",
+        "Illicit",
+        "Missile",
+        "Crew",
+        "Title"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "colossusstationmechanic": {
+      "name": "Colossus Station Mechanic",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 7,
+      "loadout": 5,
+      "slots": [
+        "Modification",
+        "Astromech",
+        "Illicit",
+        "Missile"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "GR-75 Medium Transport": {
+    "orafdesyk-epicsl": {
+      "name": "Oraf Desyk",
+      "subtitle": "Hosnian Lament",
+      "limited": 1,
+      "cost": 18,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [],
+      "standard": "No",
+      "extended": "No",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "newrepublicvolunteers": {
+      "name": "New Republic Volunteers",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 23,
+      "loadout": 25,
+      "slots": [
+        "Command",
+        "Hardpoint",
+        "Turret",
+        "Crew",
+        "Crew",
+        "Team",
+        "Cargo",
+        "Cargo"
+      ],
+      "keywords": [],
+      "standard": "No",
+      "extended": "No",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "MG-100 StarFortress": {
+    "benteene": {
+      "name": "Ben Teene",
+      "subtitle": "Crimson Bolide",
+      "limited": 1,
+      "cost": 15,
+      "loadout": 19,
+      "slots": [
+        "Payload",
+        "Payload",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Tech",
+        "Modification"
+      ],
+      "keywords": [],
+      "standard": "No",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "cat": {
+      "name": "Cat",
+      "subtitle": "Cobalt Wasp",
+      "limited": 1,
+      "cost": 15,
+      "loadout": 22,
+      "slots": [
+        "Payload",
+        "Payload",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Tech",
+        "Modification"
+      ],
+      "keywords": [],
+      "standard": "No",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "edonkappehl": {
+      "name": "Edon Kappehl",
+      "subtitle": "Crimson Hailstorm",
+      "limited": 1,
+      "cost": 16,
+      "loadout": 23,
+      "slots": [
+        "Payload",
+        "Payload",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Tech",
+        "Modification",
+        "Sensor"
+      ],
+      "keywords": [],
+      "standard": "No",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "finchdallow": {
+      "name": "Finch Dallow",
+      "subtitle": "Cobalt Hammer",
+      "limited": 1,
+      "cost": 17,
+      "loadout": 28,
+      "slots": [
+        "Payload",
+        "Payload",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Tech",
+        "Modification",
+        "Talent",
+        "Sensor"
+      ],
+      "keywords": [],
+      "standard": "No",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "finchdallow-evacuationofdqar": {
+      "name": "Finch Dallow",
+      "subtitle": "Evacuation of D'Qar",
+      "limited": 1,
+      "cost": 16,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "paigetico": {
+      "name": "Paige Tico",
+      "subtitle": "Hero",
+      "limited": 1,
+      "cost": 16,
+      "loadout": 21,
+      "slots": [
+        "Payload",
+        "Payload",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Tech",
+        "Modification",
+        "Talent",
+        "Sensor",
+        "Modification"
+      ],
+      "keywords": [],
+      "standard": "No",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "vennie": {
+      "name": "Vennie",
+      "subtitle": "Crimson Cutter",
+      "limited": 1,
+      "cost": 17,
+      "loadout": 27,
+      "slots": [
+        "Payload",
+        "Payload",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Tech",
+        "Modification"
+      ],
+      "keywords": [],
+      "standard": "No",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "vennie-evacuationofdqar": {
+      "name": "Vennie",
+      "subtitle": "Evacuation of D'Qar",
+      "limited": 1,
+      "cost": 16,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "cobaltsquadronbomber": {
+      "name": "Cobalt Squadron Bomber",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 15,
+      "loadout": 20,
+      "slots": [
+        "Payload",
+        "Payload",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Tech",
+        "Modification"
+      ],
+      "keywords": [],
+      "standard": "No",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "RZ-2 A-wing": {
+    "greersonnel": {
+      "name": "Greer Sonnel",
+      "subtitle": "Kothan Si",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 8,
+      "slots": [
+        "Missile",
+        "Tech",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "lulolampar": {
+      "name": "L’ulo L’ampar",
+      "subtitle": "Luminous Mentor",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 8,
+      "slots": [
+        "Missile",
+        "Tech",
+        "Modification",
+        "Talent",
+        "Talent"
+      ],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "merlcobben": {
+      "name": "Merl Cobben",
+      "subtitle": "Distracting Daredevil",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 4,
+      "slots": [
+        "Missile",
+        "Tech",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "ronithblario-evacuationofdqar": {
+      "name": "Ronith Blario",
+      "subtitle": "Evacuation of D'Qar",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "ronithblario": {
+      "name": "Ronith Blario",
+      "subtitle": "Reckless Rookie",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 9,
+      "slots": [
+        "Missile",
+        "Tech",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "seftinvanik": {
+      "name": "Seftin Vanik",
+      "subtitle": "Skillful Wingmate",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 11,
+      "slots": [
+        "Missile",
+        "Tech",
+        "Modification",
+        "Talent",
+        "Talent"
+      ],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "suralindajavos": {
+      "name": "Suralinda Javos",
+      "subtitle": "Inquisitive Journalist",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 8,
+      "slots": [
+        "Missile",
+        "Tech",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "tallissanlintra": {
+      "name": "Tallissan Lintra",
+      "subtitle": "Deadly Approach",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 12,
+      "slots": [
+        "Missile",
+        "Tech",
+        "Modification",
+        "Talent",
+        "Talent",
+        "Sensor"
+      ],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "tallissanlintra-evacuationofdqar": {
+      "name": "Tallissan Lintra",
+      "subtitle": "Evacuation of D'Qar",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "wrobietyce": {
+      "name": "Wrobie Tyce",
+      "subtitle": "Dynamic Aerialist",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 3,
+      "slots": [
+        "Missile",
+        "Tech",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "zaribangel": {
+      "name": "Zari Bangel",
+      "subtitle": "Aerial Exhibitionist",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 15,
+      "slots": [
+        "Missile",
+        "Tech",
+        "Modification",
+        "Talent",
+        "Talent"
+      ],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "zizitlo": {
+      "name": "Zizi Tlo",
+      "subtitle": "Committed to the Cause",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 14,
+      "slots": [
+        "Missile",
+        "Tech",
+        "Modification",
+        "Talent",
+        "Talent",
+        "Tech"
+      ],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "zizitlo-evacuationofdqar": {
+      "name": "Zizi Tlo",
+      "subtitle": "Evacuation of D'Qar",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "bluesquadronrecruit": {
+      "name": "Blue Squadron Recruit",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 8,
+      "loadout": 3,
+      "slots": [
+        "Missile",
+        "Tech",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "greensquadronexpert": {
+      "name": "Green Squadron Expert",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 9,
+      "loadout": 8,
+      "slots": [
+        "Missile",
+        "Tech",
+        "Modification",
+        "Talent",
+        "Talent"
+      ],
+      "keywords": [
+        "A-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "Resistance Transport": {
+    "covanell": {
+      "name": "Cova Nell",
+      "subtitle": "Evacuation Escort",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 18,
+      "slots": [
+        "Astromech",
+        "Crew",
+        "Crew",
+        "Modification",
+        "Tech",
+        "Cannon",
+        "Torpedo",
+        "Talent",
+        "Cannon"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "nodinchavdri": {
+      "name": "Nodin Chavdri",
+      "subtitle": "Insubordinate Insurgent",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 12,
+      "slots": [
+        "Astromech",
+        "Crew",
+        "Crew",
+        "Modification",
+        "Tech",
+        "Cannon",
+        "Torpedo"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "pammichnerrogoode": {
+      "name": "Pammich Nerro Goode",
+      "subtitle": "D’Qar Dispatcher",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 22,
+      "slots": [
+        "Astromech",
+        "Crew",
+        "Crew",
+        "Modification",
+        "Tech",
+        "Cannon",
+        "Torpedo",
+        "Cannon"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "pammichnerrogoode-evacuationofdqar": {
+      "name": "Pammich Nerro Goode",
+      "subtitle": "Evacuation of D'Qar",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "takajamoreesa": {
+      "name": "Taka Jamoreesa",
+      "subtitle": "Snograth Enthusiast",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 6,
+      "slots": [
+        "Astromech",
+        "Crew",
+        "Crew",
+        "Modification",
+        "Tech",
+        "Torpedo"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "logisticsdivisionpilot": {
+      "name": "Logistics Division Pilot",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 10,
+      "loadout": 19,
+      "slots": [
+        "Astromech",
+        "Crew",
+        "Crew",
+        "Modification",
+        "Tech",
+        "Cannon",
+        "Torpedo",
+        "Astromech"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "Resistance Transport Pod": {
+    "bb8": {
+      "name": "BB-8",
+      "subtitle": "Full of Surprises",
+      "limited": 1,
+      "cost": 7,
+      "loadout": 9,
+      "slots": [
+        "Crew",
+        "Modification",
+        "Tech"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "finn": {
+      "name": "Finn",
+      "subtitle": "Big Deal",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 16,
+      "slots": [
+        "Crew",
+        "Modification",
+        "Tech",
+        "Talent"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "rosetico": {
+      "name": "Rose Tico",
+      "subtitle": "Earnest Engineer",
+      "limited": 1,
+      "cost": 8,
+      "loadout": 14,
+      "slots": [
+        "Crew",
+        "Modification",
+        "Tech",
+        "Talent"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "vimoradi": {
+      "name": "Vi Moradi",
+      "subtitle": "Starling",
+      "limited": 1,
+      "cost": 6,
+      "loadout": 5,
+      "slots": [
+        "Crew",
+        "Modification",
+        "Tech"
+      ],
+      "keywords": [],
+      "standard": "No",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "Scavenged YT-1300": {
+    "chewbacca-scavengedyt1300": {
+      "name": "Chewbacca",
+      "subtitle": "Loyal Companion",
+      "limited": 1,
+      "cost": 17,
+      "loadout": 18,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Illicit",
+        "Illicit",
+        "Modification",
+        "Missile",
+        "Talent",
+        "Title"
+      ],
+      "keywords": [
+        "Freighter",
+        "YT-1300"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "hansolo-scavengedyt1300": {
+      "name": "Han Solo",
+      "subtitle": "Jaded Smuggler",
+      "limited": 1,
+      "cost": 18,
+      "loadout": 19,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Illicit",
+        "Illicit",
+        "Modification",
+        "Missile",
+        "Talent",
+        "Title"
+      ],
+      "keywords": [
+        "Freighter",
+        "YT-1300"
+      ],
+      "standard": "No",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "landocalrissian-scavengedyt1300": {
+      "name": "Lando Calrissian",
+      "subtitle": "Old General",
+      "limited": 1,
+      "cost": 18,
+      "loadout": 20,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Illicit",
+        "Illicit",
+        "Modification",
+        "Missile",
+        "Talent",
+        "Title"
+      ],
+      "keywords": [
+        "Freighter",
+        "YT-1300"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "poedameron-scavengedyt1300": {
+      "name": "Poe Dameron",
+      "subtitle": "A Difficult Man",
+      "limited": 1,
+      "cost": 20,
+      "loadout": 24,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Illicit",
+        "Illicit",
+        "Modification",
+        "Missile",
+        "Talent",
+        "Talent",
+        "Title"
+      ],
+      "keywords": [
+        "Freighter",
+        "YT-1300"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "rey": {
+      "name": "Rey",
+      "subtitle": "Resourceful Scavenger",
+      "limited": 1,
+      "cost": 19,
+      "loadout": 21,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Gunner",
+        "Gunner",
+        "Illicit",
+        "Illicit",
+        "Modification",
+        "Missile",
+        "Force Power",
+        "Force Power",
+        "Title"
+      ],
+      "keywords": [
+        "Freighter",
+        "Light Side",
+        "YT-1300"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "resistancesympathizer": {
+      "name": "Resistance Sympathizer",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 15,
+      "loadout": 16,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Modification"
+      ],
+      "keywords": [
+        "Freighter",
+        "YT-1300"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  },
+  "T-70 X-wing": {
+    "caithrenalli-evacuationofdqar": {
+      "name": "C’ai Threnalli",
+      "subtitle": "Evacuation of D'Qar",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "caithrenalli": {
+      "name": "C’ai Threnalli",
+      "subtitle": "Tenacious Survivor",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 14,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration",
+        "Talent"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "elloasty": {
+      "name": "Ello Asty",
+      "subtitle": "Born to Ill",
+      "limited": 1,
+      "cost": 14,
+      "loadout": 16,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration",
+        "Talent"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "jaycristubbs-evacuationofdqar": {
+      "name": "Jaycris Tubbs",
+      "subtitle": "Evacuation of D'Qar",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "jaycristubbs": {
+      "name": "Jaycris Tubbs",
+      "subtitle": "Loving Father",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 7,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "jessikapava": {
+      "name": "Jessika Pava",
+      "subtitle": "The Great Destroyer",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 10,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "jophseastriker": {
+      "name": "Joph Seastriker",
+      "subtitle": "Reckless Bodyguard",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 10,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "karekun": {
+      "name": "Karé Kun",
+      "subtitle": "Woman of Action",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 13,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration",
+        "Talent"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "lieutenantbastian": {
+      "name": "Lieutenant Bastian",
+      "subtitle": "Optimistic Analyst",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 4,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "niennunb": {
+      "name": "Nien Nunb",
+      "subtitle": "Sarcastic Survivor",
+      "limited": 1,
+      "cost": 14,
+      "loadout": 16,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration",
+        "Talent",
+        "Tech"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "nimichireen": {
+      "name": "Nimi Chireen",
+      "subtitle": "Hopeful Hero",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 10,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "poedameron-evacuationofdqar": {
+      "name": "Poe Dameron",
+      "subtitle": "Evacuation of D'Qar",
+      "limited": 1,
+      "cost": 16,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "poedameron-swz68": {
+      "name": "Poe Dameron",
+      "subtitle": "Resistance Commander",
+      "limited": 1,
+      "cost": 14,
+      "loadout": 11,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration",
+        "Talent",
+        "Talent",
+        "Sensor"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "poedameron": {
+      "name": "Poe Dameron",
+      "subtitle": "Trigger-Happy Flyboy",
+      "limited": 1,
+      "cost": 18,
+      "loadout": 24,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration",
+        "Talent",
+        "Talent",
+        "Title"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "stomeronistarck-evacuationofdqar": {
+      "name": "Stomeroni Starck",
+      "subtitle": "Evacuation of D'Qar",
+      "limited": 1,
+      "cost": 14,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "temminwexley-swz68": {
+      "name": "Temmin Wexley",
+      "subtitle": "Black Two",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 5,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration",
+        "Talent"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "temminwexley": {
+      "name": "Temmin Wexley",
+      "subtitle": "Snap",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 11,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration",
+        "Talent"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "venisadoza": {
+      "name": "Venisa Doza",
+      "subtitle": "Jade Leader",
+      "limited": 1,
+      "cost": 13,
+      "loadout": 15,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration",
+        "Talent",
+        "Missile"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "zayversio": {
+      "name": "Zay Versio",
+      "subtitle": "Her Father's Daughter",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 10,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration",
+        "Talent"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "blacksquadronace-t70xwing": {
+      "name": "Black Squadron Ace",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 13,
+      "loadout": 17,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration",
+        "Talent",
+        "Torpedo"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "bluesquadronrookie": {
+      "name": "Blue Squadron Rookie",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 10,
+      "loadout": 4,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    },
+    "redsquadronexpert": {
+      "name": "Red Squadron Expert",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 11,
+      "loadout": 9,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration",
+        "Talent"
+      ],
+      "keywords": [
+        "X-wing"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0
+    }
+  }
+}
