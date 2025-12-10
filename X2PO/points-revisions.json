@@ -1,9 +1,10 @@
 {
-    "current_revision": "X2PO/mar2025/revision.json",
+    "current_revision": "X2PO/dec2025/revision.json",
     "revision_history": [
         "X2PO/mar2024/revision.json",
         "X2PO/sep2024/revision.json",
         "X2PO/mar2025/revision.json",
-        "X2PO/RSLv1-3/revision.json"
+        "X2PO/RSLv1-3/revision.json",
+        "X2PO/dec2025/revision.json"
     ]
 }

@@ -1,0 +1,16 @@
+{
+    "effective_date": "2025-12-10",
+    "format": "December 2025 update",
+    "author": "X2PO",
+    "subject": "The X-Wing 2.0 Legacy regular points update with Warrior and Turncoats release",
+    "files": {
+        "rebelalliance": "X2PO/dec2025/rebelalliance.json",
+        "galacticempire": "X2PO/dec2025/galacticempire.json",
+        "scumandvillainy": "X2PO/dec2025/scumandvillainy.json",
+        "resistance": "X2PO/dec2025/resistance.json",
+        "firstorder": "X2PO/dec2025/firstorder.json",
+        "galacticrepublic": "X2PO/dec2025/galacticrepublic.json",
+        "separatistalliance": "X2PO/dec2025/separatistalliance.json",
+        "upgrades": "X2PO/dec2025/upgrades.json"
+    }
+}
