@@ -1252,7 +1252,7 @@
             "name": "Shasa Zaro",
             "subtitle": "Artistic Ace",
             "limited": 1,
-            "cost": 31,
+            "cost": 32,
             "slots": [
                 "Tech",
                 "Turret",
@@ -1317,7 +1317,7 @@
             "name": "Corus Kapellim",
             "subtitle": "“Gentleman Flyer”",
             "limited": 1,
-            "cost": 30,
+            "cost": 31,
             "slots": [
                 "Tech",
                 "Turret",
@@ -1338,7 +1338,7 @@
             "name": "C’ai Threnalli",
             "subtitle": "Tenacious Survivor",
             "limited": 1,
-            "cost": 30,
+            "cost": 31,
             "slots": [
                 "Talent",
                 "Tech",
