@@ -1,0 +1,1545 @@
+{
+  "Belbullab-22 Starfighter": {
+    "captainsear": {
+      "name": "Captain Sear",
+      "subtitle": "Kage Infiltrator",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 11,
+      "slots": [
+        "Modification",
+        "Modification",
+        "Tactical Relay"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 308
+    },
+    "generalgrievous": {
+      "name": "General Grievous",
+      "subtitle": "Ambitious Cyborg",
+      "limited": 1,
+      "cost": 13,
+      "loadout": 20,
+      "slots": [
+        "Modification",
+        "Modification",
+        "Talent",
+        "Title"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 305
+    },
+    "wattambor": {
+      "name": "Wat Tambor",
+      "subtitle": "Techno Union Foreman",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 14,
+      "slots": [
+        "Modification",
+        "Modification",
+        "Tactical Relay",
+        "Talent"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 306
+    },
+    "feethanottrawautopilot": {
+      "name": "Feethan Ottraw Autopilot",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 9,
+      "loadout": 10,
+      "slots": [
+        "Modification",
+        "Modification",
+        "Tactical Relay"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 307
+    },
+    "skakoanace": {
+      "name": "Skakoan Ace",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 10,
+      "loadout": 14,
+      "slots": [
+        "Modification",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 344
+    }
+  },
+  "C-ROC Cruiser": {
+    "separatistprivateers": {
+      "name": "Separatists Privateers",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 24,
+      "loadout": 30,
+      "slots": [
+        "Command",
+        "Hardpoint",
+        "Crew",
+        "Crew",
+        "Tactical Relay",
+        "Team",
+        "Cargo",
+        "Payload",
+        "Configuration"
+      ],
+      "keywords": [],
+      "standard": "No",
+      "extended": "No",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 375
+    }
+  },
+  "Droid Tri-Fighter": {
+    "dis347-siegeofcoruscant": {
+      "name": "DIS-347",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 588
+    },
+    "dis347": {
+      "name": "DIS-347",
+      "subtitle": "Target Acquired",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 8,
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Modification",
+        "Modification",
+        "Missile",
+        "Cannon",
+        "Configuration"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 421
+    },
+    "disl9b2-legendsandrelics": {
+      "name": "DIS-L9B2",
+      "subtitle": "Calculated Risk",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 11,
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Modification",
+        "Modification",
+        "Missile",
+        "Cannon",
+        "Configuration"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 738
+    },
+    "dist81": {
+      "name": "DIS-T81",
+      "subtitle": "Clever Circuits",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 14,
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Modification",
+        "Modification",
+        "Missile",
+        "Cannon",
+        "Configuration"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 422
+    },
+    "dist81-siegeofcoruscant": {
+      "name": "DIS-T81",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 589
+    },
+    "fearsomepredator": {
+      "name": "Fearsome Predator",
+      "subtitle": "Fixated Pursuit",
+      "limited": 3,
+      "cost": 9,
+      "loadout": 6,
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Modification",
+        "Modification",
+        "Missile",
+        "Cannon",
+        "Configuration"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 420
+    },
+    "phlacarphoccprototype": {
+      "name": "Phlac-Arphocc Prototype",
+      "subtitle": "Predictive Analysis Protocol",
+      "limited": 2,
+      "cost": 10,
+      "loadout": 9,
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Modification",
+        "Modification",
+        "Missile",
+        "Cannon",
+        "Configuration"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "No",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 423
+    },
+    "phlacarphoccprototype-siegeofcoruscant": {
+      "name": "Phlac-Arphocc Prototype",
+      "subtitle": "Siege of Coruscant",
+      "limited": 2,
+      "cost": 10,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 590
+    },
+    "volandas": {
+      "name": "Volan Das",
+      "subtitle": "Impatient Invader",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 11,
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Modification",
+        "Modification",
+        "Missile",
+        "Cannon",
+        "Illicit"
+      ],
+      "keywords": [
+        "Bounty Hunter"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 614
+    },
+    "colicoidinterceptor": {
+      "name": "Colicoid Interceptor",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 8,
+      "loadout": 5,
+      "slots": [
+        "Sensor",
+        "Modification",
+        "Modification",
+        "Missile",
+        "Cannon",
+        "Configuration"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 424
+    },
+    "separatistinterceptor": {
+      "name": "Separatist Interceptor",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 9,
+      "loadout": 8,
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Modification",
+        "Modification",
+        "Missile",
+        "Cannon",
+        "Configuration"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 425
+    }
+  },
+  "Firespray-class Patrol Craft": {
+    "aurrasing": {
+      "name": "Aurra Sing",
+      "subtitle": "Bane of the Jedi",
+      "limited": 1,
+      "cost": 17,
+      "loadout": 10,
+      "slots": [
+        "Cannon",
+        "Crew",
+        "Illicit",
+        "Missile",
+        "Modification",
+        "Payload",
+        "Title",
+        "Force Power"
+      ],
+      "keywords": [
+        "Dark Side",
+        "Bounty Hunter"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 615
+    },
+    "bobafett-firesprayclasspatrolcraft": {
+      "name": "Boba Fett",
+      "subtitle": "Survivor",
+      "limited": 1,
+      "cost": 16,
+      "loadout": 9,
+      "slots": [
+        "Cannon",
+        "Crew",
+        "Illicit",
+        "Missile",
+        "Modification",
+        "Payload",
+        "Title"
+      ],
+      "keywords": [
+        "Bounty Hunter"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 427
+    },
+    "jangofett": {
+      "name": "Jango Fett",
+      "subtitle": "Simple Man",
+      "limited": 1,
+      "cost": 19,
+      "loadout": 20,
+      "slots": [
+        "Cannon",
+        "Crew",
+        "Illicit",
+        "Missile",
+        "Modification",
+        "Payload",
+        "Title",
+        "Talent"
+      ],
+      "keywords": [
+        "Bounty Hunter"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 429
+    },
+    "zamwesell": {
+      "name": "Zam Wesell",
+      "subtitle": "Clawdite Changeling",
+      "limited": 1,
+      "cost": 18,
+      "loadout": 12,
+      "slots": [
+        "Cannon",
+        "Crew",
+        "Illicit",
+        "Missile",
+        "Modification",
+        "Payload",
+        "Title",
+        "Talent"
+      ],
+      "keywords": [
+        "Bounty Hunter"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 428
+    },
+    "separatistracketeer": {
+      "name": "Separatist Racketeer",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 15,
+      "loadout": 8,
+      "slots": [
+        "Cannon",
+        "Crew",
+        "Illicit",
+        "Missile",
+        "Modification",
+        "Payload"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 426
+    }
+  },
+  "Gauntlet Fighter": {
+    "bokatankryze-separatistalliance": {
+      "name": "Bo-Katan Kryze",
+      "subtitle": "Vizsla's Lieutenant",
+      "limited": 1,
+      "cost": 16,
+      "loadout": 20,
+      "slots": [
+        "Crew",
+        "Gunner",
+        "Illicit",
+        "Modification",
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Talent",
+        "Title"
+      ],
+      "keywords": [
+        "Mandalorian"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 509
+    },
+    "deathwatchwarrior": {
+      "name": "Death Watch Warrior",
+      "subtitle": "Fanatical Adherent",
+      "limited": 1,
+      "cost": 15,
+      "loadout": 18,
+      "slots": [
+        "Crew",
+        "Gunner",
+        "Illicit",
+        "Modification",
+        "Modification",
+        "Payload",
+        "Configuration"
+      ],
+      "keywords": [
+        "Mandalorian"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 508
+    },
+    "previzsla": {
+      "name": "Pre Vizsla",
+      "subtitle": "Leader of Death Watch",
+      "limited": 1,
+      "cost": 16,
+      "loadout": 16,
+      "slots": [
+        "Crew",
+        "Gunner",
+        "Illicit",
+        "Modification",
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Talent"
+      ],
+      "keywords": [
+        "Mandalorian"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 507
+    }
+  },
+  "Gozanti-class Cruiser": {
+    "aut0-epicsl": {
+      "name": "Aut-0",
+      "subtitle": "Alpha Revue",
+      "limited": 1,
+      "cost": 20,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [],
+      "standard": "No",
+      "extended": "No",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 683
+    }
+  },
+  "HMP Droid Gunship": {
+    "dgs047": {
+      "name": "DGS-047",
+      "subtitle": "Adaptive Intelligence",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 8,
+      "slots": [
+        "Missile",
+        "Missile",
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Tactical Relay"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 409
+    },
+    "dgs286": {
+      "name": "DGS-286",
+      "subtitle": "Ambush Protocols",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 13,
+      "slots": [
+        "Missile",
+        "Missile",
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Tactical Relay",
+        "Torpedo"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 410
+    },
+    "geonosianprototype": {
+      "name": "Geonosian Prototype",
+      "subtitle": "Devastation Protocols",
+      "limited": 2,
+      "cost": 10,
+      "loadout": 13,
+      "slots": [
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Cannon",
+        "Cannon"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 408
+    },
+    "onderonoppressor": {
+      "name": "Onderon Oppressor",
+      "subtitle": "Atmospheric Attack Module",
+      "limited": 2,
+      "cost": 9,
+      "loadout": 9,
+      "slots": [
+        "Missile",
+        "Missile",
+        "Modification",
+        "Payload",
+        "Configuration"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 411
+    },
+    "baktoiddrone": {
+      "name": "Baktoid Drone",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 9,
+      "loadout": 7,
+      "slots": [
+        "Missile",
+        "Missile",
+        "Modification",
+        "Payload",
+        "Configuration"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 405
+    },
+    "separatistpredator": {
+      "name": "Separatist Predator",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 10,
+      "loadout": 12,
+      "slots": [
+        "Missile",
+        "Missile",
+        "Modification",
+        "Payload",
+        "Configuration"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 407
+    }
+  },
+  "Hyena-class Droid Bomber": {
+    "baktoidprototype": {
+      "name": "Baktoid Prototype",
+      "subtitle": "Function over Form",
+      "limited": 2,
+      "cost": 8,
+      "loadout": 10,
+      "slots": [
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Missile",
+        "Missile"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 329
+    },
+    "baktoidprototype-siegeofcoruscant": {
+      "name": "Baktoid Prototype",
+      "subtitle": "Siege of Coruscant",
+      "limited": 2,
+      "cost": 7,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 587
+    },
+    "bombardmentdrone": {
+      "name": "Bombardment Drone",
+      "subtitle": "Time on Target",
+      "limited": 3,
+      "cost": 9,
+      "loadout": 9,
+      "slots": [
+        "Modification",
+        "Payload",
+        "Payload"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 325
+    },
+    "dbs32c": {
+      "name": "DBS-32C",
+      "subtitle": "Droid Control Signal Relay",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 10,
+      "slots": [
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Missile",
+        "Tactical Relay",
+        "Sensor"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 328
+    },
+    "dbs32c-siegeofcoruscant": {
+      "name": "DBS-32C",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 585
+    },
+    "dbs404": {
+      "name": "DBS-404",
+      "subtitle": "Preservation Protocol Not Found",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 12,
+      "slots": [
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Torpedo"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 326
+    },
+    "dbs404-siegeofcoruscant": {
+      "name": "DBS-404",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 586
+    },
+    "separatistbomber": {
+      "name": "Separatist Bomber",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 9,
+      "loadout": 14,
+      "slots": [
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Missile"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 327
+    },
+    "technounionbomber": {
+      "name": "Techno Union Bomber",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 8,
+      "loadout": 12,
+      "slots": [
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Torpedo"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 324
+    }
+  },
+  "Nantex-class Starfighter": {
+    "berwerkret": {
+      "name": "Berwer Kret",
+      "subtitle": "Hive Guard Captain",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 9,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Modification",
+        "Talent",
+        "Configuration"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 358
+    },
+    "chertek": {
+      "name": "Chertek",
+      "subtitle": "Opportunistic Ace",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 14,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Modification",
+        "Talent",
+        "Configuration"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 356
+    },
+    "gorgol": {
+      "name": "Gorgol",
+      "subtitle": "Handy Engineer",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 11,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Modification",
+        "Configuration"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 355
+    },
+    "sunfac": {
+      "name": "Sun Fac",
+      "subtitle": "Archduke’s Enforcer",
+      "limited": 1,
+      "cost": 13,
+      "loadout": 17,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Modification",
+        "Talent",
+        "Talent",
+        "Configuration"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 357
+    },
+    "petranakiarenaace": {
+      "name": "Petranaki Arena Ace",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 10,
+      "loadout": 8,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Modification",
+        "Configuration"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 354
+    },
+    "stalgasinhiveguard": {
+      "name": "Stalgasin Hive Guard",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 9,
+      "loadout": 5,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Modification",
+        "Configuration"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 353
+    }
+  },
+  "Rogue-class Starfighter": {
+    "cadbane-separatistalliance": {
+      "name": "Cad Bane",
+      "subtitle": "Needs No Introduction",
+      "limited": 1,
+      "cost": 11,
+      "loadout": 11,
+      "slots": [
+        "Cannon",
+        "Cannon",
+        "Illicit",
+        "Modification",
+        "Modification",
+        "Talent",
+        "Title",
+        "Missile"
+      ],
+      "keywords": [
+        "Bounty Hunter"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 538
+    },
+    "durge-separatistalliance": {
+      "name": "Durge",
+      "subtitle": "On His Own Time",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 13,
+      "slots": [
+        "Cannon",
+        "Cannon",
+        "Illicit",
+        "Illicit",
+        "Modification",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "Bounty Hunter"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 616
+    },
+    "ig101": {
+      "name": "IG-101",
+      "subtitle": "Tenacious Bodyguard",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 12,
+      "slots": [
+        "Cannon",
+        "Cannon",
+        "Modification",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 539
+    },
+    "ig102": {
+      "name": "IG-102",
+      "subtitle": "Dueling Droid",
+      "limited": 1,
+      "cost": 10,
+      "loadout": 11,
+      "slots": [
+        "Cannon",
+        "Cannon",
+        "Modification",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 540
+    },
+    "ig111": {
+      "name": "IG-111",
+      "subtitle": "One Eye",
+      "limited": 1,
+      "cost": 9,
+      "loadout": 7,
+      "slots": [
+        "Cannon",
+        "Cannon",
+        "Modification",
+        "Modification"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 541
+    },
+    "magnaguardprotector": {
+      "name": "MagnaGuard Protector",
+      "subtitle": "Implacable Escort",
+      "limited": 2,
+      "cost": 10,
+      "loadout": 10,
+      "slots": [
+        "Cannon",
+        "Cannon",
+        "Modification",
+        "Modification",
+        "Talent"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 542
+    },
+    "magnaguardexecutioner": {
+      "name": "MagnaGuard Executioner",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 9,
+      "loadout": 8,
+      "slots": [
+        "Cannon",
+        "Cannon",
+        "Modification",
+        "Modification"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 543
+    }
+  },
+  "Sith Infiltrator": {
+    "066": {
+      "name": "0-66",
+      "subtitle": "Sinister Automaton",
+      "limited": 1,
+      "cost": 12,
+      "loadout": 7,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Sensor",
+        "Modification",
+        "Torpedo",
+        "Tactical Relay",
+        "Tech",
+        "Payload",
+        "Title"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 335
+    },
+    "countdooku": {
+      "name": "Count Dooku",
+      "subtitle": "Darth Tyranus",
+      "limited": 1,
+      "cost": 14,
+      "loadout": 8,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Sensor",
+        "Modification",
+        "Force Power",
+        "Force Power",
+        "Tech",
+        "Payload",
+        "Title"
+      ],
+      "keywords": [
+        "Dark Side",
+        "Sith"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 334
+    },
+    "countdooku-siegeofcoruscant": {
+      "name": "Count Dooku",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 15,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Dark Side",
+        "Sith"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 584
+    },
+    "darthmaul": {
+      "name": "Darth Maul",
+      "subtitle": "Sith Assassin",
+      "limited": 1,
+      "cost": 17,
+      "loadout": 20,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Sensor",
+        "Modification",
+        "Force Power",
+        "Force Power",
+        "Tech",
+        "Torpedo",
+        "Payload",
+        "Title"
+      ],
+      "keywords": [
+        "Dark Side",
+        "Sith"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 272
+    },
+    "darkcourier": {
+      "name": "Dark Courier",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 12,
+      "loadout": 6,
+      "slots": [
+        "Crew",
+        "Crew",
+        "Sensor",
+        "Tech",
+        "Payload",
+        "Modification"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 336
+    }
+  },
+  "Trident-class Assault Ship": {
+    "asajjventress-epicsl": {
+      "name": "Asajj Ventress",
+      "subtitle": "Trident",
+      "limited": 1,
+      "cost": 19,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [],
+      "standard": "No",
+      "extended": "No",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 690
+    },
+    "colicoiddestroyer": {
+      "name": "Colicoid Destroyer",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 25,
+      "loadout": 40,
+      "slots": [
+        "Command",
+        "Torpedo",
+        "Hardpoint",
+        "Hardpoint",
+        "Crew",
+        "Crew",
+        "Gunner",
+        "Team",
+        "Cargo",
+        "Title"
+      ],
+      "keywords": [],
+      "standard": "No",
+      "extended": "No",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 475
+    }
+  },
+  "Vulture-class Droid Fighter": {
+    "dfs081": {
+      "name": "DFS-081",
+      "subtitle": "Preservation Programming",
+      "limited": 1,
+      "cost": 6,
+      "loadout": 7,
+      "slots": [
+        "Modification",
+        "Configuration",
+        "Missile"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 311
+    },
+    "dfs081-siegeofcoruscant": {
+      "name": "DFS-081",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 6,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 591
+    },
+    "dfs311": {
+      "name": "DFS-311",
+      "subtitle": "Scouting Drone",
+      "limited": 1,
+      "cost": 6,
+      "loadout": 6,
+      "slots": [
+        "Configuration",
+        "Missile",
+        "Modification"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 337
+    },
+    "dfs311-siegeofcoruscant": {
+      "name": "DFS-311",
+      "subtitle": "Siege of Coruscant",
+      "limited": 1,
+      "cost": 6,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 592
+    },
+    "haorchallprototype-siegeofcoruscant": {
+      "name": "Haor Chall Prototype",
+      "subtitle": "Siege of Coruscant",
+      "limited": 2,
+      "cost": 6,
+      "loadout": 0,
+      "slots": [],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 593
+    },
+    "haorchallprototype": {
+      "name": "Haor Chall Prototype",
+      "subtitle": "Xi Char Offering",
+      "limited": 2,
+      "cost": 6,
+      "loadout": 7,
+      "slots": [
+        "Modification",
+        "Configuration",
+        "Missile"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 310
+    },
+    "kelrodoaiholdout": {
+      "name": "Kelrodo-Ai Holdout",
+      "subtitle": "Separatist Stalwart",
+      "limited": 3,
+      "cost": 6,
+      "loadout": 10,
+      "slots": [
+        "Modification",
+        "Modification"
+      ],
+      "keywords": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 618
+    },
+    "precisehunter": {
+      "name": "Precise Hunter",
+      "subtitle": "Pinpoint Protocols",
+      "limited": 3,
+      "cost": 6,
+      "loadout": 5,
+      "slots": [
+        "Modification",
+        "Cannon",
+        "Configuration"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 309
+    },
+    "theironassembler": {
+      "name": "The Iron Assembler",
+      "subtitle": "Scintilla Scavenger",
+      "limited": 1,
+      "cost": 6,
+      "loadout": 4,
+      "slots": [
+        "Modification",
+        "Configuration",
+        "Missile",
+        "Modification"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 617
+    },
+    "separatistdrone": {
+      "name": "Separatist Drone",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 6,
+      "loadout": 6,
+      "slots": [
+        "Modification",
+        "Configuration",
+        "Missile"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 343
+    },
+    "tradefederationdrone": {
+      "name": "Trade Federation Drone",
+      "subtitle": "",
+      "limited": 0,
+      "cost": 5,
+      "loadout": 3,
+      "slots": [
+        "Modification",
+        "Missile",
+        "Configuration"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "epic": "Yes",
+      "restricted": 0,
+      "yasb_id": 279
+    }
+  }
+}
