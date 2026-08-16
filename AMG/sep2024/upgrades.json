@@ -4945,7 +4945,7 @@
         "standard": true,
         "extended": true,
         "epic": true,
-        "restrictions": [],
+        "restrictions": [{ "action": { "type": "SLAM" } }],
         "slots": [
             "Illicit"
         ]
